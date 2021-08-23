@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/game-console-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-08-17T09:59:54-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/7271441006766</id>
+    <published>2021-08-17T09:59:54-04:00</published>
+    <updated>2021-08-17T09:59:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/hdmi-port-connector-compatible-for-playstation-4-slim-pro"/>
+    <title>HDMI Port Connector Compatible For PlayStation 4 Slim &amp; Pro</title>
+    <s:type>HDMI Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Sony-Playstation-4-PS4-Pro-Slim-HDMI-Connector-Jack-Display-Port-Socket.jpg?v=1629208793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>HDMI Port<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">High quality replacement HDMI Port Connector Compatible For Sony PlayStation 4 Slim &amp; Pro use this part if your port is damaged or if you are having display issues with your gaming system.</span></p>
+<p data-mce-fragment="1">*requires soldering<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Game console</s:tag>
+    <s:tag>HDMI Port</s:tag>
+    <s:tag>hdmi port connector</s:tag>
+    <s:tag>hdmi port socket</s:tag>
+    <s:tag>PlayStation</s:tag>
+    <s:tag>PlayStation 4 Pro</s:tag>
+    <s:tag>PlayStation 4 Slim</s:tag>
+    <s:tag>PS4 Pro</s:tag>
+    <s:tag>PS4 Slim</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>Sony</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7271441006766</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14998</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7271404404910</id>
+    <published>2021-08-17T09:43:50-04:00</published>
+    <updated>2021-08-17T09:43:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/hdmi-port-connector-compatible-for-playstation-4"/>
+    <title>HDMI Port Connector Compatible For PlayStation 4</title>
+    <s:type>HDMI Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/HDMIport-Sony-Replacement-HDMI-Port-Socket-Interface-Connector-Playstation-4-PS4.jpg?v=1629207831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>HDMI Port<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">High quality replacement HDMI Port Connector Compatible For Sony PlayStation 4 use this part if your port is damaged or if you are having display issues with your gaming system.</span></p>
+<p><span data-mce-fragment="1">Compatible Models: CUH-1000, CUH-1100 and CUH-1200</span></p>
+<p><span data-mce-fragment="1">*requires soldering</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Game console</s:tag>
+    <s:tag>HDMI Port</s:tag>
+    <s:tag>hdmi port connector</s:tag>
+    <s:tag>hdmi port socket</s:tag>
+    <s:tag>Pl</s:tag>
+    <s:tag>PlayStation</s:tag>
+    <s:tag>PlayStation 4</s:tag>
+    <s:tag>PS4</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>Sony</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7271404404910</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>UNLKR14997</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7264556908718</id>
+    <published>2021-08-14T10:36:00-04:00</published>
+    <updated>2021-08-14T10:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/hdmi-port-connector-compatible-for-xbox-one"/>
+    <title>HDMI Port Connector Compatible For Xbox One</title>
+    <s:type>HDMI Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/xboxone-hdmi-port-replacement-game-console-microsoft-socket-port-HDMI.jpg?v=1628951851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>HDMI Port<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">High quality replacement HDMI Port Connector Compatible For Microsoft Xbox One use this part if your port is damaged or if you are having display issues with your gaming system.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Game console</s:tag>
+    <s:tag>HDMI Port</s:tag>
+    <s:tag>hdmi port connector</s:tag>
+    <s:tag>hdmi port socket</s:tag>
+    <s:tag>Microsoft</s:tag>
+    <s:tag>Microsoft xbox</s:tag>
+    <s:tag>Xbox</s:tag>
+    <s:tag>Xbox One</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7264556908718</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14996</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7260868935854</id>
+    <published>2021-08-12T11:43:21-04:00</published>
+    <updated>2021-08-12T11:43:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/hdmi-port-connector-compatible-for-xbox-one-x"/>
+    <title>HDMI Port Connector Compatible For Xbox One X</title>
+    <s:type>HDMI Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/HDMI-Port-Connector-Socket-Replacement-Microsoft-Xbox-One-X.jpg?v=1628783214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>HDMI Port<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">High quality replacement HDMI Port Connector Compatible For Xbox One X use this part if your port is damaged or you simply want to replace the original one.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Game console</s:tag>
+    <s:tag>HDMI Port</s:tag>
+    <s:tag>hdmi port connector</s:tag>
+    <s:tag>hdmi port socket</s:tag>
+    <s:tag>Microsoft</s:tag>
+    <s:tag>Microsoft xbox</s:tag>
+    <s:tag>X Box One X</s:tag>
+    <s:tag>Xbox</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7260868935854</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR14995</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7259177025710</id>
+    <published>2021-08-11T11:44:00-04:00</published>
+    <updated>2021-08-11T11:44:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/hdmi-port-connector-compatible-for-xbox-one-s-slim"/>
+    <title>HDMI Port Connector Compatible For Xbox One S Slim</title>
+    <s:type>HDMI Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/HDMI-Port-Connector-Socket-Replacement-Microsoft-Xbox-One-S-Slim-1.jpg?v=1628696641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>HDMI Port<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">High quality replacement HDMI Port Connector Compatible For Xbox One S Slim use it to replace the original port or a damaged one.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Game console</s:tag>
+    <s:tag>HDMI Port</s:tag>
+    <s:tag>hdmi port connector</s:tag>
+    <s:tag>hdmi port socket</s:tag>
+    <s:tag>Microsoft</s:tag>
+    <s:tag>Microsoft xbox</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>Xbox</s:tag>
+    <s:tag>XBOX ONE S</s:tag>
+    <s:tag>Xbox One Slim</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7259177025710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14990</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6679256203438</id>
+    <published>2021-05-12T18:09:06-04:00</published>
+    <updated>2021-05-12T18:09:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lcd-compatible-for-nintendo-switch"/>
+    <title>LCD Compatible For Nintendo Switch</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lcd-replacement-part-for-nintendo-switch-new.jpg?v=1620857347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: justify;" dir="ltr">For Nintendo Switch Only</p>
+<ul>
+<li>LCD </li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3 dir="ltr">Lifetime Warranty</h3>
+<p style="text-align: justify;" dir="ltr">This replacement LCD Compatible For Nintendo Switch comes with lifetime warranty, as our other LCD Repair Parts. Unless there is physical damage</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LCD</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;" mce-data-marked="1">Nintendo Switch</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 508px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Console</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>Nintendo Switch</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6679256203438</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>UNLKR14748</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4784476389481</id>
+    <published>2020-08-31T12:34:36-04:00</published>
+    <updated>2020-08-31T12:34:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/charging-port-for-nintendo-switch-switch-lite"/>
+    <title>Charging Port For Nintendo Switch &amp; Switch Lite</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1598891629Nintendo_Switch_Lite_Charging_20Port-500x500.jpg?v=1598891680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            4.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Nintendo Switch &amp; Switch Lite charging port replacement? If you damaged your Nintendo Switch &amp; Switch Lite and broke the charging port it can be repaired!</p>
+<p>You can replace your broken Nintendo Switch &amp; Switch Lite charging port using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Nintendo Switch &amp; Switch Lite charging port come with a lifetime warranty, as the other Google Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Charging port</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Nintendo Switch &amp; Switch Lite</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nintendo Switch</s:tag>
+    <s:tag>Switch Lite</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4784476389481</id>
+      <title>Nintendo Switch</title>
+      <s:price currency="CAD">4.29</s:price>
+      <s:sku>UNLKR14554</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4784476389481</id>
+      <title>Nintendo Switch Lite</title>
+      <s:price currency="CAD">4.29</s:price>
+      <s:sku>UNLKR14555</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/samsung-galaxy-s6-edge-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T16:30:51-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641323585641</id>
+    <published>2019-07-28T16:30:51-04:00</published>
+    <updated>2019-07-28T16:30:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s6-edge-rear-panel"/>
+    <title>Galaxy S6 Edge Rear Panel</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s6-edge-rear-panel-at-amp-t-0-jpg.jpg?v=1571618417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or cracked rear glass panel on your Galaxy S6 Edge smartphone.  This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>404SC</s:tag>
+    <s:tag>G9250</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge</s:tag>
+    <s:tag>SC-04G</s:tag>
+    <s:tag>SM-G9250</s:tag>
+    <s:tag>SM-G925A</s:tag>
+    <s:tag>SM-G925D</s:tag>
+    <s:tag>SM-G925F</s:tag>
+    <s:tag>SM-G925FQ</s:tag>
+    <s:tag>SM-G925I</s:tag>
+    <s:tag>SM-G925K</s:tag>
+    <s:tag>SM-G925L</s:tag>
+    <s:tag>SM-G925S</s:tag>
+    <s:tag>SM-G925T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641323585641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>UNLKR13813</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641323487337</id>
+    <published>2019-07-28T16:30:22-04:00</published>
+    <updated>2019-07-28T16:30:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s6-edge-rear-camera-bezel-lens-cover"/>
+    <title>Galaxy S6 Edge Rear Camera Bezel &amp; Lens Cover</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s6-edge-rear-camera-bezel-amp-lens-cover-gold-0-jpg.jpg?v=1571618386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Scratched or broken lens cover?  Replace the metal bezel and lens cover for the rear-facing camera.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>G9250</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>Galaxy S6 edge G925F</s:tag>
+    <s:tag>Galaxy S6 edge G925T</s:tag>
+    <s:tag>Galaxy S6 edge G925W8</s:tag>
+    <s:tag>Galaxy S6 G920A</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S6 edge</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641323487337</id>
+      <title>Gold</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13812</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641323487337</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13809</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641323487337</id>
+      <title>White</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13810</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641323487337</id>
+      <title>Blue</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13811</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641323356265</id>
+    <published>2019-07-28T16:29:59-04:00</published>
+    <updated>2019-07-28T16:29:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s6-edge-sim-card-tray"/>
+    <title>Galaxy S6 Edge SIM Card Tray</title>
+    <s:type>SIM Card Tray</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s6-edge-sim-card-tray-0-jpg.jpg?v=1571618366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>SIM Card Tray<br>
+        <strong>Price: </strong>
+            3.99 - 7.99
+            <a href="https://unlockr.ca/products/galaxy-s6-edge-sim-card-tray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or missing white nano SIM card tray so your SIM card works for the life of your phone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G9250</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641323356265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR13802</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641323356265</id>
+      <title>Black</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13803</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641323356265</id>
+      <title>Gold</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13804</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641323290729</id>
+    <published>2019-07-28T16:29:43-04:00</published>
+    <updated>2019-07-28T16:29:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s6-edge-rear-camera"/>
+    <title>Galaxy S6 Edge Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s6-edge-rear-camera-0-jpg.jpg?v=1571618348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix your broken camera!  Replace the 16 MP rear facing camera in your Galaxy S6 Edge.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>G9250</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>Galaxy S6 edge G925F</s:tag>
+    <s:tag>Galaxy S6 edge G925T</s:tag>
+    <s:tag>Galaxy S6 edge G925W8</s:tag>
+    <s:tag>Galaxy S6 G920A</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S6 edge</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641323290729</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13801</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641323257961</id>
+    <published>2019-07-28T16:29:29-04:00</published>
+    <updated>2019-07-28T16:29:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s6-edge-earpiece-speaker-assembly"/>
+    <title>Galaxy S6 Edge Earpiece Speaker Assembly</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s6-edge-earpiece-speaker-assembly-0-jpg.jpg?v=1571618330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the earpiece speaker assembly for a Samsung Galaxy S6 Edge.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>404SC</s:tag>
+    <s:tag>G9250</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge</s:tag>
+    <s:tag>SC-04G</s:tag>
+    <s:tag>SM-G9250</s:tag>
+    <s:tag>SM-G925A</s:tag>
+    <s:tag>SM-G925D</s:tag>
+    <s:tag>SM-G925F</s:tag>
+    <s:tag>SM-G925FQ</s:tag>
+    <s:tag>SM-G925I</s:tag>
+    <s:tag>SM-G925K</s:tag>
+    <s:tag>SM-G925L</s:tag>
+    <s:tag>SM-G925S</s:tag>
+    <s:tag>SM-G925T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641323257961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR13799</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641322930281</id>
+    <published>2019-07-28T16:28:55-04:00</published>
+    <updated>2019-07-28T16:28:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s6-edge-touch-screen-adhesive"/>
+    <title>Galaxy S6 Edge Touch Screen Adhesive</title>
+    <s:type>Display Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s6-edge-touch-screen-adhesive-0-jpg.jpg?v=1571618299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Display Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This custom cut adhesive film secures the front glass digitizer screen to the midframe assembly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Display Adhesive</s:tag>
+    <s:tag>G9250</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S6 edge</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641322930281</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13795</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641322897513</id>
+    <published>2019-07-28T16:28:38-04:00</published>
+    <updated>2019-07-28T16:28:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s6-edge-power-button-cable"/>
+    <title>Galaxy S6 Edge Power Button Cable</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s6-edge-power-button-cable-0-jpg.jpg?v=1571618268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace power button ribbon cable with the internal button switch and contacts.The external power button cover is not included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G9250</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641322897513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13793</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641322864745</id>
+    <published>2019-07-28T16:28:23-04:00</published>
+    <updated>2019-07-28T16:28:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s6-edge-charging-coil-conductor"/>
+    <title>Galaxy S6 Edge Charging Coil Conductor</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s6-edge-charging-coil-conductor-0-jpg.jpg?v=1571618252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a defective charging coil conductor.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>404SC</s:tag>
+    <s:tag>G9250</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge</s:tag>
+    <s:tag>SC-04G</s:tag>
+    <s:tag>SM-G9250</s:tag>
+    <s:tag>SM-G925A</s:tag>
+    <s:tag>SM-G925D</s:tag>
+    <s:tag>SM-G925F</s:tag>
+    <s:tag>SM-G925FQ</s:tag>
+    <s:tag>SM-G925I</s:tag>
+    <s:tag>SM-G925K</s:tag>
+    <s:tag>SM-G925L</s:tag>
+    <s:tag>SM-G925S</s:tag>
+    <s:tag>SM-G925T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641322864745</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR13791</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641322700905</id>
+    <published>2019-07-28T16:28:06-04:00</published>
+    <updated>2019-07-28T16:28:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s6-edge-charging-daughter-board"/>
+    <title>Galaxy S6 Edge Charging Daughter Board G925F</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s6-edge-charging-daughter-board-at-amp-t-0-jpg.jpg?v=1579045568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace the daughter board that includes the USB port, headphone jack, and the primary microphone.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G9250</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641322700905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR13790</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641322504297</id>
+    <published>2019-07-28T16:27:33-04:00</published>
+    <updated>2019-07-28T16:27:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s6-edge-midframe-global"/>
+    <title>Galaxy S6 Edge Midframe (Global)</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s6-edge-midframe-global-0-jpg.jpg?v=1571618219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged midframe in your Galaxy S6 Edge smartphone. This assembly includes the power and volume buttons as well as the metal and plastic frame and edge bezel. This is a used OEM part.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>404SC</s:tag>
+    <s:tag>G9250</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge</s:tag>
+    <s:tag>SC-04G</s:tag>
+    <s:tag>SM-G9250</s:tag>
+    <s:tag>SM-G925A</s:tag>
+    <s:tag>SM-G925D</s:tag>
+    <s:tag>SM-G925F</s:tag>
+    <s:tag>SM-G925FQ</s:tag>
+    <s:tag>SM-G925I</s:tag>
+    <s:tag>SM-G925K</s:tag>
+    <s:tag>SM-G925L</s:tag>
+    <s:tag>SM-G925S</s:tag>
+    <s:tag>SM-G925T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641322504297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>UNLKR13784</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641322340457</id>
+    <published>2019-07-28T16:26:55-04:00</published>
+    <updated>2019-07-28T16:26:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s6-edge-battery-adhesive-strips"/>
+    <title>Galaxy S6 Edge Battery Adhesive Strips</title>
+    <s:type>Battery Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s6-edge-battery-adhesive-strips-0-jpg.jpg?v=1571618179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Battery Adhesive<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Use these custom adhesive strips to secure a Galaxy S6 Edge battery to the midframe.Removal or replacement of the battery may require installing new adhesive strips.Due to continuing improvements, actual product may differ slightly from photo.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Battery Adhesive</s:tag>
+    <s:tag>G9250</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S6 edge</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641322340457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>UNLKR13779</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641321193577</id>
+    <published>2019-07-28T16:22:50-04:00</published>
+    <updated>2019-07-28T16:22:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s6-s6-edge-vibrator"/>
+    <title>Galaxy S6/S6 Edge Vibrator</title>
+    <s:type>Vibrator</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s6-s6-edge-vibrator-0-jpg.jpg?v=1571617880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Vibrator<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Has your Galaxy S6 or S6 Edge lost its buzz?  Replace a malfunctioning vibrator motor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>404SC</s:tag>
+    <s:tag>G9200</s:tag>
+    <s:tag>G9250</s:tag>
+    <s:tag>Galaxy S6</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S6</s:tag>
+    <s:tag>Samsung Galaxy S6 edge</s:tag>
+    <s:tag>SC-04G</s:tag>
+    <s:tag>SM-G9250</s:tag>
+    <s:tag>SM-G925A</s:tag>
+    <s:tag>SM-G925D</s:tag>
+    <s:tag>SM-G925F</s:tag>
+    <s:tag>SM-G925FQ</s:tag>
+    <s:tag>SM-G925I</s:tag>
+    <s:tag>SM-G925K</s:tag>
+    <s:tag>SM-G925L</s:tag>
+    <s:tag>SM-G925S</s:tag>
+    <s:tag>SM-G925T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641321193577</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR13751</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/1335911448681</id>
+    <published>2018-09-05T15:16:12-04:00</published>
+    <updated>2018-09-05T15:16:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s6-edge-lcd-screen-and-digitizer"/>
+    <title>Samsung Galaxy S6 Edge LCD Screen and Digitizer</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/S6_Edge_36faa119-80fb-4860-b908-4044487691f5.png?v=1620490573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung S6 Edge screen replacement ? If you dropped your Samsung Galaxy S6 Edge and broke the front glass it can be repaired ! You can replace your broken Samsung screen using our high quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>The OEM Screens for Samsung Galaxy S6 Edge LCD Screens and Digitizers has <strong>components from original screens.</strong> For customers who demand the <strong>same standard as original repair parts</strong>, the OEM Samsung parts has you covered.</p>
+<ul>
+<li>OEM AMOLED LCD &amp; Digitizer Assembly</li>
+<li>OEM Touch Digitizer and IC</li>
+<li>OEM Glass Lens</li>
+<li>OEM Backlight</li>
+<li>OEM Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy S6 Edge LCD Screens and Digitizers come with lifetime warranty, as the other Samsung LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S6 Edge (5.5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G925F</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>404SC</s:tag>
+    <s:tag>G925F</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>S6 Edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge Digitizer</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge LCD</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge LCD and Digitizer</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge Screen</s:tag>
+    <s:tag>SC-04G</s:tag>
+    <s:tag>SM-G9250</s:tag>
+    <s:tag>SM-G925A</s:tag>
+    <s:tag>SM-G925D</s:tag>
+    <s:tag>SM-G925F</s:tag>
+    <s:tag>SM-G925FQ</s:tag>
+    <s:tag>SM-G925I</s:tag>
+    <s:tag>SM-G925K</s:tag>
+    <s:tag>SM-G925L</s:tag>
+    <s:tag>SM-G925S</s:tag>
+    <s:tag>SM-G925T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/1335911448681</id>
+      <title>White</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>UNLKR14487</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/1335911448681</id>
+      <title>Black</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>UNLKR11556</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/752197435497</id>
+    <published>2018-03-21T19:51:01-04:00</published>
+    <updated>2018-03-21T19:51:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s6-edge-battery-original"/>
+    <title>Samsung Galaxy S6 Edge Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Samsung-Galaxy-S6-Edge-Replacement-Battery-1.jpg?v=1620490290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have a Samsung S6 Edge that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your Samsung Galaxy S6 Edge </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> ? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your cell phone only works when the battery is plugged in ?</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new Samsung S6 Edge replacement battery.</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The old battery in your cell phone can outgrow inside and damage the internals.</span></p>
+<p>The OEM Batteries for Samsung Galaxy S6 Edge are <strong>brand-new batteries</strong> coming directly from our manufacturer. They are custom built for customers who demand the <strong>same quality as original Samsung batteries. </strong></p>
+<ul>
+<li>Zero cycle count</li>
+<li>Tested under extreme weather</li>
+<li>No wrapping for a better fit</li>
+<li>High output current capacity</li>
+<li>1 Year Warranty</li>
+</ul>
+<h3>Compatibility</h3>
+<p>This battery is only compatible with a Samsung Galaxy S6 Edge.</p>
+<h3>Warranty</h3>
+<p>The Replacement Samsung Galaxy S6 Edge Battery comes with 1 year warranty, as the other Samsung Battery Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S6 Edge (5.1")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-size: 12pt;">G925F / G925W8</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.91px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>404SC</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>G925F</s:tag>
+    <s:tag>G925W8</s:tag>
+    <s:tag>Galaxy S6 edge</s:tag>
+    <s:tag>S6 Edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge Battery</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge G925F</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge G925W8</s:tag>
+    <s:tag>Samsung Galaxy S6 Edge OEM</s:tag>
+    <s:tag>SC-04G</s:tag>
+    <s:tag>SM-G9250</s:tag>
+    <s:tag>SM-G925A</s:tag>
+    <s:tag>SM-G925D</s:tag>
+    <s:tag>SM-G925F</s:tag>
+    <s:tag>SM-G925FQ</s:tag>
+    <s:tag>SM-G925I</s:tag>
+    <s:tag>SM-G925K</s:tag>
+    <s:tag>SM-G925L</s:tag>
+    <s:tag>SM-G925S</s:tag>
+    <s:tag>SM-G925T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/752197435497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR11533</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-iphone-6-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2020-07-30T13:13:54-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/4763813544041</id>
+    <published>2020-07-30T13:13:54-04:00</published>
+    <updated>2020-07-30T13:13:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/wifi-antenna-flex-connector-for-iphone-6"/>
+    <title>Wifi antenna flex connector for iPhone 6</title>
+    <s:type>Flex Cable</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/wifi-antenna-flex-connector-for-iphone-6-4-7-0-jpg.jpg?v=1596129238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Flex Cable<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>iPhone 6 Signal Flex Cable Ribbon Wifi Cable</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>antenna</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>connector</s:tag>
+    <s:tag>flex</s:tag>
+    <s:tag>iphone</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>wifi</s:tag>
+    <s:tag>Wifi Antenna Flex</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4763813544041</id>
+      <title>Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14530</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4328268267625</id>
+    <published>2019-10-29T22:52:19-04:00</published>
+    <updated>2019-10-29T22:52:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-nano-sim-card-tray"/>
+    <title>iPhone 6 Nano SIM Card Tray</title>
+    <s:type>SIM Card Tray</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-nano-sim-card-tray-black-0-jpg_a9503d2a-bdea-4451-85b8-9e82a8debeea.jpg?v=1572403945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>SIM Card Tray<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a bent or missing SIM card tray. This tray holds the nano SIM card and is inserted on the side of the phone. This part is compatible with an iPhone 6.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328268267625</id>
+      <title>Black</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>UNLKR14281</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328268267625</id>
+      <title>Silver</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>UNLKR14282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328268267625</id>
+      <title>Gold</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>UNLKR14283</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328268267625</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>UNLKR14284</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4257270268009</id>
+    <published>2019-10-13T20:54:50-04:00</published>
+    <updated>2019-10-13T20:54:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-plus-salvaged-front-facing-camera-assembly-with-sensors-2-pack"/>
+    <title>iPhone 6 Plus Salvaged Front-Facing Camera Assembly With Sensors (2-Pack)</title>
+    <s:type>Small Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Small Parts<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p>This iPhone 6 Plus Salvaged Front-Facing Camera with Sensors Flex is designed to allow the replacement of your broken camera and is salvaged from a broken device. It includes the front-facing camera, secondary microphone, ambient light and proximity sensors.</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone Front-Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 506.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone 6 Plus (5.5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 506.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1549 / A1586 / A1589</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.531px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 506.531px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Apple</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.531px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.531px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1522</s:tag>
+    <s:tag>A1524</s:tag>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>A1593</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone 6 Plus</s:tag>
+    <s:tag>Refurbished</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4257270268009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR11764</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4257269874793</id>
+    <published>2019-10-13T20:54:36-04:00</published>
+    <updated>2019-10-13T20:54:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-salvaged-front-facing-camera-assembly-with-sensors-2-pack"/>
+    <title>iPhone 6 Salvaged Front-Facing Camera Assembly With Sensors (2-Pack)</title>
+    <s:type>Small Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Small Parts<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p>This iPhone 6 Salvaged Front-Facing Camera with Sensors Flex is designed to allow the replacement of your broken camera and is salvaged from a broken device. It includes the front-facing camera, secondary microphone, ambient light and proximity sensors.</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone Front-Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 506.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone 6 (4.7")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 506.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1549 / A1586 / A1589</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.531px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 506.531px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Apple</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.531px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.531px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>Refurbished</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4257269874793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR11763</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4183710335081</id>
+    <published>2019-10-06T20:41:48-04:00</published>
+    <updated>2019-10-06T20:41:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-front-camera-and-sensor-cable"/>
+    <title>iPhone 6 Front Camera and Sensor Cable</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the front camera and sensor cable on your iPhone 6 to fix a malfunctioning selfie camera or problems with noise cancellation.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183710335081</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12591</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641219317865</id>
+    <published>2019-07-28T13:32:52-04:00</published>
+    <updated>2019-07-28T13:32:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-and-6-plus-earpiece-speaker-mesh"/>
+    <title>iPhone 6 and 6 Plus Earpiece Speaker Mesh</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-and-6-plus-earpiece-speaker-mesh-0-jpg.jpg?v=1571607146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a punctured or missing mesh and plastic bezel covering the earpiece speaker opening in an iPhone 6 or 6 Plus and keep dust and dirt from blocking the earpiece speaker.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1522</s:tag>
+    <s:tag>A1524</s:tag>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1593</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>Apple iPhone 6 Plus</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>iPhone 6 Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641219317865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR12651</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641219285097</id>
+    <published>2019-07-28T13:32:41-04:00</published>
+    <updated>2019-07-28T13:32:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-lcd-shield-plate-sticker"/>
+    <title>iPhone 6 LCD Shield Plate Sticker</title>
+    <s:type>Shield Plate</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-lcd-shield-plate-sticker-0-jpg.jpg?v=1571607132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Shield Plate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a torn or missing black adhesive cover on the back of the metal LCD shield plate in an iPhone 6. This adhesive holds the home button link cable on the back of the LCD shield plate.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641219285097</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12649</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641219088489</id>
+    <published>2019-07-28T13:31:59-04:00</published>
+    <updated>2019-07-28T13:31:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-and-6-plus-home-button-bracket"/>
+    <title>iPhone 6 and 6 Plus Home Button Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-and-6-plus-home-button-bracket-0-jpg.jpg?v=1571607088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a bent or missing metal bracket securing the home button assembly to the inside of an iPhone 6 or 6 Plus display assembly and fix a loose connection causing an unresponsive home button.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1522</s:tag>
+    <s:tag>A1524</s:tag>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1593</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>Apple iPhone 6 Plus</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>iPhone 6 Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641219088489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR12644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641218924649</id>
+    <published>2019-07-28T13:31:19-04:00</published>
+    <updated>2019-07-28T13:31:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-and-6-plus-front-facing-camera-holder"/>
+    <title>iPhone 6 and 6 Plus Front-Facing Camera Holder</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-and-6-plus-front-facing-camera-holder-0-jpg.jpg?v=1571607038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or missing plastic guide that centers the front-facing camera over the camera lens opening in the front glass panel of an iPhone 6 or 6 Plus.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1522</s:tag>
+    <s:tag>A1524</s:tag>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1593</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>Apple iPhone 6 Plus</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>iPhone 6 Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641218924649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR12637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641218859113</id>
+    <published>2019-07-28T13:31:07-04:00</published>
+    <updated>2019-07-28T13:31:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-power-button"/>
+    <title>iPhone 6 Power Button</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-power-button-0-jpg.jpg?v=1571607011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a silver external power button cover for the iPhone 6. This is just the external part and does not include the cable. This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641218859113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12635</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641218793577</id>
+    <published>2019-07-28T13:30:56-04:00</published>
+    <updated>2019-07-28T13:30:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-rear-camera-bracket"/>
+    <title>iPhone 6 Rear Camera Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-rear-camera-bracket-0-jpg.jpg?v=1571606998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a bent or missing metal bracket securing the iPhone 6 Rear Camera to the rear case.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641218793577</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12634</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641218695273</id>
+    <published>2019-07-28T13:30:44-04:00</published>
+    <updated>2019-07-28T13:30:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-audio-control-cable"/>
+    <title>iPhone 6 Audio Control Cable</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-audio-control-cable-0-jpg.jpg?v=1571606971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the audio control cable on your iPhone 6 to fix an unresponsive volume button or broken mute switch.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641218695273</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641218629737</id>
+    <published>2019-07-28T13:30:32-04:00</published>
+    <updated>2019-07-28T13:30:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-lightning-connector-cable-conductive-adhesive"/>
+    <title>iPhone 6 Lightning Connector Cable Conductive Adhesive</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-lightning-connector-cable-conductive-adhesive-0-jpg.jpg?v=1571606959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the gold-colored conductive adhesive area on the flex cable of the iPhone 6 Lightning Connector and Headphone Jack.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641218629737</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>UNLKR12632</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641218531433</id>
+    <published>2019-07-28T13:30:06-04:00</published>
+    <updated>2019-07-28T13:30:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-earpiece-speaker-bracket"/>
+    <title>iPhone 6 Earpiece Speaker Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-earpiece-speaker-bracket-0-jpg.jpg?v=1571606924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a bent or missing metal bracket securing the Earpiece Speaker to the back of the iPhone 6 LCD and Digitizer.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641218531433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12627</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641218465897</id>
+    <published>2019-07-28T13:29:55-04:00</published>
+    <updated>2019-07-28T13:29:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-microphone-brace"/>
+    <title>iPhone 6 Microphone Brace</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-microphone-brace-0-jpg.jpg?v=1571606897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a missing or damaged brace for your microphone. This tiny black plastic brace is fixed to the case with one screw and holds the microphone in place at the bottom edge of an iPhone 6.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641218465897</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12626</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641218302057</id>
+    <published>2019-07-28T13:29:30-04:00</published>
+    <updated>2019-07-28T13:29:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-c1530-bl-cap"/>
+    <title>iPhone 6 C1530 BL Cap</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-c1530-bl-cap-0-jpg.jpg?v=1571606837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a BL Cap on the logic board of an iPhone 6, component labels C1530, C1531, or C1505. This part requires micro soldering.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641218302057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR12621</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641218236521</id>
+    <published>2019-07-28T13:29:20-04:00</published>
+    <updated>2019-07-28T13:29:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-and-6-plus-proximity-sensor-frame"/>
+    <title>iPhone 6 and 6 Plus Proximity Sensor Frame</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-and-6-plus-proximity-sensor-frame-0-jpg.jpg?v=1571606825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a missing or damaged frame for your proximity sensor. This tiny clear plastic frame is adhered to the back of the front glass panel near the top edge and holds the proximity sensor centered over the small window in the front glass.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641218236521</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR12620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641218170985</id>
+    <published>2019-07-28T13:29:09-04:00</published>
+    <updated>2019-07-28T13:29:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-power-button-cable"/>
+    <title>iPhone 6 Power Button Cable</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-power-button-cable-new-0-jpg.jpg?v=1571606813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the power button cable on your iPhone 6 to fix and unresponsive power button.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641218170985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>UNLKR12619</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641217974377</id>
+    <published>2019-07-28T13:28:52-04:00</published>
+    <updated>2019-07-28T13:28:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-blank-rear-case"/>
+    <title>iPhone 6 Blank Rear Case</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-blank-rear-case-black-0-jpg.jpg?v=1571606794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or dented rear case for the iPhone 6.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641217974377</id>
+      <title>Black</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>UNLKR12616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641217974377</id>
+      <title>Silver</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>UNLKR12617</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641217974377</id>
+      <title>Gold</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>UNLKR12618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641217777769</id>
+    <published>2019-07-28T13:28:31-04:00</published>
+    <updated>2019-07-28T13:28:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-lcd-shield-plate"/>
+    <title>iPhone 6 LCD Shield Plate</title>
+    <s:type>Shield Plate</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-lcd-shield-plate-0-jpg.jpg?v=1571606766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Shield Plate<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a bent or missing metal plate between the LCD and the rest of the internal parts in an iPhone 6. This shield diffuses heat and protects the back of the LCD.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641217777769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR12614</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641217581161</id>
+    <published>2019-07-28T13:28:09-04:00</published>
+    <updated>2019-07-28T13:28:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-vibrator"/>
+    <title>iPhone 6 Vibrator</title>
+    <s:type>Vibrator</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-vibrator-0-jpg.jpg?v=1571606726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Vibrator<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning linear oscillating vibrator in an iPhone 6 and fix problems with haptic feedback and silent vibration alerts.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641217581161</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12612</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641217515625</id>
+    <published>2019-07-28T13:27:58-04:00</published>
+    <updated>2019-07-28T13:27:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-c5202-rf"/>
+    <title>iPhone 6 C5202_RF</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-c5202-rf-0-jpg.jpg?v=1571606714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a C5202_RF filter on the logic board of an iPhone 6. This part requires micro soldering.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641217515625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12611</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641217417321</id>
+    <published>2019-07-28T13:27:35-04:00</published>
+    <updated>2019-07-28T13:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-power-button-cable-and-bracket"/>
+    <title>iPhone 6 Power Button Cable and Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-power-button-cable-and-bracket-new-0-jpg.jpg?v=1570409045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the internal power button switch and cable with its metal bracket. This part is compatible with an iPhone 6 smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641217417321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12608</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641217319017</id>
+    <published>2019-07-28T13:27:18-04:00</published>
+    <updated>2019-07-28T13:27:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-case-button-set"/>
+    <title>iPhone 6 Case Button Set</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-case-button-set-black-0-jpg.jpg?v=1571606658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or missing exterior case button for your iPhone 6. Gray tone to match the case of the Black iPhone 6.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641217319017</id>
+      <title>Black</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR12605</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641217319017</id>
+      <title>Silver</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR12606</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641217319017</id>
+      <title>Gold</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR12607</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641217220713</id>
+    <published>2019-07-28T13:27:06-04:00</published>
+    <updated>2019-07-28T13:27:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6-grounding-bracket"/>
+    <title>iPhone 6 Grounding Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6-grounding-bracket-0-jpg.jpg?v=1571606644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the small metal bracket that connects the top left corner of the logic board to the rear case in an iPhone 6.  See the bracket's location in the detail photo.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1586</s:tag>
+    <s:tag>A1589</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641217220713</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>UNLKR12604</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

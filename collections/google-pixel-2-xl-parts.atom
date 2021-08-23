@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/google-pixel-2-xl-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T15:15:11-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641280823401</id>
+    <published>2019-07-28T15:15:11-04:00</published>
+    <updated>2019-07-28T15:15:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-front-camera-gasket-pads"/>
+    <title>Google Pixel 2 XL Front Camera Gasket Pads</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-front-camera-gasket-pads-0-jpg.jpg?v=1570415051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the adhesive gasket ring on the lens end of the front-facing camera of a Google Pixel 2 XL smartphone.Set of 5 foam gasket pads.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641280823401</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13387</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641280626793</id>
+    <published>2019-07-28T15:14:57-04:00</published>
+    <updated>2019-07-28T15:14:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-fingerprint-sensor"/>
+    <title>Google Pixel 2 XL Fingerprint Sensor</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-fingerprint-sensor-black-used-0-jpg.jpg?v=1571613631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning fingerprint sensor and its flex cable. This part is compatible with a Google Pixel 2 XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641280626793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>UNLKR13386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641280594025</id>
+    <published>2019-07-28T15:14:42-04:00</published>
+    <updated>2019-07-28T15:14:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-left-edge-pressure-sensor"/>
+    <title>Google Pixel 2 XL Left Edge Pressure Sensor</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-left-edge-pressure-sensor-used-0-jpg.jpg?v=1571613614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or malfunctioning left edge pressure sensor flex cable assembly. This part is compatible with a Google Pixel 2 XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641280594025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641280430185</id>
+    <published>2019-07-28T15:14:29-04:00</published>
+    <updated>2019-07-28T15:14:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-dual-microphone"/>
+    <title>Google Pixel 2 XL Dual Microphone</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or malfunctioning dual microphone flex cable. This part is compatible with a Google Pixel 2 XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641280430185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641280200809</id>
+    <published>2019-07-28T15:14:13-04:00</published>
+    <updated>2019-07-28T15:14:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-power-and-volume-button-flex-cable"/>
+    <title>Google Pixel 2 XL Power and Volume Button Flex Cable</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-power-and-volume-button-flex-cable-new-0-jpg.jpg?v=1571613588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix an unresponsive audio control or power button by replacing the flex cable containing the internal power and volume button switches. This part is compatible with a Google Pixel 2 XL smartphone.  The external volume button covers and the plastic bracket are not included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641280200809</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13383</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641279971433</id>
+    <published>2019-07-28T15:13:59-04:00</published>
+    <updated>2019-07-28T15:13:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-power-and-volume-button-flex-cable-and-bracket"/>
+    <title>Google Pixel 2 XL Power and Volume Button Flex Cable and Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-power-and-volume-button-flex-cable-and-bracket-0-jpg.jpg?v=1571613574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix an unresponsive audio control or power button by replacing the flex cable containing the internal power and volume button switches with its plastic bracket. This part is compatible with a Google Pixel 2 XL smartphone.  The external volume button covers are not included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641279971433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13382</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641279774825</id>
+    <published>2019-07-28T15:13:44-04:00</published>
+    <updated>2019-07-28T15:13:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-rear-case"/>
+    <title>Google Pixel 2 XL Rear Case</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-rear-case-a-stock-black-0-jpg.jpg?v=1571613557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a cracked or scratched rear case. This part is compatible with a Google Pixel 2 XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641279774825</id>
+      <title>Black</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>UNLKR13381</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641279545449</id>
+    <published>2019-07-28T15:13:30-04:00</published>
+    <updated>2019-07-28T15:13:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-right-edge-pressure-sensor"/>
+    <title>Google Pixel 2 XL Right Edge Pressure Sensor</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-right-edge-pressure-sensor-used-0-jpg.jpg?v=1571613542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or malfunctioning right side pressure sensor flex cable assembly. This part is compatible with a Google Pixel 2 XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641279545449</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13379</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641279447145</id>
+    <published>2019-07-28T15:13:14-04:00</published>
+    <updated>2019-07-28T15:13:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-front-camera"/>
+    <title>Google Pixel 2 XL Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-front-camera-0-jpg.jpg?v=1571613527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or malfunctioning 8 MP front-facing camera in a Google Pixel 2 XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641279447145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>UNLKR13378</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641279316073</id>
+    <published>2019-07-28T15:12:59-04:00</published>
+    <updated>2019-07-28T15:12:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-vibration-motor"/>
+    <title>Google Pixel 2 XL Vibration Motor</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-vibration-motor-used-0-jpg.jpg?v=1571613511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix problems with vibration alerts by replacing a malfunctioning vibration motor. This part is compatible with a Google Pixel 2 XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641279316073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13377</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641279283305</id>
+    <published>2019-07-28T15:12:44-04:00</published>
+    <updated>2019-07-28T15:12:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-earpiece-speaker"/>
+    <title>Google Pixel 2 XL Earpiece Speaker</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-earpiece-speaker-new-0-jpg.jpg?v=1571613480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix problems with call audio by replacing a malfunctioning earpiece speaker. This speaker is compatible with a Google Pixel 2 XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641279283305</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13376</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641279185001</id>
+    <published>2019-07-28T15:12:29-04:00</published>
+    <updated>2019-07-28T15:12:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-loudspeaker"/>
+    <title>Google Pixel 2 XL Loudspeaker</title>
+    <s:type>Loudspeaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-loudspeaker-new-0-jpg.jpg?v=1571613465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Loudspeaker<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Restore speakerphone audio by replacing a malfunctioning loudspeaker. This part is compatible with a Google Pixel 2 XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audio</s:tag>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Loudspeaker</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:tag>Speaker</s:tag>
+    <s:tag>Speakerphone</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641279185001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>UNLKR13375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641279086697</id>
+    <published>2019-07-28T15:12:10-04:00</published>
+    <updated>2019-07-28T15:12:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-sim-card-tray"/>
+    <title>Google Pixel 2 XL SIM Card Tray</title>
+    <s:type>SIM Card Tray</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-sim-card-tray-black-0-jpg.jpg?v=1571613446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>SIM Card Tray<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a bent or missing tray holding the nano SIM card in your smartphone. This part is compatible with a Google Pixel 2 XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641279086697</id>
+      <title>Black</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13373</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641279086697</id>
+      <title>White</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13374</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641279021161</id>
+    <published>2019-07-28T15:11:54-04:00</published>
+    <updated>2019-07-28T15:11:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-rear-camera"/>
+    <title>Google Pixel 2 XL Rear Camera</title>
+    <s:type>Rear Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-rear-camera-0-jpg.jpg?v=1594236673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Rear Camera<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace the rear-facing 12.2 MP camera for a Google Pixel 2 XL smartphone.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL G011C</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641279021161</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>UNLKR13372</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641278955625</id>
+    <published>2019-07-28T15:11:35-04:00</published>
+    <updated>2019-07-28T15:11:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-charging-assembly"/>
+    <title>Google Pixel 2 XL Charging Assembly</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-charging-assembly-new-0-jpg.jpg?v=1571613415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or corroded USB port and charging daughter board for a Google Pixel 2 XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641278955625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR13371</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641278922857</id>
+    <published>2019-07-28T15:11:20-04:00</published>
+    <updated>2019-07-28T15:11:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-earpiece-speaker-dust-mesh"/>
+    <title>Google Pixel 2 XL Earpiece Speaker Dust Mesh</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-earpiece-speaker-dust-mesh-0-jpg.jpg?v=1571613400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the fine mesh screen that covers the earpiece speaker opening in a Google Pixel 2 XL smartphone.Adhesive is included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641278922857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641278431337</id>
+    <published>2019-07-28T15:10:19-04:00</published>
+    <updated>2019-07-28T15:10:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-upper-rear-glass-panel"/>
+    <title>Google Pixel 2 XL Upper Rear Glass Panel</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-upper-rear-glass-panel-black-0-jpg.jpg?v=1571613367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a cracked or scratched upper rear glass panel. This part is compatible with a Google Pixel 2 XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641278431337</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13365</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641278431337</id>
+      <title>White</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641278201961</id>
+    <published>2019-07-28T15:10:05-04:00</published>
+    <updated>2019-07-28T15:10:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-display-adhesive"/>
+    <title>Google Pixel 2 XL Display Adhesive</title>
+    <s:type>Display Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-display-adhesive-0-jpg.jpg?v=1592339820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Display Adhesive<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This adhesive film secures the front glass digitizer screen to the frame of a Google Pixel 2 XL smartphone. Complete your replacement of the front glass with new adhesive. There is no measuring cutting, trimming, or shaping needed with these custom cut adhesive strips.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Display Adhesive</s:tag>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641278201961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13364</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3488996393065</id>
+    <published>2019-04-16T00:39:14-04:00</published>
+    <updated>2019-04-16T00:39:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-battery"/>
+    <title>Google Pixel 2 XL Battery BL-T35</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-battery-replacement.png?v=1607631730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have a Google Pixel 2 XL that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your Google Pixel 2 XL </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> ? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your cell phone only works when the battery is plugged in ?</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new Google Pixel 2 XL replacement battery.</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The old battery in your cell phone can outgrow inside and damage the internals.</span></p>
+<p>The OEM Batteries for Google Pixel 2 XL are <strong>brand-new batteries</strong> coming directly from our manufacturer. They are custom built for customers who demand the <strong>same quality as original Google Pixel 2 XL batteries. </strong></p>
+<ul>
+<li>Zero cycle count</li>
+<li>Tested under extreme weather</li>
+<li>No wrapping for a better fit</li>
+<li>High output current capacity</li>
+<li>1 Year Warranty</li>
+</ul>
+<h3>Compatibility</h3>
+<p>This battery is only compatible with a Google Pixel 2 XL.</p>
+<h3>Warranty</h3>
+<p>The Replacement Google Pixel 2 XL Battery comes with 1 year warranty, as the other Google Battery Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Google Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Google Pixel 2 XL (6")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-size: 12pt;">G011A</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Google</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3488996393065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>UNLKR11887</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/1336836685929</id>
+    <published>2018-09-07T13:20:14-04:00</published>
+    <updated>2018-09-07T13:20:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-2-xl-lcd-screen-and-digitizer"/>
+    <title>LCD Screen and Digitizer For Google Pixel 2 XL</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-2-xl-display-assembly-Black_x700_711b3490-c53b-4fab-aa93-c432442b7cd9.png?v=1620490521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            154.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The OEM Screens for Google Pixel 2 XL LCD Screens and Digitizers includes <strong>components from original screens.</strong> For customers who demand the <strong>same standard as original repair parts</strong>, the OEM Google parts has you covered.</p>
+<ul>
+<li>OEM AMOLED LCD &amp; Digitizer Assembly</li>
+<li>OEM Touch Digitizer and IC</li>
+<li>OEM Glass Lens</li>
+<li>OEM Backlight</li>
+<li>OEM Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Google Pixel 2 XL LCD Screens and Digitizers come with lifetime warranty, as the other LG LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Google LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Pixel 2 XL (6")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G011C</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G011C</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 2 XL</s:tag>
+    <s:tag>Google Pixel 2 XL Digitizer</s:tag>
+    <s:tag>Google Pixel 2 XL G011C</s:tag>
+    <s:tag>Google Pixel 2 XL LCD</s:tag>
+    <s:tag>Google Pixel 2 XL LCD Screen and Digitizer</s:tag>
+    <s:tag>Google Pixel 2 XL Screen</s:tag>
+    <s:tag>Pixel 2 XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/1336836685929</id>
+      <title>Black</title>
+      <s:price currency="CAD">154.99</s:price>
+      <s:sku>UNLKR11555</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

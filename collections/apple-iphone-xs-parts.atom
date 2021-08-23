@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-iphone-xs-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-04-19T13:06:13-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/6626349645998</id>
+    <published>2021-04-19T13:06:13-04:00</published>
+    <updated>2021-04-19T13:06:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/earpiece-speaker-and-sensor-assembly-for-iphone-xs"/>
+    <title>Earpiece Speaker and Sensor Assembly For iPhone XS</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ear-speaker-for-iphone-xs-0-jpg.jpg?v=1618851978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Condition: new for: iphone XS,</p>
+<p>Model: iphone XS A1920 A2097 A2098 A2100 </p>
+<p> </p>
+<p>Replace a malfunctioning earpiece speaker and sensor assembly and fix problems with phone call audio and some sensor functions. This speaker is used to listen while the phone is held to your ear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1920</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2098</s:tag>
+    <s:tag>A2100</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>ear</s:tag>
+    <s:tag>iphone</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:tag>new for</s:tag>
+    <s:tag>speaker</s:tag>
+    <s:tag>XSModel</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6626349645998</id>
+      <title>Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR14713</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6605499072686</id>
+    <published>2021-04-05T16:46:03-04:00</published>
+    <updated>2021-04-05T16:46:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/wireless-charging-nfc-with-volume-assembly-flex-for-iphone-xs"/>
+    <title>Wireless charging NFC With Volume Assembly Flex For iPhone XS</title>
+    <s:type>Volume Flex</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/wireless-charging-nfc-volume-assembly-flex-for-iphone-xs-0-jpg.jpg?v=1617655568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Volume Flex<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For iPhone XS</p>
+<p>Volume Flex Assembly is already soldered to the NFC Wireless charging coil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1920</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2098</s:tag>
+    <s:tag>A2100</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>assembly</s:tag>
+    <s:tag>charging</s:tag>
+    <s:tag>flex</s:tag>
+    <s:tag>iphone</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:tag>new for</s:tag>
+    <s:tag>NFC</s:tag>
+    <s:tag>volume</s:tag>
+    <s:tag>wireless</s:tag>
+    <s:tag>XSModel</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6605499072686</id>
+      <title>Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR14697</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6273124139182</id>
+    <published>2021-01-22T20:33:48-05:00</published>
+    <updated>2021-01-22T20:33:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/rear-camera-lens-compatible-for-iphone-xs-xs-max"/>
+    <title>Rear Camera lens Compatible for iPhone XS / XS Max</title>
+    <s:type>Camera Lens</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/back-camera-lens-for-iphone-xs-0-jpg_116cb42c-b078-49f1-97ac-b091122e7f0d.jpg?v=1611365708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Camera Lens<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This iPhone XS Rear Camera Lens is designed to allow the replacement of your broken Camera Lens. </p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 66px; border-collapse: collapse; border-style: solid; border-color: #000000; width: 100%;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 45.7906%; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 52.2245%; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Rear Camera Lens</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 45.7906%; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 52.2245%; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone XS &amp; XS MAX</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 45.7906%; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 52.2245%; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 45.7906%; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 52.2245%; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1920</s:tag>
+    <s:tag>A1921</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2098</s:tag>
+    <s:tag>A2100</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>back</s:tag>
+    <s:tag>camera</s:tag>
+    <s:tag>iphone</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:tag>lens</s:tag>
+    <s:tag>new for</s:tag>
+    <s:tag>XSModel</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6273124139182</id>
+      <title>Color</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14632</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6013600563374</id>
+    <published>2020-10-26T19:00:04-04:00</published>
+    <updated>2020-10-26T19:00:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/volume-vibration-flex-with-bracket-for-iphone-xs"/>
+    <title>Volume &amp; Vibration Flex With Bracket For iPhone XS</title>
+    <s:type>Flex Cables</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1603753171Volume_vibration_flex_switch_new_for_iPhone_XS_a1920.png?v=1603753209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Flex Cables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Volume Flex &amp; Vibration Flex for iPhone XS is designed to allow the replacement of your broken volume and vibration button. This Flex connects volume buttons &amp; vibration switch to the iPhone's logic board.</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-size: 12pt;">iPhone Flex Cables</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone XS</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1920</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1920</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2098</s:tag>
+    <s:tag>A2100</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:tag>Power  Flex Cable</s:tag>
+    <s:tag>Volume</s:tag>
+    <s:tag>Volume Flex Cable</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6013600563374</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR14596</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4309132509289</id>
+    <published>2019-10-24T00:41:19-04:00</published>
+    <updated>2019-10-24T00:41:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/frame-back-housing-assembly-with-small-parts-for-iphone-xs"/>
+    <title>Frame Back Housing Assembly With Small Parts For iPhone XS</title>
+    <s:type>Housing</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphonexsbackhousing-complete-assembly-with-all-parts1500x1500.jpg?v=1620504048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Housing<br>
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p>The iPhone XS Back Housing with Power and Volume buttons, Rear Camera Lens, charging connector, wireless charging coil, vibration motor. For replacement of the broken rear housing of your device.</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone Back Housing</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone XS (5.8")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif;">A1920</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1865</s:tag>
+    <s:tag>A1901</s:tag>
+    <s:tag>A1902</s:tag>
+    <s:tag>A1903</s:tag>
+    <s:tag>A1920</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Back Housing</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone X</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4309132509289</id>
+      <title>Space Grey</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>UNLKR14253</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4309132509289</id>
+      <title>Silver</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>UNLKR14254</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4309132509289</id>
+      <title>Gold</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>UNLKR14255</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4294612353129</id>
+    <published>2019-10-20T16:13:30-04:00</published>
+    <updated>2019-10-20T16:13:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-xs-replacement-battery-1"/>
+    <title>Replacement Battery For iPhone XS</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-xs-replacement-battery-0-jpg_1a580e99-fa91-4ae8-abfe-f97c3c13eafa.jpg?v=1605123832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Replacement Battery is what you need to bring that dead iPhone back to life. This battery is brand new! Each one has been tested to confirm that there are no cycles on the cell and that the capacity is 95% or higher.Installation adhesive is included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1920</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2098</s:tag>
+    <s:tag>A2100</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone XS</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:tag>iPhone XS A1920</s:tag>
+    <s:tag>iPhone XS A2097</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4294612353129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>UNLKR12008</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4182193897577</id>
+    <published>2019-10-05T19:52:00-04:00</published>
+    <updated>2019-10-05T19:52:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-waterproof-frame-bezel-seal-tape-adhesive-pack-of-10"/>
+    <title>iPhone Screen Waterproof Frame Bezel Seal Tape Adhesive (Pack of 10)</title>
+    <s:type>LCD Adhesives</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/LCD_Adhesive_Seal_For_iPhone_XR.jpg?v=1618858694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>LCD Adhesives<br>
+        <strong>Price: </strong>
+            7.99 - 8.99
+            <a href="https://unlockr.ca/products/iphone-waterproof-frame-bezel-seal-tape-adhesive-pack-of-10">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-size: 14px; font-weight: 400;">This iPhone waterproof Frame Bezel Seal Adhesive is required to ensure the LCD is properly attached to the frame of the phone after a screen repair.</p>
+<p style="font-size: 14px; font-weight: 400;">This is a pack of 10 LCD adhesives.</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-size: 12pt;">Adhesive Strips</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 506.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.91px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1660</s:tag>
+    <s:tag>A1661</s:tag>
+    <s:tag>A1863</s:tag>
+    <s:tag>A1864</s:tag>
+    <s:tag>A1865</s:tag>
+    <s:tag>A1901</s:tag>
+    <s:tag>A1902</s:tag>
+    <s:tag>A1903</s:tag>
+    <s:tag>A1920</s:tag>
+    <s:tag>A1921</s:tag>
+    <s:tag>A2105</s:tag>
+    <s:tag>A2221</s:tag>
+    <s:tag>A2342</s:tag>
+    <s:tag>A2410</s:tag>
+    <s:tag>A2411</s:tag>
+    <s:tag>A2412</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone 12 Pro Max</s:tag>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:tag>iPhone 8</s:tag>
+    <s:tag>iPhone 8 Plus</s:tag>
+    <s:tag>iPhone X</s:tag>
+    <s:tag>iPhone XR</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:tag>iPhone XS Max</s:tag>
+    <s:tag>Seal</s:tag>
+    <s:tag>Waterproof Adhesive Seal</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4182193897577</id>
+      <title>iPhone 7</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR14421</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4182193897577</id>
+      <title>iPhone 7 Plus</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR14296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4182193897577</id>
+      <title>iPhone 8</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR14207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4182193897577</id>
+      <title>iPhone 8 Plus</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR14209</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4182193897577</id>
+      <title>iPhone X</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR11974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4182193897577</id>
+      <title>iPhone XR</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR14206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4182193897577</id>
+      <title>iPhone XS Max</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR14211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4182193897577</id>
+      <title>iPhone XS</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR14631</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4182193897577</id>
+      <title>iPhone 11</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR14553</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4182193897577</id>
+      <title>iPhone 12 Pro Max</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR14826</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4116815577193</id>
+    <published>2019-09-23T12:01:08-04:00</published>
+    <updated>2019-09-23T12:01:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-xs-lcd-screen-and-digitizer"/>
+    <title>Screen and Digitizer For iPhone XS</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iPhone_XS_Replacement_LCD_Replacement_Part_for_A1920.jpg?v=1620491033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            79.99 - 134.99
+            <a href="https://unlockr.ca/products/iphone-xs-lcd-screen-and-digitizer">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Select</strong></h3>
+<p>The Select screens for iPhone XS are LCD Screens. They are offered if you operate in a price-competitive market where value is most important. The screens also go through strict quality assurance testing.</p>
+<ul>
+<li>High Brightness Backlight</li>
+<li>Aligned Front Camera Ring</li>
+<li>Foam Connector Pads</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Certified (Recommended)</strong></h3>
+<p>The Certified screens for <strong>iPhone XS OLED</strong> are built with <strong>noticeably higher brightness and contrast </strong>than others. Certified screens are custom built to match or <strong>exceed our strict specification standards</strong> in terms of brightness and color reproduction.</p>
+<ul>
+<li>Color calibrated Soft OLED &amp; Digitizer</li>
+<li>High Brightness Backlight</li>
+<li>Aligned Front Camera Ring</li>
+<li>Foam Connector Pads</li>
+<li>Proximity Sensor Bracket</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement iPhone XS LCD Screens and Digitizers come with lifetime warranty, as the other replacement parts for iPhone.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone XS (5.8")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1920</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.91px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1920</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2098</s:tag>
+    <s:tag>A2100</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>OLED</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4116815577193</id>
+      <title>Select</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>UNLKR14163</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4116815577193</id>
+      <title>Certified</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>UNLKR11620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641193496681</id>
+    <published>2019-07-28T12:29:12-04:00</published>
+    <updated>2019-07-28T12:29:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-xs-vibrator"/>
+    <title>iPhone XS Vibrating Motor</title>
+    <s:type>Vibrator</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-xs-vibrator-new-0-jpg.jpg?v=1571602494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Vibrator<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p>
+<p><br>Fix problems with vibration alerts and haptic feedback by replacing a malfunctioning linear oscillator motor. Also called the Taptic engine</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1920</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2098</s:tag>
+    <s:tag>A2100</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone XS</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641193496681</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641193463913</id>
+    <published>2019-07-28T12:29:03-04:00</published>
+    <updated>2019-07-28T12:29:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-xs-wireless-charging-antenna"/>
+    <title>iPhone XS Wireless Charging Coil &amp; Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-xs-wireless-charging-antenna-0-jpg.jpg?v=1574896528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged or malfunctioning internal inductive charging coil adhered to the rear case in an iPhone XS and fix problems with wireless charging. This coil is soldered to the flex cable for the Audio Control Cable Assembly. Replacing this component requires microsoldering.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1920</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2098</s:tag>
+    <s:tag>A2100</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone XS</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641193463913</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>UNLKR12015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641193365609</id>
+    <published>2019-07-28T12:28:53-04:00</published>
+    <updated>2019-07-28T12:28:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-xs-cell-antenna-feed-flex-cable"/>
+    <title>iPhone XS Cell Antenna Feed Flex Cable</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-xs-cell-antenna-feed-flex-cable-0-jpg.jpg?v=1571602473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a torn or damaged cellular antenna feed line flex cable. This cable connects the logic board to parts of the rear case.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A2097</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone XS</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641193365609</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR12014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641193300073</id>
+    <published>2019-07-28T12:28:39-04:00</published>
+    <updated>2019-07-28T12:28:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-xs-aftermarket-blank-rear-glass-panel-with-lens-cover"/>
+    <title>iPhone XS Aftermarket Blank Rear Glass Panel with Lens Cover</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-xs-aftermarket-blank-rear-glass-panel-with-lens-cover-black-0-jpg.jpg?v=1571602456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or scratched rear panel and camera lens cover with this new blank aftermarket rear panel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1920</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2098</s:tag>
+    <s:tag>A2100</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone XS</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641193300073</id>
+      <title>Black</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR12011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641193300073</id>
+      <title>White</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR12012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641193300073</id>
+      <title>Gold</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR12013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641193234537</id>
+    <published>2019-07-28T12:28:29-04:00</published>
+    <updated>2019-07-28T12:28:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-xs-lightning-connector-assembly"/>
+    <title>iPhone XS Charging Connector Assembly</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-xs-lightning-connector-assembly-black-0-jpg.jpg?v=1571602443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            9.99 - 14.99
+            <a href="https://unlockr.ca/products/iphone-xs-lightning-connector-assembly">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p>
+<p><br>This replacement ChargingConnector Assembly for an iPhone XS is your solution to connectivity and charging problems. If your phone isn't charging, has connectivity problems, is not recognized when plugged into your computer via USB, or has trouble recording audio, this part may fix the problem.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1920</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2098</s:tag>
+    <s:tag>A2100</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone XS</s:tag>
+    <s:tag>Charging port</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641193234537</id>
+      <title>Certified</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641193234537</id>
+      <title>Original</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14902</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641192874089</id>
+    <published>2019-07-28T12:27:59-04:00</published>
+    <updated>2019-07-28T12:27:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-x-xs-loudspeaker-adhesive-gasket"/>
+    <title>Loudspeaker Adhesive Gasket For iPhone X/XS</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-x-xs-loudspeaker-adhesive-gasket-0-jpg.jpg?v=1598902051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace the adhesive foam gasket that fits between the loudspeaker and the speaker opening in the rear case of an iPhone X or iPhone XS. This gasket helps seal liquid and dust out of an iPhone.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1865</s:tag>
+    <s:tag>A1901</s:tag>
+    <s:tag>A1902</s:tag>
+    <s:tag>A1903</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone X</s:tag>
+    <s:tag>Apple iPhone XS</s:tag>
+    <s:tag>iPhone X</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641192874089</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR12007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641192677481</id>
+    <published>2019-07-28T12:27:27-04:00</published>
+    <updated>2019-07-28T12:27:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-xs-xs-max-power-button-and-flash-cable"/>
+    <title>Power Button and Flash Cable with brackets For iPhone XS/XS Max</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-xs-xs-max-power-button-and-flash-cable-0-jpg.jpg?v=1599072650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fix an unresponsive power button or malfunctioning flash with this replacement assembly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1920</s:tag>
+    <s:tag>A1921</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2098</s:tag>
+    <s:tag>A2100</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone XS</s:tag>
+    <s:tag>Apple iPhone XS Max</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:tag>iPhone XS Max</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641192677481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>UNLKR12003</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641192611945</id>
+    <published>2019-07-28T12:27:16-04:00</published>
+    <updated>2019-07-28T12:27:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-xs-xs-max-rear-camera"/>
+    <title>iPhone XS/XS Max Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-xs-xs-max-rear-camera-0-jpg.jpg?v=1574708929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            87.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a malfunctioning dual 12 MP rear-facing camera assembly. This assembly is compatible with an iPhone XS or iPhone XS Max smartphone. If your camera has sensor issues, problems focusing, or is malfunctioning, you'll want to replace this part.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1920</s:tag>
+    <s:tag>A1921</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2098</s:tag>
+    <s:tag>A2100</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone XS</s:tag>
+    <s:tag>Apple iPhone XS Max</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:tag>iPhone XS Max</s:tag>
+    <s:tag>iPhone XS Max A1921</s:tag>
+    <s:tag>iPhone XS Max A2101</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641192611945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">87.99</s:price>
+      <s:sku>UNLKR12001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641190056041</id>
+    <published>2019-07-28T12:19:17-04:00</published>
+    <updated>2019-07-28T12:19:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-xs-front-camera-assembly"/>
+    <title>iPhone XS Front Camera Assembly</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-xs-front-camera-assembly-0-jpg.jpg?v=1571602108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            94.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a front-facing camera assembly and restore selfie camera functions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1920</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2098</s:tag>
+    <s:tag>A2100</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone XS</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>iPhone XS</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641190056041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku>UNLKR12017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/744483782761</id>
+    <published>2018-04-09T15:20:03-04:00</published>
+    <updated>2018-04-09T15:20:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/tempered-glass-screen-protector-for-iphone-10-pack"/>
+    <title>Tempered Glass Screen Protector For iPhone 10 Pack</title>
+    <s:type>Tempered Glass</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Tempered_glass_for_iPhone_pack_of_10.png?v=1620497006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Tempered Glass<br>
+        <strong>Price: </strong>
+            9.99 - 17.99
+            <a href="https://unlockr.ca/products/tempered-glass-screen-protector-for-iphone-10-pack">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Pack of 10 Tempered Glasses</strong></h3>
+<p> </p>
+<p style="font-size: 14px; font-weight: 400;">Add an extra layer of protection on your screen of to protect it from scratches and cracking. It is 0.2mm thick at 9H Durability with a 2.5D curve to fit perfectly.</p>
+<p style="font-size: 14px; font-weight: 400;">They have an oleophobic coating to make them oil-resistant and prevent fingerprints to ensure perfect image clarity and touch sensitivity.</p>
+<p style="font-size: 14px; font-weight: 400;">The 0.2mm thickness and flexibility makes them very easy to apply.</p>
+<p style="font-size: 14px; font-weight: 400;"> </p>
+<table style="font-size: 14px; font-weight: 400; height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 315.2px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 347.2px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone Tempered Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 315.2px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible With</strong></span></td>
+<td style="width: 347.2px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone</span></td>
+</tr>
+</tbody>
+</table>
+<section>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<p> </p>
+</div>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1453</s:tag>
+    <s:tag>A1456</s:tag>
+    <s:tag>A1522</s:tag>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1633</s:tag>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1660</s:tag>
+    <s:tag>A1661</s:tag>
+    <s:tag>A1863</s:tag>
+    <s:tag>A1864</s:tag>
+    <s:tag>A1865</s:tag>
+    <s:tag>A1921</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2105</s:tag>
+    <s:tag>A2172</s:tag>
+    <s:tag>A2215</s:tag>
+    <s:tag>A2218</s:tag>
+    <s:tag>A2221</s:tag>
+    <s:tag>A2341</s:tag>
+    <s:tag>A2342</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone 11</s:tag>
+    <s:tag>iPhone 11 Pro</s:tag>
+    <s:tag>iPhone 11 Pro Max</s:tag>
+    <s:tag>iPhone 5S</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>iPhone 6S</s:tag>
+    <s:tag>iPhone 6S Plus</s:tag>
+    <s:tag>iPhone 7</s:tag>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:tag>iPhone 8</s:tag>
+    <s:tag>iPhone 8 Plus</s:tag>
+    <s:tag>iPhone SE</s:tag>
+    <s:tag>iPhone X</s:tag>
+    <s:tag>iPhone XR</s:tag>
+    <s:tag>iPhone XS Max</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/744483782761</id>
+      <title>iPhone 5, iPhone 5C, iPhone 5S, iPhone SE</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR11465</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/744483782761</id>
+      <title>iPhone 6, iPhone 6S, iPhone 7, iPhone 8</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR11461</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/744483782761</id>
+      <title>iPhone 6 Plus, iPhone 6S Plus, iPhone 7 Plus, iPhone 8 Plus</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR11462</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/744483782761</id>
+      <title>iPhone XR, iPhone 11</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR11836</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/744483782761</id>
+      <title>iPhone 12, iPhone 12 Pro</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR14871</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/744483782761</id>
+      <title>iPhone X,XS,11 Pro</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR11567</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/744483782761</id>
+      <title>iPhone XS Max,11 Pro Max</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>UNLKR11837</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/744483782761</id>
+      <title>iPhone 12 Pro Max</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14615</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/289735933993</id>
+    <published>2017-11-18T03:54:28-05:00</published>
+    <updated>2017-11-18T03:54:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/tempered-glass-screen-protector-for-iphone"/>
+    <title>Tempered Glass Screen Protector For iPhone</title>
+    <s:type>Tempered Glass</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1607028967iPhone_tempered_glass_back_x700_c57afd61-4b08-4373-89d1-429c6cc7a5d1.png?v=1620490028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Tempered Glass<br>
+        <strong>Price: </strong>
+            1.79 - 3.79
+            <a href="https://unlockr.ca/products/tempered-glass-screen-protector-for-iphone">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><section>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<h3><strong>Tempered Glass Description</strong></h3>
+<p>Tempered Glass for iPhone Devices. They add an extra layer of protection on the screen of the device to protect from bumps and bruises and is 0.2mm thick at 9H Durability with a 2.5D curve to fit perfectly.. They are oil-resistant, prevents fingerprints and ensures image clarity perfect touch sensitivity.</p>
+<h3><strong>Warranty</strong></h3>
+<p>The Replacement Tempered Glass come with a 1 year warranty, as the other tempered glass. </p>
+<table style="font-size: 14px; font-weight: 400; height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone Tempered Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible With</strong></span></td>
+<td style="width: 508px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty<br></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1453</s:tag>
+    <s:tag>A1456</s:tag>
+    <s:tag>A1522</s:tag>
+    <s:tag>A1549</s:tag>
+    <s:tag>A1633</s:tag>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1660</s:tag>
+    <s:tag>A1661</s:tag>
+    <s:tag>A1863</s:tag>
+    <s:tag>A1864</s:tag>
+    <s:tag>A1865</s:tag>
+    <s:tag>A1921</s:tag>
+    <s:tag>A2097</s:tag>
+    <s:tag>A2105</s:tag>
+    <s:tag>A2215</s:tag>
+    <s:tag>A2218</s:tag>
+    <s:tag>A2221</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone 11</s:tag>
+    <s:tag>iPhone 11 Pro</s:tag>
+    <s:tag>iPhone 11 Pro Max</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>iPhone 5 Tempered Glass</s:tag>
+    <s:tag>iPhone 5C Tempered Glass</s:tag>
+    <s:tag>iPhone 5S Tempered Glass</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>iPhone 6 Plus Tempered Glass</s:tag>
+    <s:tag>iPhone 6 Tempered Glass</s:tag>
+    <s:tag>iPhone 6S Tempered Glass</s:tag>
+    <s:tag>iPhone 7 Plus Tempered Glass</s:tag>
+    <s:tag>iPhone 7 Tempered Glass</s:tag>
+    <s:tag>iPhone 8 Plus</s:tag>
+    <s:tag>iPhone 8 Plus Tempered Glass</s:tag>
+    <s:tag>iPhone 8 Tempered Glass</s:tag>
+    <s:tag>iPhone Tempered Glass</s:tag>
+    <s:tag>iPhone XR</s:tag>
+    <s:tag>iPhone XS Max</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/289735933993</id>
+      <title>iPhone 5,iPhone 5C,iPhone 5S,iPhone SE</title>
+      <s:price currency="CAD">1.79</s:price>
+      <s:sku>UNLKR11145</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/289735933993</id>
+      <title>iPhone 6,6S</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>UNLKR11146</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/289735933993</id>
+      <title>iPhone 6 Plus,6S Plus</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>UNLKR11147</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/289735933993</id>
+      <title>iPhone 7/8</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>UNLKR11148</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/289735933993</id>
+      <title>iPhone 7 Plus/8 Plus</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>UNLKR11149</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/289735933993</id>
+      <title>iPhone X/XS/11 Pro</title>
+      <s:price currency="CAD">2.29</s:price>
+      <s:sku>UNLKR11650</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/289735933993</id>
+      <title>iPhone XR/11</title>
+      <s:price currency="CAD">2.29</s:price>
+      <s:sku>UNLKR11652</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/289735933993</id>
+      <title>iPhone XS Max/11 Pro Max</title>
+      <s:price currency="CAD">3.79</s:price>
+      <s:sku>UNLKR11651</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/samsung-galaxy-s7-edge-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-11-19T14:37:07-05:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/4376179441769</id>
+    <published>2019-11-19T14:37:07-05:00</published>
+    <updated>2019-11-19T14:37:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-rear-glass-panel"/>
+    <title>Galaxy S7 Edge Rear Glass Panel</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-edge-rear-glass-panel-black-0-jpg.jpg?v=1574192234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a cracked or scratched rear panel for a Samsung Galaxy S7 Edge smartphone. This is a new OEM rear panel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4376179441769</id>
+      <title>Black</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR13894</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4376179441769</id>
+      <title>Silver</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR13895</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4376179441769</id>
+      <title>Gold</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR13896</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4376179441769</id>
+      <title>White</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR13897</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4376179441769</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR13898</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4376179441769</id>
+      <title>Blue</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR13899</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4184356323433</id>
+    <published>2019-10-06T23:43:26-04:00</published>
+    <updated>2019-10-06T23:43:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-headphone-jack-1"/>
+    <title>Galaxy S7 Edge Headphone Jack</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-edge-headphone-jack-0-jpg.jpg?v=1571619292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken headphone jack!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4184356323433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13910</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641330106473</id>
+    <published>2019-07-28T16:47:18-04:00</published>
+    <updated>2019-07-28T16:47:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-sim-and-sd-card-tray"/>
+    <title>Galaxy S7 Edge SIM and SD Card Tray</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-edge-sim-and-sd-card-tray-black-new-0-jpg.jpg?v=1571619416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Keep your nano SIM and micro SD cards safe with a new card tray!  Replace a damaged card tray so your SIM and SD cards work for the life of your phone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641330106473</id>
+      <title>Black</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13921</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641330106473</id>
+      <title>White</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13922</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641330106473</id>
+      <title>Gold</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13923</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641329778793</id>
+    <published>2019-07-28T16:46:38-04:00</published>
+    <updated>2019-07-28T16:46:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-antenna-cables-global"/>
+    <title>Galaxy S7 Edge Antenna Cables (Global)</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-edge-antenna-cables-global-0-jpg.jpg?v=1571619372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the antenna cables that connect the motherboard to the charging daughter board.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641329778793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13916</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641329680489</id>
+    <published>2019-07-28T16:46:16-04:00</published>
+    <updated>2019-07-28T16:46:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-power-volume-button-covers"/>
+    <title>Galaxy S7 Edge Power &amp; Volume Button Covers</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-edge-power-amp-volume-button-covers-black-0-jpg.jpg?v=1571619347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the three external button covers on your Samsung Galaxy S7 Edge with this part and fix malfunctioning power and volume functions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641329680489</id>
+      <title>Black</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13913</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641329680489</id>
+      <title>Silver</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13914</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641329680489</id>
+      <title>Gold</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13915</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641329418345</id>
+    <published>2019-07-28T16:45:59-04:00</published>
+    <updated>2019-07-28T16:45:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-nfc-antenna"/>
+    <title>Galaxy S7 Edge NFC Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-edge-nfc-antenna-0-jpg.jpg?v=1619727058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace the near field communication antenna in a Galaxy S7 Edge smartphone.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641329418345</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13912</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641329287273</id>
+    <published>2019-07-28T16:45:34-04:00</published>
+    <updated>2019-07-28T16:45:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-headphone-jack"/>
+    <title>Galaxy S7 Edge Headphone Jack</title>
+    <s:type></s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G935</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641329287273</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641329221737</id>
+    <published>2019-07-28T16:45:18-04:00</published>
+    <updated>2019-07-28T16:45:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-speaker-global"/>
+    <title>Galaxy S7 Edge Speaker (Global)</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-edge-speaker-global-0-jpg.jpg?v=1571619272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the main speaker assembly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641329221737</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13909</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641329090665</id>
+    <published>2019-07-28T16:45:02-04:00</published>
+    <updated>2019-07-28T16:45:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-charging-daughter-board"/>
+    <title>Galaxy S7 Edge G935W Charging Daughter Board</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-edge-charging-daughter-board-at-amp-t-0-jpg.jpg?v=1593738637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace the daughter board that includes the USB port, primary microphone, and menu button touch sensors.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641329090665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR13908</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641329025129</id>
+    <published>2019-07-28T16:44:40-04:00</published>
+    <updated>2019-07-28T16:44:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-home-button-and-cable-assembly"/>
+    <title>Galaxy S7 Edge Home Button and Cable Assembly</title>
+    <s:type>Home Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-edge-home-button-and-cable-assembly-black-0-jpg.jpg?v=1571619228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Home Button<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged home button and cable assembly in your Samsung Galaxy S7 Edge with this part. This assembly includes the cable, internal switch, and home button face.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Home Button</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7 edge</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641329025129</id>
+      <title>Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13905</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641329025129</id>
+      <title>White</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13906</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641329025129</id>
+      <title>Gold</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13907</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641328894057</id>
+    <published>2019-07-28T16:44:25-04:00</published>
+    <updated>2019-07-28T16:44:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-antenna-cables"/>
+    <title>Galaxy S7 Edge Antenna Cables</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-edge-antenna-cables-0-jpg.jpg?v=1571619209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the three antenna cables connected to the motherboard.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641328894057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13904</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641328730217</id>
+    <published>2019-07-28T16:44:09-04:00</published>
+    <updated>2019-07-28T16:44:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-midframe"/>
+    <title>Galaxy S7 Edge Midframe</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-edge-midframe-black-0-jpg.jpg?v=1571619191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged metal midframe assembly in your Samsung Galaxy S7 Edge with this part. This assembly includes the motherboard heat pipe, the internal power and volume button switches, and the external power and volume button covers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641328730217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR13903</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641328664681</id>
+    <published>2019-07-28T16:43:48-04:00</published>
+    <updated>2019-07-28T16:43:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-touch-screen-adhesive"/>
+    <title>Galaxy S7 Edge Touch Screen Adhesive</title>
+    <s:type>Display Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-edge-touch-screen-adhesive-three-piece-set-0-jpg.jpg?v=1571619169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Display Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This set of three custom cut adhesive films for a Samsung Galaxy S7 Edge secures the front glass digitizer screen to the phone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Display Adhesive</s:tag>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7 edge</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641328664681</id>
+      <title>Three Piece Set</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13901</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641328664681</id>
+      <title>Full Set</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13902</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641328107625</id>
+    <published>2019-07-28T16:42:27-04:00</published>
+    <updated>2019-07-28T16:42:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-edge-replacement-battery"/>
+    <title>Galaxy S7 Edge Replacement Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-edge-replacement-battery-1-jpg.jpg?v=1571619116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a dead or damaged EB-BG935ABA battery in a Samsung Galaxy S7 Edge.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Galaxy S7 Edge Duos G935FD</s:tag>
+    <s:tag>Galaxy S7 Edge G935A</s:tag>
+    <s:tag>Galaxy S7 Edge G935F</s:tag>
+    <s:tag>Galaxy S7 Edge G935P</s:tag>
+    <s:tag>Galaxy S7 Edge G935T</s:tag>
+    <s:tag>Galaxy S7 Edge G935V</s:tag>
+    <s:tag>Galaxy S7 Edge G935W8</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7 edge</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:tag>SM-G935WZKAXAC</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641328107625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>UNLKR13889</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641327747177</id>
+    <published>2019-07-28T16:41:03-04:00</published>
+    <updated>2019-07-28T16:41:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-s7-edge-sim-card-slot-reader"/>
+    <title>Galaxy S7/S7 Edge SIM Card Slot/Reader</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-s7-edge-sim-card-slot-reader-0-jpg.jpg?v=1571619017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged SIM card socket on the motherboard of a Galaxy S7 or S7 Edge with this part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>Samsung Galaxy S7 edge</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641327747177</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13883</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641326960745</id>
+    <published>2019-07-28T16:39:14-04:00</published>
+    <updated>2019-07-28T16:39:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-s7-edge-rear-camera-bezel"/>
+    <title>Galaxy S7/S7 Edge Rear Camera Lens with frame</title>
+    <s:type>Camera Lens</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-s7-edge-rear-camera-bezel-gold-2-jpg.jpg?v=1574798596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Camera Lens<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace the metal bezel for the rear-facing camera.The lens cover is not included in the bezel.The flash cover is not included in the bezel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>G930</s:tag>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Galaxy S7 G930A</s:tag>
+    <s:tag>Galaxy S7 G930F</s:tag>
+    <s:tag>Galaxy S7 G930P</s:tag>
+    <s:tag>Galaxy S7 G930T</s:tag>
+    <s:tag>Galaxy S7 G930V</s:tag>
+    <s:tag>Galaxy S7 G930W8</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:tag>S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>Samsung Galaxy S7 edge</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:tag>SM-G930WZKAXAC</s:tag>
+    <s:tag>SM-G930WZSAXAC</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641326960745</id>
+      <title>Black</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13871</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641326960745</id>
+      <title>White</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13872</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641326960745</id>
+      <title>Gold</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13873</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641325813865</id>
+    <published>2019-07-28T16:37:44-04:00</published>
+    <updated>2019-07-28T16:37:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-s7-edge-front-camera"/>
+    <title>Galaxy S7/S7 Edge Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-s7-edge-front-camera-0-jpg.jpg?v=1571618820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the 5 MP front facing camera.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>G930</s:tag>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>Samsung Galaxy S7 edge</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641325813865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13856</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641325355113</id>
+    <published>2019-07-28T16:36:12-04:00</published>
+    <updated>2019-07-28T16:36:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-s7-edge-earpiece-speaker"/>
+    <title>Galaxy S7/S7 Edge Earpiece Speaker</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-s7-edge-earpiece-speaker-0-jpg.jpg?v=1571618702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the earpiece speaker assembly in a Samsung Galaxy S7 or S7 Edge.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>Samsung Galaxy S7 edge</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641325355113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13844</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/1326464073833</id>
+    <published>2018-08-16T00:38:08-04:00</published>
+    <updated>2018-08-16T00:38:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s7-edge-lcd-screen-and-digitizer"/>
+    <title>Samsung Galaxy S7 Edge LCD Screen and Digitizer</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Samsung_Galaxy_S7_Edge_complete_assembly.png?v=1620490482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung S7 Edge screen replacement ? If you dropped your Samsung Galaxy S7 Edge and broke the front glass it can be repaired ! You can replace your broken Samsung screen using our high quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>The OEM Screens for Samsung Galaxy S7 Edge LCD Screens and Digitizers has <strong>components from original screens.</strong> For customers who demand the <strong>same standard as original repair parts</strong>, the OEM Samsung parts has you covered.</p>
+<ul>
+<li>OEM AMOLED LCD &amp; Digitizer Assembly</li>
+<li>OEM Touch Digitizer and IC</li>
+<li>OEM Glass Lens</li>
+<li>OEM Backlight</li>
+<li>OEM Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy S7 Edge LCD Screens and Digitizers come with lifetime warranty, as the other Samsung LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S7 Edge (5.5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G935F</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G935</s:tag>
+    <s:tag>G935F</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>S7 Edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy</s:tag>
+    <s:tag>Samsung Galaxy S7 Digitizer</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge G935F</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge LCD</s:tag>
+    <s:tag>Samsung Galaxy S7 Edge Screen</s:tag>
+    <s:tag>Samsung Galaxy S7 LCD Screen and Digitizer</s:tag>
+    <s:tag>SC-02H</s:tag>
+    <s:tag>SM-G9350</s:tag>
+    <s:tag>SM-G935F</s:tag>
+    <s:tag>SM-G935FD</s:tag>
+    <s:tag>SM-G935K</s:tag>
+    <s:tag>SM-G935L</s:tag>
+    <s:tag>SM-G935S</s:tag>
+    <s:tag>SM-G935W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/1326464073833</id>
+      <title>Black</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>UNLKR11549</s:sku>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/samsung-galaxy-s9-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-06-02T16:00:46-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/6866321440942</id>
+    <published>2021-06-02T16:00:46-04:00</published>
+    <updated>2021-06-02T16:00:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/single-sim-card-tray-compatible-for-samsung-galaxy-s9-s9-plus"/>
+    <title>Single SIM Card Tray Compatible For Samsung Galaxy S9 &amp; S9 Plus</title>
+    <s:type>SIM Card Tray</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s9-galaxy-s9plus-samsung-sim-tray-black.jpg?v=1622728136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>SIM Card Tray<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p>
+<br>Keep your nano SIM and micro SD cards safe with a new card tray! Replace a damaged card tray so your SIM and SD cards work for the life of your phone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G960</s:tag>
+    <s:tag>G9608</s:tag>
+    <s:tag>G960D</s:tag>
+    <s:tag>G960F</s:tag>
+    <s:tag>G960N</s:tag>
+    <s:tag>G960U</s:tag>
+    <s:tag>G960W</s:tag>
+    <s:tag>G965</s:tag>
+    <s:tag>G965D</s:tag>
+    <s:tag>G965F</s:tag>
+    <s:tag>G965N</s:tag>
+    <s:tag>G965U</s:tag>
+    <s:tag>G965W</s:tag>
+    <s:tag>Galaxy S9</s:tag>
+    <s:tag>Galaxy S9 Plus</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6866321440942</id>
+      <title>Black</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR14841</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6866321440942</id>
+      <title>Gray</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR14834</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4330306437225</id>
+    <published>2019-10-30T18:44:23-04:00</published>
+    <updated>2019-10-30T18:44:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/light-sensor-flex-for-samsung-s9"/>
+    <title>Light sensor flex for Samsung S9</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/S9_20light_20sensor_20flex-1500x1500.jpg?v=1572475468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ambiant Light sensor flex for Samsung S9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G960</s:tag>
+    <s:tag>G9600</s:tag>
+    <s:tag>G960A</s:tag>
+    <s:tag>G960F</s:tag>
+    <s:tag>G960I</s:tag>
+    <s:tag>G960S</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy S9</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S9</s:tag>
+    <s:tag>SCV38</s:tag>
+    <s:tag>SM-G960</s:tag>
+    <s:tag>SM-G9600</s:tag>
+    <s:tag>SM-G960F</s:tag>
+    <s:tag>SM-G960N</s:tag>
+    <s:tag>SM-G960U</s:tag>
+    <s:tag>SM-G960U1</s:tag>
+    <s:tag>SM-G960W</s:tag>
+    <s:tag>SM-G960X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4330306437225</id>
+      <title>Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR14297</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4328140800105</id>
+    <published>2019-10-29T21:32:05-04:00</published>
+    <updated>2019-10-29T21:32:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-uv-cured-tempered-glass-screen-protector"/>
+    <title>Samsung Galaxy UV Curved Tempered Glass Screen Protector</title>
+    <s:type>Tempered Glass</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Curved-full-adhesive-glue-tempered-glass-for-Samsung-LG-uv-light.jpg?v=1620847414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Tempered Glass<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><section>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<h3><strong>UV Light Tempered Glass Description</strong></h3>
+<p>Tempered Glass for Samsung Devices. They add an extra layer of protection on the screen of the device to protect from bumps and bruises and is 0.2mm thick at 9H Durability with a 2.5D curve to fit perfectly.. They are oil-resistant, prevents fingerprints and ensures image clarity perfect touch sensitivity.</p>
+<table style="font-size: 14px; font-weight: 400; height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung UV Tempered Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible With</strong></span></td>
+<td style="width: 508px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G950</s:tag>
+    <s:tag>G955</s:tag>
+    <s:tag>G960</s:tag>
+    <s:tag>G965</s:tag>
+    <s:tag>G970</s:tag>
+    <s:tag>G973</s:tag>
+    <s:tag>G975</s:tag>
+    <s:tag>G980</s:tag>
+    <s:tag>G985</s:tag>
+    <s:tag>G991</s:tag>
+    <s:tag>G996</s:tag>
+    <s:tag>G998</s:tag>
+    <s:tag>Galaxy S9 Plus</s:tag>
+    <s:tag>N960</s:tag>
+    <s:tag>N970</s:tag>
+    <s:tag>N975</s:tag>
+    <s:tag>N985</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SC-03K</s:tag>
+    <s:tag>SCV39</s:tag>
+    <s:tag>SM-G9650</s:tag>
+    <s:tag>SM-G965F</s:tag>
+    <s:tag>SM-G965N</s:tag>
+    <s:tag>SM-G965U</s:tag>
+    <s:tag>SM-G965U1</s:tag>
+    <s:tag>SM-G965W</s:tag>
+    <s:tag>SM-G965X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>Note 9</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14570</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S8/S9</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S8 Plus/S9 Plus</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14272</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S10</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14273</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S10E</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14274</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S10 Plus</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14275</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>Note 10</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14382</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>Note 10 Plus</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S20</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14495</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S20 Plus</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14497</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>Note 20 Ultra</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14672</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S21</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14744</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S21 Plus</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14745</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S21 Ultra</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14746</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S20 FE</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14952</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4308338442345</id>
+    <published>2019-10-23T16:32:35-04:00</published>
+    <updated>2019-10-23T16:32:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s9-fingerprint-reader"/>
+    <title>Fingerprint Reader For Samsung Galaxy S9 &amp; S9 Plus</title>
+    <s:type>Flex Cable</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1571862717G960_Samsung_S9_fingerprint_Reader.jpg?v=1583877961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Flex Cable<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy S9 &amp; S9 Plus Fingerprint reader replacement? If you have Fingerprint reader problems with your Samsung Galaxy S9 <span data-mce-fragment="1">&amp; S9 Plus</span> it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy S9 <span data-mce-fragment="1">&amp; S9 Plus</span> Fingerprint reader using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Samsung Galaxy S9 Fingerprint reader with a lifetime warranty, as the other Samsung Replacement Parts.</p>
+<table border="1" style="height: 92px; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 509.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S9 &amp; S9 Plus Fingerprint reader</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 26px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 509.6px; text-align: center; height: 26px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G960, G965</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 509.6px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 445.6px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 509.6px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fingerprint reader</s:tag>
+    <s:tag>flex</s:tag>
+    <s:tag>G960</s:tag>
+    <s:tag>G9600</s:tag>
+    <s:tag>G960W</s:tag>
+    <s:tag>G965</s:tag>
+    <s:tag>G9650</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy S9</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SCV38</s:tag>
+    <s:tag>SM-G960</s:tag>
+    <s:tag>SM-G9600</s:tag>
+    <s:tag>SM-G960F</s:tag>
+    <s:tag>SM-G960N</s:tag>
+    <s:tag>SM-G960U</s:tag>
+    <s:tag>SM-G960U1</s:tag>
+    <s:tag>SM-G960W</s:tag>
+    <s:tag>SM-G960X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4308338442345</id>
+      <title>Purple</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR14434</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4308338442345</id>
+      <title>Black</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR14251</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4308338442345</id>
+      <title>White</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR14252</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4295138410601</id>
+    <published>2019-10-20T21:50:32-04:00</published>
+    <updated>2019-10-20T21:50:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s9-front-camera"/>
+    <title>Samsung Galaxy S9 Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Replacement_part_For_Samsung_galaxy_S9_Front_camera_G960.jpg?v=1571622653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy S9 front-facing camera replacement? If you dropped your Samsung Galaxy S9 and broke the front-facing camera it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy S9 front-facing camera using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>This part includes the Galaxy S9 front-facing camera and flex cable.</p>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Samsung Galaxy S9 front-facing camera come with a lifetime warranty, as the other Samsung Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Front Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Galaxy S9</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G960</s:tag>
+    <s:tag>G9600</s:tag>
+    <s:tag>G960A</s:tag>
+    <s:tag>G960F</s:tag>
+    <s:tag>G960I</s:tag>
+    <s:tag>G960S</s:tag>
+    <s:tag>G960VG960WAfront</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy S9</s:tag>
+    <s:tag>NewFor</s:tag>
+    <s:tag>S9</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S9</s:tag>
+    <s:tag>SCV38</s:tag>
+    <s:tag>SM-G960</s:tag>
+    <s:tag>SM-G9600</s:tag>
+    <s:tag>SM-G960F</s:tag>
+    <s:tag>SM-G960N</s:tag>
+    <s:tag>SM-G960U</s:tag>
+    <s:tag>SM-G960U1</s:tag>
+    <s:tag>SM-G960W</s:tag>
+    <s:tag>SM-G960X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4295138410601</id>
+      <title>Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR14235</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4166388809833</id>
+    <published>2019-09-27T18:38:11-04:00</published>
+    <updated>2019-09-27T18:38:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s9-vibrator"/>
+    <title>Samsung Galaxy S9 &amp; S9 Plus Vibrating Motor</title>
+    <s:type>Vibrator</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s8-vibrator-0-jpg_4099583c-6563-43a5-b55a-0c7a3f83717f.jpg?v=1572396043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Vibrator<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a malfunctioning vibrator motor in a Galaxy S9 and restore your silent vibration alerts. </p>
+<p>Compatible with S9 and S9 Plus</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G960</s:tag>
+    <s:tag>G960W</s:tag>
+    <s:tag>G965</s:tag>
+    <s:tag>Galaxy S9 Plus</s:tag>
+    <s:tag>S9</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S9</s:tag>
+    <s:tag>SC-03K</s:tag>
+    <s:tag>SCV39</s:tag>
+    <s:tag>SM-G9650</s:tag>
+    <s:tag>SM-G965F</s:tag>
+    <s:tag>SM-G965N</s:tag>
+    <s:tag>SM-G965U</s:tag>
+    <s:tag>SM-G965U1</s:tag>
+    <s:tag>SM-G965W</s:tag>
+    <s:tag>SM-G965X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4166388809833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>UNLKR14191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3700286455913</id>
+    <published>2019-09-03T14:09:13-04:00</published>
+    <updated>2019-09-03T14:09:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s9-charging-daughter-board"/>
+    <title>Galaxy S9 Charging Daughter Board</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s8-charging-daughter-board-0-jpg_a3ab5f39-a36a-4b16-9bbd-eb43723f29cd.jpg?v=1570421838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace the daughter board that includes the USB port and primary microphone for Samsung Galaxy S9 models G960W</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charging port</s:tag>
+    <s:tag>G960</s:tag>
+    <s:tag>G960W</s:tag>
+    <s:tag>Galaxy S9</s:tag>
+    <s:tag>S9</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SCV38</s:tag>
+    <s:tag>SM-G960</s:tag>
+    <s:tag>SM-G9600</s:tag>
+    <s:tag>SM-G960F</s:tag>
+    <s:tag>SM-G960N</s:tag>
+    <s:tag>SM-G960U</s:tag>
+    <s:tag>SM-G960U1</s:tag>
+    <s:tag>SM-G960W</s:tag>
+    <s:tag>SM-G960X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3700286455913</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>UNLKR14140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3700281507945</id>
+    <published>2019-09-03T14:05:36-04:00</published>
+    <updated>2019-09-03T14:05:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s9-rear-camera-flex"/>
+    <title>Samsung Galaxy S9 Rear Camera &amp; Flex</title>
+    <s:type>Rear Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Rear-Camera-Samsung-Galaxy-S9-Replacement-Part_G960W.jpg?v=1572394081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Rear Camera<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Samsung Galaxy S9 Rear Camera Flex is designed to allow the replacement of your broken Back Camera. </p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Rear-Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S9</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">SM-G960</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 509px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 509px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G960</s:tag>
+    <s:tag>G960W</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy S7 (USA)</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:tag>S9</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy</s:tag>
+    <s:tag>Samsung Galaxy S9</s:tag>
+    <s:tag>SM-G960</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3700281507945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14139</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3673199050857</id>
+    <published>2019-08-20T13:43:12-04:00</published>
+    <updated>2019-08-20T13:43:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s9-camera-lens"/>
+    <title>Rear Camera Lens &amp; Frame For Samsung Galaxy S9</title>
+    <s:type>Camera Lens</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Back-Rear-Camera-Lens-Glass-Cover-with-Frame-Holder-For-Samsung-Galaxy-S9-G960-Edit_9f0cf47d-c328-4b33-a480-27e62592538a.jpg?v=1604593655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Camera Lens<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Samsung Galaxy S9 Rear Camera Lens is designed to allow the replacement of your broken Camera Lens. </p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Rear-Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S9 (5.8")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G960W</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera Lens</s:tag>
+    <s:tag>G960</s:tag>
+    <s:tag>G960W</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy S9</s:tag>
+    <s:tag>S9</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SCV38</s:tag>
+    <s:tag>SM-G960</s:tag>
+    <s:tag>SM-G9600</s:tag>
+    <s:tag>SM-G960F</s:tag>
+    <s:tag>SM-G960N</s:tag>
+    <s:tag>SM-G960U</s:tag>
+    <s:tag>SM-G960U1</s:tag>
+    <s:tag>SM-G960W</s:tag>
+    <s:tag>SM-G960X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3673199050857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>UNLKR14087</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641335709801</id>
+    <published>2019-07-28T16:59:45-04:00</published>
+    <updated>2019-07-28T16:59:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s9-earpiece-speaker"/>
+    <title>Galaxy S9 Earpiece Speaker</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s9-earpiece-speaker-0-jpg.jpg?v=1579200885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged or malfunctioning earpiece speaker in a Samsung Galaxy S9 smartphone and restore phone call audio.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G960</s:tag>
+    <s:tag>G960W</s:tag>
+    <s:tag>Galaxy S9</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S9</s:tag>
+    <s:tag>SCV38</s:tag>
+    <s:tag>SM-G960</s:tag>
+    <s:tag>SM-G9600</s:tag>
+    <s:tag>SM-G960F</s:tag>
+    <s:tag>SM-G960N</s:tag>
+    <s:tag>SM-G960U</s:tag>
+    <s:tag>SM-G960U1</s:tag>
+    <s:tag>SM-G960W</s:tag>
+    <s:tag>SM-G960X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641335709801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR14035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641335611497</id>
+    <published>2019-07-28T16:59:29-04:00</published>
+    <updated>2019-07-28T16:59:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s9-speaker"/>
+    <title>Loudspeaker Compatible With Galaxy S9</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s9-speaker-0-jpg.jpg?v=1571620233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged or malfunctioning main speaker assembly for a Samsung Galaxy S9 and fix problems with loudspeaker audio.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G960</s:tag>
+    <s:tag>Galaxy S9</s:tag>
+    <s:tag>S9</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S9</s:tag>
+    <s:tag>SCV38</s:tag>
+    <s:tag>SM-G960</s:tag>
+    <s:tag>SM-G9600</s:tag>
+    <s:tag>SM-G960F</s:tag>
+    <s:tag>SM-G960N</s:tag>
+    <s:tag>SM-G960U</s:tag>
+    <s:tag>SM-G960U1</s:tag>
+    <s:tag>SM-G960W</s:tag>
+    <s:tag>SM-G960X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641335611497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641335447657</id>
+    <published>2019-07-28T16:59:12-04:00</published>
+    <updated>2019-07-28T16:59:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s9-fingerprint-sensor-adhesive"/>
+    <title>Fingerprint Sensor Adhesive For Galaxy S9</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s9-fingerprint-sensor-adhesive-0-jpg.jpg?v=1596472450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This custom cut adhesive film set secures the fingerprint sensor to the front glass digitizer panel of the Samsung Galaxy S9.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G960</s:tag>
+    <s:tag>Galaxy S9</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S9</s:tag>
+    <s:tag>SCV38</s:tag>
+    <s:tag>SM-G960</s:tag>
+    <s:tag>SM-G9600</s:tag>
+    <s:tag>SM-G960F</s:tag>
+    <s:tag>SM-G960N</s:tag>
+    <s:tag>SM-G960U</s:tag>
+    <s:tag>SM-G960U1</s:tag>
+    <s:tag>SM-G960W</s:tag>
+    <s:tag>SM-G960X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641335447657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641335283817</id>
+    <published>2019-07-28T16:58:55-04:00</published>
+    <updated>2019-07-28T16:58:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s9-display-adhesive"/>
+    <title>Galaxy S9 Display Adhesive</title>
+    <s:type>Display Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s9-display-adhesive-0-jpg.jpg?v=1571620184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Display Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This set of custom cut adhesive film secures the front glass digitizer screen and display to the front frame and bezel assembly of the Samsung Galaxy S9.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Display Adhesive</s:tag>
+    <s:tag>G960</s:tag>
+    <s:tag>Galaxy S9</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S9</s:tag>
+    <s:tag>SCV38</s:tag>
+    <s:tag>SM-G960</s:tag>
+    <s:tag>SM-G9600</s:tag>
+    <s:tag>SM-G960F</s:tag>
+    <s:tag>SM-G960N</s:tag>
+    <s:tag>SM-G960U</s:tag>
+    <s:tag>SM-G960U1</s:tag>
+    <s:tag>SM-G960W</s:tag>
+    <s:tag>SM-G960X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641335283817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR14032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641334530153</id>
+    <published>2019-07-28T16:57:36-04:00</published>
+    <updated>2019-07-28T16:57:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s9-replacement-battery"/>
+    <title>Replacement Battery For Samsung Galaxy S9 G960</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s9-replacement-battery-0-jpg.jpg?v=1579199700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have a Samsung Galaxy S9 that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your Samsung Galaxy S9 </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly?</span> </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Does your cell phone only work when the battery is plugged in?</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new Samsung Galaxy S9 replacement battery.</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The old battery in your cell phone can outgrow inside and damage the internals.</span></p>
+<p>The OEM Batteries for Samsung Galaxy S9 are <strong>brand-new batteries</strong> coming directly from our manufacturer. They are custom-built for customers who demand the <strong>same quality as original Samsung</strong> <strong>batteries. </strong></p>
+<ul>
+<li>Zero cycle count</li>
+<li>Tested under extreme weather</li>
+<li>No wrapping for a better fit</li>
+<li>High output current capacity</li>
+<li>1 Year Warranty</li>
+</ul>
+<h3>Compatibility</h3>
+<p>This battery is only compatible with a Samsung Galaxy S9.</p>
+<h3>Warranty</h3>
+<p>The Replacement Samsung Galaxy S9 Plus Battery comes with a 1-year warranty, as the other Samsung Battery Replacement Parts.</p>
+<table style="height: 74px; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 427.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 486.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 427.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 486.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Galaxy S9 G960</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 427.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Battery Type</strong></span></td>
+<td style="width: 486.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Li-Ion 3500 mAh battery (13.48 Wh)</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 427.219px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 486.219px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>G960</s:tag>
+    <s:tag>G960W</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy S9</s:tag>
+    <s:tag>Galaxy S9 G960F</s:tag>
+    <s:tag>Galaxy S9 G960F Duos</s:tag>
+    <s:tag>Galaxy S9 G960U</s:tag>
+    <s:tag>Galaxy S9 G960U1</s:tag>
+    <s:tag>Galaxy S9 G960W</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S9</s:tag>
+    <s:tag>SCV38</s:tag>
+    <s:tag>SM-G960</s:tag>
+    <s:tag>SM-G9600</s:tag>
+    <s:tag>SM-G960F</s:tag>
+    <s:tag>SM-G960N</s:tag>
+    <s:tag>SM-G960U</s:tag>
+    <s:tag>SM-G960U1</s:tag>
+    <s:tag>SM-G960W</s:tag>
+    <s:tag>SM-G960X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641334530153</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>UNLKR14021</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3580116664425</id>
+    <published>2019-06-10T18:45:33-04:00</published>
+    <updated>2019-06-10T18:45:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s9-back-cover"/>
+    <title>Back Glass Cover For Samsung Galaxy S9 With Camera Lens</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Back_20Glass_20for_20Samsung_20Galaxy_20S9_20-_20Midnight_20Black_with__20Adhesive.jpg?v=1600285505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Samsung S9 Rear Glass Cover is designed for the replacement of your broken or cracked rear casing. Adhesive is pre-installed for easy installation.</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Back Glass Covers</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S9 (5.8")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G960W</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Back Cover</s:tag>
+    <s:tag>G960</s:tag>
+    <s:tag>G960W</s:tag>
+    <s:tag>Galaxy S9</s:tag>
+    <s:tag>S9</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S9</s:tag>
+    <s:tag>SCV38</s:tag>
+    <s:tag>SM-G960</s:tag>
+    <s:tag>SM-G9600</s:tag>
+    <s:tag>SM-G960F</s:tag>
+    <s:tag>SM-G960N</s:tag>
+    <s:tag>SM-G960U</s:tag>
+    <s:tag>SM-G960U1</s:tag>
+    <s:tag>SM-G960W</s:tag>
+    <s:tag>SM-G960X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3580116664425</id>
+      <title>Midnight Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR11931</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3580116664425</id>
+      <title>Lilac Purple</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14329</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3580116664425</id>
+      <title>Grey</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14190</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/1329757388905</id>
+    <published>2018-08-20T15:02:08-04:00</published>
+    <updated>2018-08-20T15:02:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s9-lcd-screen-and-digitizer"/>
+    <title>OLED Screen and Digitizer Frame assembly For Samsung Galaxy S9</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/samsung-galaxy-s9-lcd-and-touch-screen-with-frame-black_x700_6e6c665a-1b63-426e-b8e2-c67436863ac9.png?v=1620483401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung S9 screen replacement ? If you dropped your Samsung Galaxy S9 and broke the front glass it can be repaired ! You can replace your broken Samsung screen using our high quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<ul>
+<li>AMOLED LCD &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy S9 LCD Screens and Digitizers come with lifetime warranty, as the other Samsung LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">OLED Screen and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S9 (5.8")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G960W</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G960</s:tag>
+    <s:tag>G960W</s:tag>
+    <s:tag>Galaxy S9</s:tag>
+    <s:tag>OLED</s:tag>
+    <s:tag>S9</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy</s:tag>
+    <s:tag>Samsung Galaxy S9</s:tag>
+    <s:tag>Samsung Galaxy S9 G960W</s:tag>
+    <s:tag>Samsung Galaxy S9 LCD</s:tag>
+    <s:tag>SCV38</s:tag>
+    <s:tag>SM-G960</s:tag>
+    <s:tag>SM-G9600</s:tag>
+    <s:tag>SM-G960F</s:tag>
+    <s:tag>SM-G960N</s:tag>
+    <s:tag>SM-G960U</s:tag>
+    <s:tag>SM-G960U1</s:tag>
+    <s:tag>SM-G960W</s:tag>
+    <s:tag>SM-G960X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/1329757388905</id>
+      <title>Lilac Purple</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>UNLKR14327</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/1329757388905</id>
+      <title>Midnight Black</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>UNLKR11553</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/1329757388905</id>
+      <title>Gray</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>UNLKR14735</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+</feed>

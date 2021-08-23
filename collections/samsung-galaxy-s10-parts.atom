@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/samsung-galaxy-s10-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-07-30T09:59:16-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/7233123549358</id>
+    <published>2021-07-30T09:59:16-04:00</published>
+    <updated>2021-07-30T09:59:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/loudspeaker-compatible-with-galaxy-s10-g973"/>
+    <title>Loudspeaker Compatible With Galaxy S10 G973</title>
+    <s:type>Loudspeaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/loud-speaker-Samsung-S10-G9730-G973-G973WA.jpg?v=1627653557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Loudspeaker<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Replace a damaged or malfunctioning main speaker assembly for a Samsung Galaxy S9 and fix problems with loudspeaker audio.</span></p>
+<p>Compatible Model Numbers: G973, G973U, G973W, G973F/DS<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G973</s:tag>
+    <s:tag>G9730</s:tag>
+    <s:tag>G973F/DS</s:tag>
+    <s:tag>G973U</s:tag>
+    <s:tag>G973W</s:tag>
+    <s:tag>G973WA</s:tag>
+    <s:tag>Galaxy S10</s:tag>
+    <s:tag>Loudspeaker</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S10</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7233123549358</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR14976</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7169675493550</id>
+    <published>2021-07-15T11:02:18-04:00</published>
+    <updated>2021-07-15T11:02:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/earpiece-speaker-compatible-for-samsung-galaxy-s9-plus-s10-note-9-note-10-plus"/>
+    <title>Earpiece Speaker Compatible For Samsung Galaxy S9 Plus, S10, Note 9, Note 10 Plus</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/s10-ear-speaker-samsung-galaxy-galaxys10-earspeaker-ear-piece-g973-g973u-g973w.jpg?v=1626361339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged or malfunctioning earpiece speaker in a Samsung Galaxy S9 Plus, <span data-mce-fragment="1">Samsung</span><span data-mce-fragment="1"> Galaxy </span>S10, <span data-mce-fragment="1">Samsung</span><span data-mce-fragment="1"> Galaxy </span>Note 9, <span data-mce-fragment="1">Samsung</span><span data-mce-fragment="1"> Galaxy </span>Note 10 Plus smartphone and restore phone call audio.</p>
+<p>Compatible with : Samsung Galaxy S9 Plus, <span data-mce-fragment="1">Samsung Galaxy </span>S10, <span data-mce-fragment="1">Samsung Galaxy</span> Note 9, <span data-mce-fragment="1">Samsung Galaxy </span>Note 10 Plus</p>
+<p><span>Compatible Models : G965, N960, G973, N975</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G965</s:tag>
+    <s:tag>G973</s:tag>
+    <s:tag>Galaxy Note 10 Plus</s:tag>
+    <s:tag>Galaxy Note 9</s:tag>
+    <s:tag>Galaxy S10</s:tag>
+    <s:tag>Galaxy S9 Plus</s:tag>
+    <s:tag>N960</s:tag>
+    <s:tag>N975</s:tag>
+    <s:tag>Samsung Galaxy Note 10 Plus</s:tag>
+    <s:tag>Samsung Galaxy Note 9</s:tag>
+    <s:tag>Samsung Galaxy S10</s:tag>
+    <s:tag>Samsung Galaxy S9 Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7169675493550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14948</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6762021781678</id>
+    <published>2021-05-25T09:51:41-04:00</published>
+    <updated>2021-05-25T09:51:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/single-sim-card-tray-compatible-for-samsung-galaxy-s10-s10-plus-s10e"/>
+    <title>Single SIM Card Tray Compatible For Samsung Galaxy S10, S10 Plus, S10e</title>
+    <s:type>SIM Card Tray</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/s10-s10plus-s10e-sim-tray-black.jpg?v=1621950103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>SIM Card Tray<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Keep your nano SIM and micro SD cards safe with a new card tray!  Replace a damaged card tray so your SIM and SD cards work for the life of your phone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G970</s:tag>
+    <s:tag>G973</s:tag>
+    <s:tag>G975</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6762021781678</id>
+      <title>Black</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR14784</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6762021781678</id>
+      <title>Gray</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR14785</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6762021781678</id>
+      <title>Silver</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR14786</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6691261284526</id>
+    <published>2021-05-15T13:13:18-04:00</published>
+    <updated>2021-05-15T13:13:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/front-camera-compatible-for-samsung-galaxy-s10"/>
+    <title>Front Camera Compatible For Samsung Galaxy S10 &amp; S10e</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/s10-front-cam-samsung.jpg?v=1621098802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy S10 <span data-mce-fragment="1">&amp; S10e</span> front-facing camera replacement? If you dropped your Samsung Galaxy S10 <span data-mce-fragment="1">&amp; S10e</span> and broke the front-facing camera it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy S10 <span data-mce-fragment="1">&amp; S10e</span> front-facing camera using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>This part includes the Galaxy S10 <span data-mce-fragment="1">&amp; S10e</span> front-facing camera and flex cable.</p>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Samsung Galaxy S10 &amp; S10e front-facing camera come with a lifetime warranty, as the other Samsung Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1" data-mce-style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;" data-mce-style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;" data-mce-style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;" data-mce-style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;" data-mce-style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Front Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;" data-mce-style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;" data-mce-style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;" data-mce-style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;" data-mce-style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S10 (G973U, G973W, <span data-mce-fragment="1">G970U)</span></span></td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;" data-mce-style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;" data-mce-style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;" data-mce-style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;" data-mce-style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;" data-mce-style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;" data-mce-style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;" data-mce-style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;" data-mce-style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;" data-mce-style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G970U</s:tag>
+    <s:tag>G973U</s:tag>
+    <s:tag>G973W</s:tag>
+    <s:tag>Galaxy S10</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6691261284526</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR14755</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4698846756969</id>
+    <published>2020-06-17T10:06:53-04:00</published>
+    <updated>2020-06-17T10:06:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s10-camera-lens"/>
+    <title>Samsung Galaxy S10 Camera Lens With Frame</title>
+    <s:type>Camera Lens</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/S10_20back-rear-camera_20lens_073fdcad-1cf8-4903-8f19-1a397e255fc2.jpg?v=1592941346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Camera Lens<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Samsung Galaxy S10 Rear Camera Lens is designed to allow the replacement of your broken Camera Lens. </p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Rear-Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S10 (6.1")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G970W</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera Lens</s:tag>
+    <s:tag>G973</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy S10</s:tag>
+    <s:tag>S10</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SM-G9730</s:tag>
+    <s:tag>SM-G973F</s:tag>
+    <s:tag>SM-G973N</s:tag>
+    <s:tag>SM-G973U</s:tag>
+    <s:tag>SM-G973U1</s:tag>
+    <s:tag>SM-G973W</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4698846756969</id>
+      <title>Prism White</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14467</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4698846756969</id>
+      <title>Prism Blue</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4698846756969</id>
+      <title>Prism Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4561592418409</id>
+    <published>2020-03-13T14:26:52-04:00</published>
+    <updated>2020-03-13T14:26:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/replacement-battery-for-samsung-galaxy-s10-g973"/>
+    <title>Replacement Battery for Samsung Galaxy S10 G973</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1584123985Replacement_part_For_Samsung_Galaxy_S10_G9973_New_Battery2.jpg?v=1617728857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have a Samsung Galaxy S10 that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your Samsung Galaxy S10 </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly?</span> </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Does your cell phone only work when the battery is plugged in?</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new Samsung Galaxy S10 replacement battery.</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The old battery in your cell phone can outgrow inside and damage the internals.</span></p>
+<p>The OEM Batteries for Samsung Galaxy S10 are <strong>brand-new batteries</strong> coming directly from our manufacturer. They are custom-built for customers who demand the <strong>same quality as original Samsung</strong> <strong>batteries. </strong></p>
+<ul>
+<li>Zero cycle count</li>
+<li>Tested under extreme weather</li>
+<li>No wrapping for a better fit</li>
+<li>High output current capacity</li>
+<li>1 Year Warranty</li>
+</ul>
+<h3>Compatibility</h3>
+<p>This battery is only compatible with a Samsung Galaxy S10.</p>
+<h3>Warranty</h3>
+<p>The Replacement Samsung Galaxy S10 Battery comes with a 1-year warranty, as the other Samsung Battery Replacement Parts.</p>
+<table style="height: 84px; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Galaxy S10 G973</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 445.6px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>G973</s:tag>
+    <s:tag>Galaxy S10</s:tag>
+    <s:tag>S10</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SM-G9730</s:tag>
+    <s:tag>SM-G973F</s:tag>
+    <s:tag>SM-G973N</s:tag>
+    <s:tag>SM-G973U</s:tag>
+    <s:tag>SM-G973U1</s:tag>
+    <s:tag>SM-G973W</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4561592418409</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>UNLKR14439</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4328140800105</id>
+    <published>2019-10-29T21:32:05-04:00</published>
+    <updated>2019-10-29T21:32:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-uv-cured-tempered-glass-screen-protector"/>
+    <title>Samsung Galaxy UV Curved Tempered Glass Screen Protector</title>
+    <s:type>Tempered Glass</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Curved-full-adhesive-glue-tempered-glass-for-Samsung-LG-uv-light.jpg?v=1620847414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Tempered Glass<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><section>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<h3><strong>UV Light Tempered Glass Description</strong></h3>
+<p>Tempered Glass for Samsung Devices. They add an extra layer of protection on the screen of the device to protect from bumps and bruises and is 0.2mm thick at 9H Durability with a 2.5D curve to fit perfectly.. They are oil-resistant, prevents fingerprints and ensures image clarity perfect touch sensitivity.</p>
+<table style="font-size: 14px; font-weight: 400; height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung UV Tempered Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible With</strong></span></td>
+<td style="width: 508px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G950</s:tag>
+    <s:tag>G955</s:tag>
+    <s:tag>G960</s:tag>
+    <s:tag>G965</s:tag>
+    <s:tag>G970</s:tag>
+    <s:tag>G973</s:tag>
+    <s:tag>G975</s:tag>
+    <s:tag>G980</s:tag>
+    <s:tag>G985</s:tag>
+    <s:tag>G991</s:tag>
+    <s:tag>G996</s:tag>
+    <s:tag>G998</s:tag>
+    <s:tag>Galaxy S9 Plus</s:tag>
+    <s:tag>N960</s:tag>
+    <s:tag>N970</s:tag>
+    <s:tag>N975</s:tag>
+    <s:tag>N985</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SC-03K</s:tag>
+    <s:tag>SCV39</s:tag>
+    <s:tag>SM-G9650</s:tag>
+    <s:tag>SM-G965F</s:tag>
+    <s:tag>SM-G965N</s:tag>
+    <s:tag>SM-G965U</s:tag>
+    <s:tag>SM-G965U1</s:tag>
+    <s:tag>SM-G965W</s:tag>
+    <s:tag>SM-G965X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>Note 9</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14570</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S8/S9</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S8 Plus/S9 Plus</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14272</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S10</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14273</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S10E</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14274</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S10 Plus</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14275</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>Note 10</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14382</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>Note 10 Plus</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S20</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14495</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S20 Plus</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14497</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>Note 20 Ultra</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14672</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S21</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14744</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S21 Plus</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14745</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S21 Ultra</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14746</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328140800105</id>
+      <title>S20 FE</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14952</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3690095738985</id>
+    <published>2019-08-28T23:13:45-04:00</published>
+    <updated>2019-08-28T23:13:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s10-lcd-screen-and-digitizer-frame-assembly"/>
+    <title>OLED Screen and Digitizer Frame Assembly For Samsung Galaxy S10</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/S10e_S10_LITE_Replacement_LCD_screen_and_digitizer_Frame_assembly_G9700_G970_G970WA-2_24b567a0-8f2a-45a3-9d6a-682017f47ad7.jpg?v=1617658320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            249.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy S10 screen replacement? If you dropped your Samsung Galaxy S10 and broke the front glass it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy S10 screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, our samsung parts have you covered.</p>
+<ul>
+<li>LCD &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+<li>Frame with buttons</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy S10 LCD Screens and Digitizers come with a lifetime warranty, as the other Samsung LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">OLED Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G973WA / G973 / G9730 </span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Dynamic AMOLED capacitive touchscreen, 16M colors</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>G973</s:tag>
+    <s:tag>G9730</s:tag>
+    <s:tag>G973WA</s:tag>
+    <s:tag>Galaxy S10</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S10</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:tag>SM-G9730</s:tag>
+    <s:tag>SM-G973F</s:tag>
+    <s:tag>SM-G973N</s:tag>
+    <s:tag>SM-G973U</s:tag>
+    <s:tag>SM-G973U1</s:tag>
+    <s:tag>SM-G973W</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3690095738985</id>
+      <title>Prism Black</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku>UNLKR14122</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3690095738985</id>
+      <title>Prism Blue</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku>UNLKR14121</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3690095738985</id>
+      <title>White</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku>UNLKR14441</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3674409926761</id>
+    <published>2019-08-21T15:54:07-04:00</published>
+    <updated>2019-08-21T15:54:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s10-back-cover-with-camera-lens-frame"/>
+    <title>Samsung Galaxy S10 Back Cover with Camera Lens frame</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/samsung_20galaxy_20s10_20back_20glass_20replacement_20part_20with_20camera_20lens_20G973W.jpg?v=1617723421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Samsung S10 Back Cover is designed for the replacement of your broken or cracked rear casing. Adhesive is pre-installed for easy installation. Includes the Camera Glass Lens Frame.</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Back Covers</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S10 (6.1")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G973W</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Back Cover</s:tag>
+    <s:tag>G973</s:tag>
+    <s:tag>Galaxy S10</s:tag>
+    <s:tag>S10</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SM-G9730</s:tag>
+    <s:tag>SM-G973F</s:tag>
+    <s:tag>SM-G973N</s:tag>
+    <s:tag>SM-G973U</s:tag>
+    <s:tag>SM-G973U1</s:tag>
+    <s:tag>SM-G973W</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3674409926761</id>
+      <title>Prism White</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR14092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3674409926761</id>
+      <title>Prism Black</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR14093</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3674409926761</id>
+      <title>Prism Blue</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR14094</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641337380969</id>
+    <published>2019-07-28T17:03:25-04:00</published>
+    <updated>2019-07-28T17:03:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s10-s10-plus-s10e-vibrator"/>
+    <title>Vibrator For Galaxy S10/S10+/S10e</title>
+    <s:type>Vibrator</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s10-s10-s10e-vibrator-new-0-jpg.jpg?v=1617728656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Vibrator<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a malfunctioning vibrator motor compatible with a Galaxy S10, S10+, or S10e and restore your silent vibration alerts.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G970</s:tag>
+    <s:tag>G9700</s:tag>
+    <s:tag>G973</s:tag>
+    <s:tag>G975</s:tag>
+    <s:tag>G9750</s:tag>
+    <s:tag>Galaxy S10+</s:tag>
+    <s:tag>Galaxy S10e</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S10+</s:tag>
+    <s:tag>Samsung Galaxy S10e</s:tag>
+    <s:tag>SM-G9700</s:tag>
+    <s:tag>SM-G970F</s:tag>
+    <s:tag>SM-G970U</s:tag>
+    <s:tag>SM-G970U1</s:tag>
+    <s:tag>SM-G970W</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641337380969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR14054</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641337020521</id>
+    <published>2019-07-28T17:02:34-04:00</published>
+    <updated>2019-07-28T17:02:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s10-s10-plus-s10e-usb-c-port"/>
+    <title>Galaxy S10/S10+/S10e USB-C Charging Port G973W</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s10-s10-s10e-usb-c-port-0-jpg.jpg?v=1617720729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a dirty, corroded, or damaged USB-C port soldered to the motherboard and fix charging and USB connectivity issues. This part is compatible with a Samsung Galaxy S10, S10+, or S10e smartphone.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G970</s:tag>
+    <s:tag>G9700</s:tag>
+    <s:tag>G973</s:tag>
+    <s:tag>G975</s:tag>
+    <s:tag>G9750</s:tag>
+    <s:tag>Galaxy S10+</s:tag>
+    <s:tag>Galaxy S10e</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S10+</s:tag>
+    <s:tag>Samsung Galaxy S10e</s:tag>
+    <s:tag>SM-G9730</s:tag>
+    <s:tag>SM-G973F</s:tag>
+    <s:tag>SM-G973N</s:tag>
+    <s:tag>SM-G973U</s:tag>
+    <s:tag>SM-G973U1</s:tag>
+    <s:tag>SM-G973W</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641337020521</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641336660073</id>
+    <published>2019-07-28T17:01:30-04:00</published>
+    <updated>2019-07-28T17:01:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s10-s10-plus-triple-rear-camera"/>
+    <title>Triple Rear Camera For Galaxy S10/S10+</title>
+    <s:type>Rear Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s10-s10-triple-rear-camera-new-0-jpg.jpg?v=1617718939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Rear Camera<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged or malfunctioning rear-facing triple camera assembly compatible with a Samsung Galaxy S10 or S10+ smartphone.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>G973</s:tag>
+    <s:tag>G975</s:tag>
+    <s:tag>G9750</s:tag>
+    <s:tag>Galaxy S10+</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S10+</s:tag>
+    <s:tag>SM-G9730</s:tag>
+    <s:tag>SM-G973F</s:tag>
+    <s:tag>SM-G973N</s:tag>
+    <s:tag>SM-G973U</s:tag>
+    <s:tag>SM-G973U1</s:tag>
+    <s:tag>SM-G973W</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641336660073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>UNLKR14045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

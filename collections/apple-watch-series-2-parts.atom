@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-watch-series-2-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2020-12-03T15:44:32-05:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/6110321934510</id>
+    <published>2020-12-03T15:44:32-05:00</published>
+    <updated>2020-12-03T15:44:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/tempered-glass-screen-protector-for-watch-series-2-3"/>
+    <title>UV Tempered Glass Screen Protector For Watch Series</title>
+    <s:type>Tempered Glass</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1588015079Tempered_glass_screen_protector_for_apple_watch_44mm-42mm.jpg?v=1607028277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Tempered Glass<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-size: 14px; font-weight: 400;">Add an extra layer of protection on your screen of to protect it from scratches and cracking. It is 0.2mm thick at 9H Durability with a 2.5D curve to fit perfectly.</p>
+<p style="font-size: 14px; font-weight: 400;">They have an oleophobic coating to make them oil-resistant and prevent fingerprints to ensure perfect image clarity and touch sensitivity.</p>
+<p style="font-size: 14px; font-weight: 400;">The 0.2mm thickness and flexibility makes them very easy to apply.</p>
+<p style="font-size: 14px; font-weight: 400;"> </p>
+<table style="font-size: 14px; font-weight: 400; height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 315.2px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 347.2px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Watch Tempered Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 315.2px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible With</strong></span></td>
+<td style="width: 347.2px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Apple Watch Series </span></td>
+</tr>
+</tbody>
+</table>
+<section>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<p> </p>
+</div>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1758</s:tag>
+    <s:tag>A1802</s:tag>
+    <s:tag>A1860</s:tag>
+    <s:tag>A1975</s:tag>
+    <s:tag>A2156</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:tag>Watch Series 3</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6110321934510</id>
+      <title>40MM</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14605</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6110321934510</id>
+      <title>42MM</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14475</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6110321934510</id>
+      <title>44MM</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14477</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6110321934510</id>
+      <title>38MM</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14983</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3690155311209</id>
+    <published>2019-08-29T00:07:06-04:00</published>
+    <updated>2019-08-29T00:07:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/apple-watch-series-2-battery"/>
+    <title>Apple Watch Series 2 Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/apple_20watch_20replacement_20part_20battery_20new-2_c9b685e1-9090-4f07-a188-2be7c84717b9.jpg?v=1619727024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have a Apple Watch Series 2 that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your Apple Watch Series 2 </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly?</span> </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Does your cell phone only work when the battery is plugged in?</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new Apple Watch Series 2 replacement battery.</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The old battery in your cell phone can outgrow inside and damage the internals.</span></p>
+<p>The Batteries for Apple Watch Series 2 are <strong>brand-new batteries</strong> coming directly from our manufacturer. They are custom-built for customers who demand the <strong>same quality as original Apple</strong> <strong>batteries. </strong></p>
+<ul>
+<li>Zero cycle count</li>
+<li>Tested under extreme weather</li>
+<li>No wrapping for a better fit</li>
+<li>High output current capacity</li>
+<li>1 Year Warranty</li>
+</ul>
+<h3>Compatibility</h3>
+<p>This battery is only compatible with a Apple Watch Series 2.</p>
+<h3>Warranty</h3>
+<p>The Replacement Apple Watch Series 1 Battery comes with a 1-year warranty, as our other battery replacement parts.</p>
+<table style="height: 84px; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Watch Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Apple Watch Series 2</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Battery Type</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"> </td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Device Manufacturer</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 445.6px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1758</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple Watch</s:tag>
+    <s:tag>Apple Watch Series 2</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>Watch Series 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3690155311209</id>
+      <title>38mm</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>UNLKR14131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3690155311209</id>
+      <title>42mm</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>UNLKR14132</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

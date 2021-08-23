@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/tcl-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-07-08T11:49:14-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/7146205511854</id>
+    <published>2021-07-08T11:49:14-04:00</published>
+    <updated>2021-07-08T11:49:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/tcl-10-pro-back-cover-with-camera-lens-frame"/>
+    <title>TCL 10 Pro Back Cover with Camera Lens Frame</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/tcl-10-pro-T799H-T799B-T799-Battery-Back-Cover-Rear.jpg?v=1625759336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TCL 10 Pro Back Cover is designed for the replacement of your broken or cracked rear casing. Adhesive is pre-installed for easy installation. Includes the Camera Glass Lens Frame.</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;">TCL Back Battery Cover<br>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;">TCL 10 Pro</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;">T799, T799B, T799H</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Back Cover</s:tag>
+    <s:tag>Back Glass</s:tag>
+    <s:tag>T799</s:tag>
+    <s:tag>T799B</s:tag>
+    <s:tag>T799H</s:tag>
+    <s:tag>TCL</s:tag>
+    <s:tag>TCL 10 Pro</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7146205511854</id>
+      <title>Gray</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>UNLKR14931</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+</feed>

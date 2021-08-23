@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/motorola-g6-play-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-12-30T14:55:10-05:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/4457072394345</id>
+    <published>2019-12-30T14:55:10-05:00</published>
+    <updated>2019-12-30T14:55:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/motorola-moto-g6-play-lcd-screen-and-digitizer"/>
+    <title>Motorola Moto G6 Play LCD Screen and Digitizer</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1577735775lcd_with_touch_screen_for_moto_g6_play.jpg?v=1577735805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Motorola Moto G6 Play screen replacement? If you dropped your Motorola Moto G6 Play and broke the front glass it can be repaired!</p>
+<p>You can replace your broken Motorola Moto G6 Play screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, Our Motorola parts have you covered.</p>
+<ul>
+<li>LCD &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Motorola Moto G6 Play LCD Screens and Digitizers come with a lifetime warranty, as the other Motorola LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Motorola LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Motorola Moto G6 Play XT1922 </span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">IPS LCD capacitive touchscreen, 16M colors</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G6 Play</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>Moto G6 Play</s:tag>
+    <s:tag>Motorola</s:tag>
+    <s:tag>XT1922</s:tag>
+    <s:tag>XT1922-1</s:tag>
+    <s:tag>XT1922-10</s:tag>
+    <s:tag>XT1922-2</s:tag>
+    <s:tag>XT1922-3</s:tag>
+    <s:tag>XT1922-4</s:tag>
+    <s:tag>XT1922-5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4457072394345</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku>UNLKR14388</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

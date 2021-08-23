@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-ipad-4-wi-fi-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T14:08:23-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641232523369</id>
+    <published>2019-07-28T14:08:23-04:00</published>
+    <updated>2019-07-28T14:08:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-4-wi-fi-microphone"/>
+    <title>iPad 4 Wi-Fi Microphone</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-4-wi-fi-microphone-0-jpg.jpg?v=1571609600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or broken microphone and its flex cable. This part is compatible with an iPad 4 (Wi-Fi models only).</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 4</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641232523369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR12941</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641232425065</id>
+    <published>2019-07-28T14:08:10-04:00</published>
+    <updated>2019-07-28T14:08:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-4-front-camera"/>
+    <title>iPad 4 Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-4-front-camera-0-jpg.jpg?v=1571609587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning front-facing 1.2 MP camera. This part is compatible with an iPad 4.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641232425065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR12940</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641232293993</id>
+    <published>2019-07-28T14:07:56-04:00</published>
+    <updated>2019-07-28T14:07:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-4-lightning-connector"/>
+    <title>Charging Connector For iPad 4</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-4-lightning-connector-0-jpg.jpg?v=1583856389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fix problems with data transfer and charging by replacing a dirty, corroded, or damaged lightning connector. This part is compatible with an iPad 4.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 4</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641232293993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>UNLKR12939</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641232162921</id>
+    <published>2019-07-28T14:07:44-04:00</published>
+    <updated>2019-07-28T14:07:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-4-home-button-control-board-and-cable"/>
+    <title>iPad 4 Home Button Control Board and Cable</title>
+    <s:type>Home Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-4-home-button-control-board-and-cable-0-jpg.jpg?v=1571609563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Home Button<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or torn cable connecting the internal home button switch to the logic board. This part is compatible with an iPad 2, 3, or 4.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Home Button</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641232162921</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR12938</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641231736937</id>
+    <published>2019-07-28T14:07:06-04:00</published>
+    <updated>2019-07-28T14:07:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-3-4-speaker"/>
+    <title>iPad 3/4 Speaker</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-3-4-speaker-0-jpg.jpg?v=1571609465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix problems with loudspeaker audio by replacing a malfunctioning speaker assembly. This part is compatible with a 3rd or 4th generation iPad.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 3</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641231736937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12934</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641231540329</id>
+    <published>2019-07-28T14:06:50-04:00</published>
+    <updated>2019-07-28T14:06:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-3-4-rear-camera"/>
+    <title>iPad 3/4 Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-3-4-rear-camera-0-jpg.jpg?v=1571609453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace  a malfunctioning rear-facing 5 MP camera. This part is compatible with a 3rd or 4th generation iPad.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641231540329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12932</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641231310953</id>
+    <published>2019-07-28T14:05:55-04:00</published>
+    <updated>2019-07-28T14:05:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-3-4-wi-fi-headphone-jack"/>
+    <title>Wi-Fi Headphone Jack Compatible For iPad 3/4</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-3-4-wi-fi-headphone-jack-0-jpg.jpg?v=1571609391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a dirty, corroded, or damaged headphone jack. This part is compatible with an iPad 3 or iPad 4.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 3</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641231310953</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>UNLKR12926</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641230950505</id>
+    <published>2019-07-28T14:04:50-04:00</published>
+    <updated>2019-07-28T14:04:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-3-4-front-camera-bezel"/>
+    <title>iPad 3/4 Front Camera Bezel</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-3-4-front-camera-bezel-0-jpg.jpg?v=1571609337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the metal camera bracket on the inside of an iPad Retina (3rd or 4th generation) front panel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641230950505</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>UNLKR12920</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641230786665</id>
+    <published>2019-07-28T14:04:24-04:00</published>
+    <updated>2019-07-28T14:04:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-3-and-4-wi-fi-bluetooth-antenna"/>
+    <title>iPad 3 and 4 Wi-Fi/Bluetooth Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-3-and-4-wi-fi-bluetooth-antenna-0-jpg.jpg?v=1571609297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix unreliable connectivity to Wi-Fi and bluetooth devices by replacing a damaged or missing Wi-Fi and bluetooth antenna. This part is compatible with a 3rd or 4th generation iPad.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 3</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641230786665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR12917</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641230491753</id>
+    <published>2019-07-28T14:03:08-04:00</published>
+    <updated>2019-07-28T14:03:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-3-4-adhesive-strips"/>
+    <title>iPad 3/4 Adhesive Strips</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-3-4-adhesive-strips-0-jpg.jpg?v=1571609250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the adhesive strips holding the front panel to the rear case of a 3rd or 4th generation iPad. Use these custom cut adhesive strips to fix a loose front panel or to close the case after another internal repair.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 3</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641230491753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12904</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641228787817</id>
+    <published>2019-07-28T13:58:25-04:00</published>
+    <updated>2019-07-28T13:58:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-2-3-4-lock-silent-switch-cover"/>
+    <title>iPad 2/3/4 Lock/Silent Switch Cover</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-2-3-4-lock-silent-switch-cover-0-jpg.jpg?v=1571608943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or missing plastic external lock/silent switch face. This part is compatible with an iPad 2, 3, or 4.  This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 2</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641228787817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12867</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641228460137</id>
+    <published>2019-07-28T13:57:30-04:00</published>
+    <updated>2019-07-28T13:57:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-2-3-4-power-button"/>
+    <title>iPad 2/3/4 Power Button</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-2-3-4-power-button-0-jpg.jpg?v=1571608883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Broken power button? Fix it!  Does not include the ribbon cable or button that is responsible for the functionality of the power button. If your button is not working properly, it's probably a problem with your control cable. Both the white and black iPad have black buttons.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 2</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641228460137</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641228132457</id>
+    <published>2019-07-28T13:56:52-04:00</published>
+    <updated>2019-07-28T13:56:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-2-3-4-volume-button"/>
+    <title>iPad 2/3/4 Volume Button</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-2-3-4-volume-button-0-jpg.jpg?v=1571608844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Is your volume button broken?  This part does not include the ribbon cable or button that is responsible for the functionality of the volume. If your iPad volume button is not working properly, it's probably a problem with your volume control cable. Both the white and black iPad have black buttons.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 2</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641228132457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12853</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641227477097</id>
+    <published>2019-07-28T13:55:25-04:00</published>
+    <updated>2019-07-28T13:55:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-2-3-4-mini-mini-2-backlight-diode"/>
+    <title>iPad 2/3/4/Mini/Mini 2 Backlight Diode</title>
+    <s:type>Backlight</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-2-3-4-mini-mini-2-backlight-diode-0-jpg.jpg?v=1571608742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Backlight<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the backlight diode on the logic board of the following iPad models with their component labels:  iPad Mini D8228iPad Mini 2 D8228iPad 2 D8258 or D8228iPad 3 D8258 or D8228iPad 4 D8258 or D8228</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad 2</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641227477097</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12844</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641227182185</id>
+    <published>2019-07-28T13:54:38-04:00</published>
+    <updated>2019-07-28T13:54:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-2-3-4-home-button-with-spring"/>
+    <title>iPad 2/3/4 Home Button with Spring</title>
+    <s:type>Home Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-2-3-4-home-button-with-spring-black-0-jpg.jpg?v=1571608693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Home Button<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched external home button face with the attached home button spring.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Home Button</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641227182185</id>
+      <title>Black</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12833</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641227182185</id>
+      <title>White</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12834</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641227116649</id>
+    <published>2019-07-28T13:54:21-04:00</published>
+    <updated>2019-07-28T13:54:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-2-3-4-mini-mini-2-backlight-filter-l2200"/>
+    <title>iPad 2/3/4/Mini/Mini 2 Backlight Filter L2200</title>
+    <s:type>Backlight</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-2-3-4-mini-mini-2-backlight-filter-l2200-0-jpg.jpg?v=1571608660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Backlight<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a backlight filter on the logic board of the following iPad models with their component labels:  iPad Mini L2200iPad Mini 2 L2200iPad 2 L2210 or L2200iPad 3 L2210 or L2200iPad 4 L2210 or L2200</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad 2</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641227116649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12828</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641216073833</id>
+    <published>2019-07-28T13:24:19-04:00</published>
+    <updated>2019-07-28T13:24:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-usb-10w-ac-adapter-original"/>
+    <title>iPad USB 10W AC Adapter (Original)</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-usb-10w-ac-adapter-original-0-jpg.jpg?v=1571606447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged AC adapter for your iPad with this part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini 3</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Apple iPhone 5c</s:tag>
+    <s:tag>Apple iPhone 5s</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>Apple iPhone 6 Plus</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:tag>iPad mini 3</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>iPhone 5c</s:tag>
+    <s:tag>iPhone 5s</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>iPhone 6 Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641216073833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12580</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641208340585</id>
+    <published>2019-07-28T13:04:07-04:00</published>
+    <updated>2019-07-28T13:04:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-earbuds-microphone"/>
+    <title>iPhone Earbuds &amp; Microphone</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-earbuds-amp-microphone-0-jpg.jpg?v=1598384637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Includes earbuds and attached remote and microphone.  Supports use with the inline remote:  iPhone 3GS to iPhone 6s and 6s Plus (later models require a 3.5 mm audio jack adapter)iPad (not all models support volume up/down functions)iPod Classic (2008 and later)iPod nano (4th Generation and later)iPod Shuffle 4th GenerationiPod touch (2nd Generation and later)  Supports use without the inline remote:  Any device with 3.5 mm audio out jack</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 9.7 (2017)</s:tag>
+    <s:tag>Apple iPad 9.7 (2018)</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini 3</s:tag>
+    <s:tag>Apple iPad mini 4</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>Apple iPad Pro 10.5 (2017)</s:tag>
+    <s:tag>Apple iPad Pro 11</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Apple iPhone 5c</s:tag>
+    <s:tag>Apple iPhone 5s</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>Apple iPhone 6 Plus</s:tag>
+    <s:tag>Apple iPhone 6s</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>Apple iPhone SE</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 9.7 (2017)</s:tag>
+    <s:tag>iPad 9.7 (2018)</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:tag>iPad mini 3</s:tag>
+    <s:tag>iPad mini 4</s:tag>
+    <s:tag>iPad Pro 10.5 (2017)</s:tag>
+    <s:tag>iPad Pro 11</s:tag>
+    <s:tag>iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>iPhone 5c</s:tag>
+    <s:tag>iPhone 5s</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>iPhone 6 Plus</s:tag>
+    <s:tag>iPhone 6s</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:tag>iPhone SE</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641208340585</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR12373</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641200017513</id>
+    <published>2019-07-28T12:45:15-04:00</published>
+    <updated>2019-07-28T12:45:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/sim-card-eject-tool"/>
+    <title>SIM Card Eject Tool</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/sim-card-eject-tool-0-jpg.jpg?v=1571603613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>The pinnacle of modern ejection technology.  One part handle, one part actuator, combined to form the most elegant, simple, and utterly effective ejection tool conceivable.Use this tool to safely remove the SIM card from your Apple GSM/LTE devices (iPhones and iPads).Treat your iPhone and iPad with the respect and care that it deserves, and not some pernicious paperclip.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 9.7 (2017)</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini 3</s:tag>
+    <s:tag>Apple iPad mini 4</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>Apple iPad Pro 10.5 (2017)</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Apple iPhone 5c</s:tag>
+    <s:tag>Apple iPhone 5s</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>Apple iPhone 6 Plus</s:tag>
+    <s:tag>Apple iPhone 6s</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>Apple iPhone 7</s:tag>
+    <s:tag>Apple iPhone 7 Plus</s:tag>
+    <s:tag>Apple iPhone SE</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 9.7 (2017)</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:tag>iPad mini 3</s:tag>
+    <s:tag>Tools</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641200017513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR12168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/547742187561</id>
+    <published>2018-04-05T12:41:30-04:00</published>
+    <updated>2018-04-05T12:41:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-3-4-battery-oem"/>
+    <title>iPad 3 &amp; iPad 4 Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad_3-4_bty.jpg?v=1620487443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="margin: 0pt 0px; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;">Your <strong>iPad 3 or iPad 4 battery</strong> no longer hold a charge or you experience fast battery draining?</span></p>
+<p dir="ltr" style="margin: 0pt 0px; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;">Is your battery old<span style="color: #222222; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">?</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> There are high chances that your battery is defective. </span></span><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">The</span><span style="color: #222222; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">se signs are saying that it is time to replace your battery because it’s either dead or dying.</span></span></p>
+<p dir="ltr" style="margin: 0pt 0px; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span id="docs-internal-guid-abe929a8-7fff-6451-459c-dfb5ce789baa"> </span></span></p>
+<p dir="ltr" style="margin: 0pt 0px; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Buy a Certified, brand-new OEM battery for your iPad 3 and iPad 4</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">.</span></span><br><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Our batteries are produced with the </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">same quality standard as original Apple iPad batteries. </span></span></p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">This iPad 3 and iPad 4 replacement battery</span><span style="color: #222222; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> is rated at 11560 mAh (42.5 Wh). </span></span></p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;">It will deliver up to 10 hours of battery life exactly when your iPad 3 or iPad 4 was new.</span></p>
+<ul style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; margin-top: 0pt; margin-bottom: 0pt;">
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Zero cycle count</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">UN38.3, MSDS, ROHS, CE Certification</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Delivers up to 10 hours of battery life</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Tested under extreme weather</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">High output current capacity</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">1-Year Warranty </span></li>
+</ul>
+<h3 dir="ltr" style="margin: 14pt 0px 4pt; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Compatibility</span></h3>
+<p dir="ltr" style="margin: 0pt 0px; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">This battery is compatible with a 3rd gen iPad or 4th gen iPad. </span></p>
+<p dir="ltr" style="margin: 0pt 0px; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">The iPad 4th generation is the same battery as the 3rd generation iPad.</span></p>
+<h3 dir="ltr" style="margin: 14pt 0px 4pt; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Warranty</span></h3>
+<p dir="ltr" style="margin: 0pt 0px; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">The replacement iPad 3 and iPad 4 battery comes with 1-year warranty. </span></p>
+<p dir="ltr" style="margin: 0pt 0px; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">As with all our other iPad Battery Replacement Parts. </span></p>
+<p dir="ltr" style="margin: 0pt 0px; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">For any assistance with installation or questions with your product please don’t hesitate to contact our support team.</span></p>
+<p dir="ltr" style="margin: 0pt 0px; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"> </span></p>
+<p dir="ltr" style="margin: 0pt 0px; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Shipping</span></p>
+<p dir="ltr" style="margin: 0pt 0px; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">All items will be shipped from our warehouses in Canada. </span></p>
+<p dir="ltr" style="margin: 0pt 0px; line-height: 1.656; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">All orders placed during business hours will be shipped the same day!</span></p>
+<p dir="ltr" style="margin: 0pt 0px; line-height: 1.38; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"> </span></p>
+<table style="height: auto; width: 500px; border: 1px solid #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; border-collapse: collapse;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="border: 1px dashed #cccccc; width: 446.91px; text-align: center; height: 18px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="border: 1px dashed #cccccc; width: 506.91px; text-align: center; height: 18px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;">iPad Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="border: 1px dashed #cccccc; width: 446.91px; text-align: center; height: 18px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="border: 1px dashed #cccccc; width: 506.91px; text-align: center; height: 18px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;">iPad 3 &amp; iPad 4</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="border: 1px dashed #cccccc; width: 446.91px; text-align: center; height: 18px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="border: 1px dashed #cccccc; width: 506.91px; text-align: center; height: 18px;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif;">A1416 / A1430 / A1403 / A1458 / A1459 / A1460</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="border: 1px dashed #cccccc; width: 446.91px; text-align: center; height: 10px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="border: 1px dashed #cccccc; width: 506.91px; text-align: center; height: 10px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="border: 1px dashed #cccccc; width: 446.91px; text-align: center; height: 20px;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="border: 1px dashed #cccccc; width: 506.91px; text-align: center; height: 20px;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1403</s:tag>
+    <s:tag>A1416</s:tag>
+    <s:tag>A1430</s:tag>
+    <s:tag>A1458</s:tag>
+    <s:tag>A1459</s:tag>
+    <s:tag>A1460</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>iPad</s:tag>
+    <s:tag>iPad 3</s:tag>
+    <s:tag>iPad 4</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi + Cellular</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/547742187561</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>UNLKR11445</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/295959691305</id>
+    <published>2018-03-21T19:51:27-04:00</published>
+    <updated>2018-03-21T19:51:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-4-oem-screen-digitizer"/>
+    <title>Screen Digitizer For iPad 3 &amp; 4</title>
+    <s:type>Digitizer</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iPad-3-4-lcd-display-screen-and-digitizer-black.jpg?v=1620487455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Digitizer<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The screen on your 3rd or 4th generation Apple iPad is cracked, scratched or has become non-responsive? This brand new iPad 4 replacement screen is what you need. Purchase this high quality iPad 3 replacement screen with the recommended repair tools and fix your iPad quickly. This digitizer is compatible with a 3rd gen iPad or 4th gen iPad.</p>
+<p dir="ltr" style="text-align: justify;"><span style="text-align: start;">For customers who demand the </span><strong style="text-align: start;">same standard as original repair parts</strong><span style="text-align: start;">, this OEM iPad replacement part has you covered.</span></p>
+<p dir="ltr" style="text-align: justify;"><strong><u>This iPad digitizer includes the home button with flex cable for iPad 4. If you have an iPad 3, you will have to transfer your home button from your old screen.</u></strong></p>
+<ul>
+<li><strong>Strong Pre-installed Adhesive</strong></li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3 dir="ltr">Compatibility </h3>
+<p style="text-align: justify;">The iPad 4th generation is the same digitizer as the 3rd generation iPad. </p>
+<h3 dir="ltr">Lifetime Warranty</h3>
+<p dir="ltr" style="text-align: justify;">This replacement iPad 4 Digitizer comes with lifetime warranty, as our other iPad Digitizer Repair Parts. Your iPad replacement screen will be shipped from Canada the same business day it is purchased. Don't hesitate to contact our support team if you have any questions or concerns.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 430.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 485.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 430.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 485.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad 3 &amp; 4</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 430.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 485.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1459</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 430.219px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 485.219px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 430.219px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 485.219px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1459</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>iPad</s:tag>
+    <s:tag>iPad 3</s:tag>
+    <s:tag>iPad 4</s:tag>
+    <s:tag>iPad 4 A1459</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi + Cellular</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/295959691305</id>
+      <title>Black</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>UNLKR11374</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/295959691305</id>
+      <title>White</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>UNLKR11375</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+</feed>

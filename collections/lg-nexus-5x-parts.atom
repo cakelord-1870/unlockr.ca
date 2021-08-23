@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/lg-nexus-5x-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T14:49:15-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641255133289</id>
+    <published>2019-07-28T14:49:15-04:00</published>
+    <updated>2019-07-28T14:49:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-5x-power-and-volume-button-covers"/>
+    <title>Nexus 5X Power and Volume Button Covers</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-5x-power-and-volume-button-covers-0-jpg.jpg?v=1571612067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the external button covers for the power and volume functions on a Nexus 5X smartphone. The internal button switches are surface soldered to the motherboard and are not included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>H791</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG Nexus 5X</s:tag>
+    <s:tag>Nexus 5X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641255133289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13245</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641254805609</id>
+    <published>2019-07-28T14:49:01-04:00</published>
+    <updated>2019-07-28T14:49:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-5x-front-camera"/>
+    <title>Nexus 5X Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-5x-front-camera-0-jpg.jpg?v=1571612053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning 5 MP front-facing camera and flex cable assembly for the Google Nexus 5X smartphone manufactured by LG.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>H791</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG Nexus 5X</s:tag>
+    <s:tag>Nexus 5X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641254805609</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13244</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641254510697</id>
+    <published>2019-07-28T14:48:48-04:00</published>
+    <updated>2019-07-28T14:48:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-5x-rear-camera"/>
+    <title>Nexus 5X Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-5x-rear-camera-0-jpg.jpg?v=1571612038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning 12.3 MP rear-facing camera and flex cable assembly for the Google Nexus 5X smartphone manufactured by LG.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>H791</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG Nexus 5X</s:tag>
+    <s:tag>Nexus 5X</s:tag>
+    <s:tag>Nexus 5X H791</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641254510697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR13243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641253658729</id>
+    <published>2019-07-28T14:48:32-04:00</published>
+    <updated>2019-07-28T14:48:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-5x-rear-panel"/>
+    <title>Nexus 5X Rear Panel</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-5x-rear-panel-blue-a-stock-0-jpg.jpg?v=1571612022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or cracked rear plastic panel for the Google Nexus 5X smartphone manufactured by LG.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>H791</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG Nexus 5X</s:tag>
+    <s:tag>Nexus 5X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641253658729</id>
+      <title>Black</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13241</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641253658729</id>
+      <title>Blue</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13242</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641253167209</id>
+    <published>2019-07-28T14:48:18-04:00</published>
+    <updated>2019-07-28T14:48:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-5x-display-adhesive"/>
+    <title>Nexus 5X Display Adhesive</title>
+    <s:type>Display Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-5x-display-adhesive-0-jpg.jpg?v=1571612007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Display Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This custom cut adhesive film secures the front screen display to the case of a Google Nexus 5X.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Display Adhesive</s:tag>
+    <s:tag>H791</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG Nexus 5X</s:tag>
+    <s:tag>Nexus 5X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641253167209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13240</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641252741225</id>
+    <published>2019-07-28T14:48:03-04:00</published>
+    <updated>2019-07-28T14:48:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-5x-screen"/>
+    <title>Nexus 5X Screen</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-5x-screen-new-0-jpg.jpg?v=1571611989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or cracked front glass panel or malfunctioning display for a Google Nexus 5X smartphone manufactured by LG.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>H791</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>LCD Screen and Digitizer</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG Nexus 5X</s:tag>
+    <s:tag>Nexus 5X</s:tag>
+    <s:tag>Nexus 5X H791</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641252741225</id>
+      <title>Part Only</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR13239</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641252348009</id>
+    <published>2019-07-28T14:47:49-04:00</published>
+    <updated>2019-07-28T14:47:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-5x-replacement-battery"/>
+    <title>Nexus 5X Replacement Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-5x-replacement-battery-new-0-jpg.jpg?v=1605205982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a dead or malfunctioning battery for an LG Nexus 5X smartphone.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>H791</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG Nexus 5X</s:tag>
+    <s:tag>Nexus 5X</s:tag>
+    <s:tag>Nexus 5X H791</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641252348009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR13236</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+</feed>

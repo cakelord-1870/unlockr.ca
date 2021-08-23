@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-ipad-mini-1-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-10-06T21:29:13-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/4183745986665</id>
+    <published>2019-10-06T21:29:13-04:00</published>
+    <updated>2019-10-06T21:29:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-2-3-lcd-1"/>
+    <title>iPad Mini 1 LCD &amp; Flex Cable</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fix problems with a flickering or dark display or missing pixels by replacing a malfunctioning LCD display screen. This part is compatible with the first generation iPad mini. This is the LCD Only, it doesn't not include the Digitizer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1432</s:tag>
+    <s:tag>A1454</s:tag>
+    <s:tag>A1455</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPad Mini</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183745986665</id>
+      <title>Certified</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>UNLKR13018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3645909598313</id>
+    <published>2019-08-01T16:56:51-04:00</published>
+    <updated>2019-08-01T16:56:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-2-3-lcd"/>
+    <title>iPad Mini 1 LCD &amp; Flex Cable</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-2-3-lcd-0-jpg.jpg?v=1567637414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fix problems with a flickering or dark display or missing pixels by replacing a malfunctioning LCD display screen. This part is compatible with the first generation iPad mini. This is the LCD Only, it doesn't not include the Digitizer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1432</s:tag>
+    <s:tag>A1454</s:tag>
+    <s:tag>A1455</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPad Mini</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3645909598313</id>
+      <title>AAA</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>UNLKR14068</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641235046505</id>
+    <published>2019-07-28T14:14:12-04:00</published>
+    <updated>2019-07-28T14:14:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-ipad-mini-2-ipad-air-power-button"/>
+    <title>iPad mini, iPad mini 2, &amp; iPad Air Power Button</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-ipad-mini-2-amp-ipad-air-power-button-silver-0-jpg.jpg?v=1571609952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or missing external power button cover. This part is compatible with a 1st or 2nd generation iPad mini or a 1st generation iPad Air.  This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641235046505</id>
+      <title>Silver</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641235046505</id>
+      <title>Gray</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641235046505</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641234849897</id>
+    <published>2019-07-28T14:13:45-04:00</published>
+    <updated>2019-07-28T14:13:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-mini-2-left-cellular-antenna"/>
+    <title>iPad mini &amp; mini 2 Left Cellular Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-amp-mini-2-left-cellular-antenna-0-jpg.jpg?v=1571609923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix unreliable connectivity to cellular service by replacing a damaged or missing left cellular antenna. This part is compatible with a 1st or 2nd generation iPad mini.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641234849897</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12996</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641234784361</id>
+    <published>2019-07-28T14:13:31-04:00</published>
+    <updated>2019-07-28T14:13:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-lightning-connector"/>
+    <title>iPad mini Lightning Connector</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-lightning-connector-black-1-jpg.jpg?v=1571609909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a corroded or damaged lightning connector assembly and fix problems with charging or connecting to USB devices and save a logic board from e-waste. This part is soldered to the logic board.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641234784361</id>
+      <title>Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12993</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641234784361</id>
+      <title>White</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12994</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641234718825</id>
+    <published>2019-07-28T14:13:18-04:00</published>
+    <updated>2019-07-28T14:13:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-mini-2-right-cellular-antenna"/>
+    <title>iPad mini &amp; mini 2 Right Cellular Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-amp-mini-2-right-cellular-antenna-0-jpg.jpg?v=1571609895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix unreliable connectivity to cellular service by replacing a damaged or missing right cellular antenna. This part is compatible with a 1st or 2nd generation iPad mini.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641234718825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12992</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641234587753</id>
+    <published>2019-07-28T14:13:04-04:00</published>
+    <updated>2019-07-28T14:13:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-mini-2-gps-antenna"/>
+    <title>iPad mini &amp; mini 2 GPS Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-amp-mini-2-gps-antenna-0-jpg.jpg?v=1571609882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fix unreliable connectivity to global positioning signals by replacing a damaged or missing GPS antenna. This part is compatible with a 1st or 2nd generation iPad mini.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641234587753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641234522217</id>
+    <published>2019-07-28T14:12:51-04:00</published>
+    <updated>2019-07-28T14:12:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-microphone"/>
+    <title>iPad mini Microphone</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-microphone-0-jpg.jpg?v=1571609871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning microphone and flex cable assembly. This part is compatible with a 1st generation iPad mini.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641234522217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12988</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641234325609</id>
+    <published>2019-07-28T14:12:35-04:00</published>
+    <updated>2019-07-28T14:12:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-ipad-mini-mini-2-mini-3-front-camera"/>
+    <title>iPad Air, iPad mini, mini 2, &amp; mini 3 Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-ipad-mini-mini-2-amp-mini-3-front-camera-new-0-jpg.jpg?v=1571609855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning front-facing 1.2 MP camera. This part is compatible with a 1st generation iPad Air, iPad mini, iPad mini 2, or iPad mini 3.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini 3</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:tag>iPad mini 3</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641234325609</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12987</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641234292841</id>
+    <published>2019-07-28T14:12:19-04:00</published>
+    <updated>2019-07-28T14:12:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-headphone-jack"/>
+    <title>iPad mini Headphone Jack</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-headphone-jack-black-new-0-jpg.jpg?v=1571609841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix problems with headphone audio by replacing a corroded or damaged headphone jack assembly. This part is compatible with a 1st generation iPad mini.  This cable also contains the connections for the microphone and antenna.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641234292841</id>
+      <title>Black</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12982</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641234292841</id>
+      <title>White</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12983</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641234161769</id>
+    <published>2019-07-28T14:12:02-04:00</published>
+    <updated>2019-07-28T14:12:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-ipad-mini-mini-2-mini-3-rear-camera"/>
+    <title>iPad Air, iPad mini, mini 2, &amp; mini 3 Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-ipad-mini-mini-2-amp-mini-3-rear-camera-new-0-jpg.jpg?v=1571609822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning rear-facing camera. This part is compatible with a 1st generation iPad Air, iPad mini, iPad mini 2, or iPad mini 3.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini 3</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:tag>iPad mini 3</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641234161769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12981</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641234096233</id>
+    <published>2019-07-28T14:11:49-04:00</published>
+    <updated>2019-07-28T14:11:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-4g-lcd-shield-plate"/>
+    <title>iPad mini 4G LCD Shield Plate</title>
+    <s:type>Shield Plate</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-4g-lcd-shield-plate-0-jpg.jpg?v=1571609796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Shield Plate<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the shield between the LCD and the other internal components of the iPad mini with this part.This is a used part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641234096233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR12977</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641234030697</id>
+    <published>2019-07-28T14:11:37-04:00</published>
+    <updated>2019-07-28T14:11:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-volume-control-cable"/>
+    <title>iPad mini Volume Control Cable</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-volume-control-cable-0-jpg.jpg?v=1571609769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged cable or a worn out internal switch for the volume control buttons, mute/silent switch, or power button.  This part is often the culprit when your volume buttons, mute switch, or power button don't work properly.  The Volume Control Cable Assembly includes mounted external volume buttons.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641234030697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>UNLKR12976</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641233768553</id>
+    <published>2019-07-28T14:11:13-04:00</published>
+    <updated>2019-07-28T14:11:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-volume-control-cable-assembly"/>
+    <title>iPad mini Volume Control Cable Assembly</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-volume-control-cable-assembly-0-jpg.jpg?v=1571609746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix an unresponsive volume button or mute switch by replacing a damaged or torn cable connecting the internal audio control buttons and vibrate/ring switch to the logic board. This part is compatible with a 1st generation iPad mini.  This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641233768553</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641233473641</id>
+    <published>2019-07-28T14:10:47-04:00</published>
+    <updated>2019-07-28T14:10:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-mini-2-home-button"/>
+    <title>iPad mini &amp; mini 2 Home Button</title>
+    <s:type>Home Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-amp-mini-2-home-button-black-without-gasket-0-jpg.jpg?v=1571609721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Home Button<br>
+        <strong>Price: </strong>
+            9.99 - 12.99
+            <a href="https://unlockr.ca/products/ipad-mini-mini-2-home-button">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or missing external home button cover. This part is compatible with a 1st or 2nd generation iPad mini with retina display.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>Home Button</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641233473641</id>
+      <title>Black / Without Gasket</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12970</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641233473641</id>
+      <title>White / Without Gasket</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12971</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641233473641</id>
+      <title>Black / With Gasket</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR12972</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641233473641</id>
+      <title>White / With Gasket</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR12973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641233342569</id>
+    <published>2019-07-28T14:10:32-04:00</published>
+    <updated>2019-07-28T14:10:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-1-2-and-ipad-air-front-camera-bezel"/>
+    <title>iPad mini 1/2 and iPad Air Front Camera Bezel</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-1-2-and-ipad-air-front-camera-bezel-0-jpg.jpg?v=1571609701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the metal camera bracket on the inside of an iPad mini (1st or 2nd generation) or iPad Air (1st generation) front panel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641233342569</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>UNLKR12965</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641233244265</id>
+    <published>2019-07-28T14:10:13-04:00</published>
+    <updated>2019-07-28T14:10:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-ipad-mini-2-ipad-air-mute-silent-button"/>
+    <title>iPad mini, iPad mini 2, &amp; iPad Air Mute/Silent Button</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-ipad-mini-2-amp-ipad-air-mute-silent-button-gray-0-jpg.jpg?v=1571609681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the external mute/silent button cover with this part. It does not include the internal mute switch.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641233244265</id>
+      <title>Gray</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12961</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641233244265</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12962</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641233145961</id>
+    <published>2019-07-28T14:09:59-04:00</published>
+    <updated>2019-07-28T14:09:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-and-ipad-mini-volume-and-power-button-cable"/>
+    <title>iPad Air and iPad mini Volume and Power Button Cable</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-and-ipad-mini-volume-and-power-button-cable-new-0-jpg.jpg?v=1571609668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix an unresponsive power or audio button by replacing a damaged power and volume button cable or one with worn out switches. This cable assembly is compatible with a 1st generation iPad Air or iPad mini. This cable connects the volume buttons, mute/silent button, the power button, and the vibrate/ring switch to the logic board.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641233145961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR12956</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641233080425</id>
+    <published>2019-07-28T14:09:45-04:00</published>
+    <updated>2019-07-28T14:09:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-mini-2-wi-fi-bluetooth-antenna"/>
+    <title>iPad mini &amp; mini 2 Wi-Fi/Bluetooth Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-amp-mini-2-wi-fi-bluetooth-antenna-0-jpg.jpg?v=1571609655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fix unreliable connectivity to Wi-Fi and bluetooth devices by replacing a damaged or missing Wi-Fi and bluetooth antenna. This part is compatible with a 1st or 2nd generation iPad mini. This part is often damaged during the removal of the front panel.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641233080425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12954</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641233014889</id>
+    <published>2019-07-28T14:09:32-04:00</published>
+    <updated>2019-07-28T14:09:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-mini-2-digitizer-magnets"/>
+    <title>iPad mini &amp; mini 2 Digitizer Magnets</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-amp-mini-2-digitizer-magnets-0-jpg.jpg?v=1571609642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace one or both missing or damaged digitizer magnets mounted on the inside of the front panel of a 1st or 2nd generation iPad mini. These magnets activate the sleep/wake sensors. This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641233014889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12952</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641232785513</id>
+    <published>2019-07-28T14:08:52-04:00</published>
+    <updated>2019-07-28T14:08:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-mini-mini-2-adhesive-strips"/>
+    <title>iPad mini &amp; mini 2 Adhesive Strips</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-mini-amp-mini-2-adhesive-strips-0-jpg.jpg?v=1571609611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Use these custom cut adhesive strips to fix a loose front panel or to close the case after another internal repair. These adhesive strips are compatible with a 1st or 2nd generation iPad mini.  Individual pieces fit precisely around important components and provide a sturdy closure.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad Mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641232785513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12947</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641227477097</id>
+    <published>2019-07-28T13:55:25-04:00</published>
+    <updated>2019-07-28T13:55:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-2-3-4-mini-mini-2-backlight-diode"/>
+    <title>iPad 2/3/4/Mini/Mini 2 Backlight Diode</title>
+    <s:type>Backlight</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-2-3-4-mini-mini-2-backlight-diode-0-jpg.jpg?v=1571608742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Backlight<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the backlight diode on the logic board of the following iPad models with their component labels:  iPad Mini D8228iPad Mini 2 D8228iPad 2 D8258 or D8228iPad 3 D8258 or D8228iPad 4 D8258 or D8228</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad 2</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641227477097</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12844</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641227116649</id>
+    <published>2019-07-28T13:54:21-04:00</published>
+    <updated>2019-07-28T13:54:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-2-3-4-mini-mini-2-backlight-filter-l2200"/>
+    <title>iPad 2/3/4/Mini/Mini 2 Backlight Filter L2200</title>
+    <s:type>Backlight</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-2-3-4-mini-mini-2-backlight-filter-l2200-0-jpg.jpg?v=1571608660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Backlight<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a backlight filter on the logic board of the following iPad models with their component labels:  iPad Mini L2200iPad Mini 2 L2200iPad 2 L2210 or L2200iPad 3 L2210 or L2200iPad 4 L2210 or L2200</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>iPad 2</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641227116649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12828</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641216073833</id>
+    <published>2019-07-28T13:24:19-04:00</published>
+    <updated>2019-07-28T13:24:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-usb-10w-ac-adapter-original"/>
+    <title>iPad USB 10W AC Adapter (Original)</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-usb-10w-ac-adapter-original-0-jpg.jpg?v=1571606447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged AC adapter for your iPad with this part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini 3</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Apple iPhone 5c</s:tag>
+    <s:tag>Apple iPhone 5s</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>Apple iPhone 6 Plus</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:tag>iPad mini 3</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>iPhone 5c</s:tag>
+    <s:tag>iPhone 5s</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>iPhone 6 Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641216073833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12580</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641208340585</id>
+    <published>2019-07-28T13:04:07-04:00</published>
+    <updated>2019-07-28T13:04:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-earbuds-microphone"/>
+    <title>iPhone Earbuds &amp; Microphone</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-earbuds-amp-microphone-0-jpg.jpg?v=1598384637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Includes earbuds and attached remote and microphone.  Supports use with the inline remote:  iPhone 3GS to iPhone 6s and 6s Plus (later models require a 3.5 mm audio jack adapter)iPad (not all models support volume up/down functions)iPod Classic (2008 and later)iPod nano (4th Generation and later)iPod Shuffle 4th GenerationiPod touch (2nd Generation and later)  Supports use without the inline remote:  Any device with 3.5 mm audio out jack</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 9.7 (2017)</s:tag>
+    <s:tag>Apple iPad 9.7 (2018)</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini 3</s:tag>
+    <s:tag>Apple iPad mini 4</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>Apple iPad Pro 10.5 (2017)</s:tag>
+    <s:tag>Apple iPad Pro 11</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Apple iPhone 5c</s:tag>
+    <s:tag>Apple iPhone 5s</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>Apple iPhone 6 Plus</s:tag>
+    <s:tag>Apple iPhone 6s</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>Apple iPhone SE</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 9.7 (2017)</s:tag>
+    <s:tag>iPad 9.7 (2018)</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:tag>iPad mini 3</s:tag>
+    <s:tag>iPad mini 4</s:tag>
+    <s:tag>iPad Pro 10.5 (2017)</s:tag>
+    <s:tag>iPad Pro 11</s:tag>
+    <s:tag>iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>iPhone 5c</s:tag>
+    <s:tag>iPhone 5s</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>iPhone 6 Plus</s:tag>
+    <s:tag>iPhone 6s</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:tag>iPhone SE</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641208340585</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR12373</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

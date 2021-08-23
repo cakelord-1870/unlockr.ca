@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-ipad-pro-129-2015-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-10-06T21:46:25-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/4183805395049</id>
+    <published>2019-10-06T21:46:25-04:00</published>
+    <updated>2019-10-06T21:46:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-12-9-battery"/>
+    <title>Battery For iPad Pro 12.9 2015 1st Gen</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-12-9-quot-battery-0-jpg.jpg?v=1598636822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a dead or dying battery in a 1st generation 12.9 inch iPad Pro tablet. This battery is brand new! Each one has been tested to confirm that there are no cycles on the cell.Installation adhesive is pre-installed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1584</s:tag>
+    <s:tag>A1652</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183805395049</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>UNLKR13155</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641243402345</id>
+    <published>2019-07-28T14:36:13-04:00</published>
+    <updated>2019-07-28T14:36:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-12-9-wi-fi-lightning-connector"/>
+    <title>iPad Pro 12.9 (Wi-Fi) Lightning Connector</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-12-9-quot-wi-fi-lightning-connector-white-0-jpg.jpg?v=1571611292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the lightning port and its cable and save a logic board from e-waste. This part is soldered to the logic board.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1584</s:tag>
+    <s:tag>A1652</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>iPad Pro 12.9 (2015)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641243402345</id>
+      <title>White</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13166</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641243402345</id>
+      <title>Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13167</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641243304041</id>
+    <published>2019-07-28T14:35:59-04:00</published>
+    <updated>2019-07-28T14:35:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-12-9-display-cable"/>
+    <title>iPad Pro 12.9 Display Cable</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-12-9-quot-display-cable-0-jpg.jpg?v=1571611277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the flex cable that connects the display daughter board to the logic board.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1584</s:tag>
+    <s:tag>A1652</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>iPad Pro 12.9 (2015)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641243304041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR13165</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641243238505</id>
+    <published>2019-07-28T14:35:42-04:00</published>
+    <updated>2019-07-28T14:35:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-12-9-smart-connector-cable"/>
+    <title>Smart Connector Cable For iPad Pro 12.9 2015</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-12-9-quot-smart-connector-cable-0-jpg.jpg?v=1598567184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace the Smart Connector flex cable and three metal contacts for the 12.9' iPad Pro.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1584</s:tag>
+    <s:tag>A1652</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>iPad Pro 12.9 (2015)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641243238505</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641243140201</id>
+    <published>2019-07-28T14:35:29-04:00</published>
+    <updated>2019-07-28T14:35:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-12-9-volume-and-power-button-cable"/>
+    <title>iPad Pro 12.9 Volume and Power Button Cable</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-12-9-quot-volume-and-power-button-cable-0-jpg.jpg?v=1571611249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This flex cable contains the internal power and volume button switches, one microphone, and the ambient light sensor.This part does not include the external metal button covers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1584</s:tag>
+    <s:tag>A1652</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>iPad Pro 12.9 (2015)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641243140201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13163</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641243074665</id>
+    <published>2019-07-28T14:35:15-04:00</published>
+    <updated>2019-07-28T14:35:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-12-9-sim-card-bay"/>
+    <title>iPad Pro 12.9 SIM Card Bay</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-12-9-quot-sim-card-bay-0-jpg.jpg?v=1571611236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace your damaged SIM Card slot. Your SIM Card and SIM Card Tray fit inside the SIM Card Bay.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1584</s:tag>
+    <s:tag>A1652</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>iPad Pro 12.9 (2015)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641243074665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR13162</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641242681449</id>
+    <published>2019-07-28T14:34:25-04:00</published>
+    <updated>2019-07-28T14:34:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-12-9-headphone-jack"/>
+    <title>iPad Pro 12.9 Headphone Jack</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-12-9-quot-headphone-jack-black-0-jpg.jpg?v=1571611205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the headphone jack and its flex cable. The assembly includes one of the ambient light sensors.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1584</s:tag>
+    <s:tag>A1652</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>iPad Pro 12.9 (2015)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641242681449</id>
+      <title>Black</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR13158</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641242681449</id>
+      <title>White</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR13159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641242615913</id>
+    <published>2019-07-28T14:34:08-04:00</published>
+    <updated>2019-07-28T14:34:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-12-9-cellular-lightning-connector"/>
+    <title>iPad Pro 12.9 (Cellular) Lightning Connector</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-12-9-quot-cellular-lightning-connector-white-0-jpg.jpg?v=1571611187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the lightning port and its cable and save a logic board from e-waste. This part is soldered to the logic board.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1584</s:tag>
+    <s:tag>A1652</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>iPad Pro 12.9 (2015)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641242615913</id>
+      <title>White</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641242615913</id>
+      <title>Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641242452073</id>
+    <published>2019-07-28T14:33:18-04:00</published>
+    <updated>2019-07-28T14:33:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-12-9-adhesive-strips"/>
+    <title>iPad Pro 12.9 Adhesive Strips</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-12-9-quot-adhesive-strips-0-jpg.jpg?v=1571611136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>These strips are custom cut specifically for the 12.9 inch model iPad Pro.Individual pieces fit precisely around important components and provide a sturdy closure.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1584</s:tag>
+    <s:tag>A1652</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>iPad Pro 12.9 (2015)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641242452073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3615494504553</id>
+    <published>2019-07-09T16:45:48-04:00</published>
+    <updated>2019-07-09T16:45:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-129-lcd-screen-and-digitizer-assembly-1st-gen"/>
+    <title>iPad Pro 12.9 LCD Screen and Digitizer Assembly (1st Gen)</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad_pro_12.9_lcd_screen_and_digitizer_front_panel_with_glass_replacement_part_black.jpg?v=1591646158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            289.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="text-align: justify;">For iPad Pro 12.9 LCD Screen and Digitizer. For customers who demand the <strong>same standard as original repair parts</strong>, the iPad parts has you covered. The Full assembly is offered to you for a <strong>faster &amp; easier iPad repair.</strong> You won’t need to <strong>transfer the old broken LCD</strong> display because it is already preinstalled on this part. </p>
+<p dir="ltr" style="text-align: justify;">This assembly comes with the daughterboard pre-installed so there is no soldering required to perform this repair.</p>
+<p dir="ltr" style="text-align: justify;"><strong style="text-align: start;">Notice : Only the original home button assembly will support Touch ID on your device.</strong></p>
+<ul>
+<li>Daughterboard Pre-installed </li>
+<li>LCD &amp; Digitizer</li>
+<li>Touch Digitizer and IC</li>
+<li>Backlight</li>
+<li>Foam Connector Pads</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3 dir="ltr">Lifetime Warranty</h3>
+<p dir="ltr" style="text-align: justify;">This replacement iPad Pro 12.9" LCD Screen and Digitizer Assembly comes with lifetime warranty, as our other iPad LCD Repair Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad Pro 12.9"</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1584 / A1652</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1584</s:tag>
+    <s:tag>A1652</s:tag>
+    <s:tag>A1670</s:tag>
+    <s:tag>A1671</s:tag>
+    <s:tag>A1821</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>iPad</s:tag>
+    <s:tag>iPad Pro 12.9</s:tag>
+    <s:tag>iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3615494504553</id>
+      <title>Black</title>
+      <s:price currency="CAD">289.99</s:price>
+      <s:sku>UNLKR11966</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3615494504553</id>
+      <title>White</title>
+      <s:price currency="CAD">289.99</s:price>
+      <s:sku>UNLKR11967</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

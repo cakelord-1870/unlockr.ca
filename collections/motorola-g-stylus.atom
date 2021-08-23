@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/motorola-g-stylus.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-06-09T10:17:33-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/6967247962286</id>
+    <published>2021-06-09T10:17:33-04:00</published>
+    <updated>2021-06-09T10:17:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/motorola-moto-g-stylus-xt2115-lcd-screen-and-digitizer-assembly"/>
+    <title>Motorola Moto G Stylus XT2115 LCD Screen and Digitizer Assembly</title>
+    <s:type>LCD &amp; Digitizer</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Motorola-Moto-G-Stylus-2021-XT2115-LCD-Digitizer-Assembly.jpg?v=1623248258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>LCD &amp; Digitizer<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Motorola Moto G Stylus XT2115 screen replacement? If you dropped your Motorola Moto G Stylus XT2115 and broke the front glass it can be repaired!</p>
+<p>You can replace your broken Motorola Moto G Stylus XT2115 screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, Our Motorola parts have you covered.</p>
+<ul>
+<li>LCD &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Motorola Moto G Stylus XT2115 LCD Screens and Digitizers come with a lifetime warranty, as the other Motorola LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Motorola LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Motorola Moto G Stylus XT2115</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;">Full LCD Display Touch Screen Digitizer</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Moto</s:tag>
+    <s:tag>Motorola</s:tag>
+    <s:tag>XT2115</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6967247962286</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>UNLKR14858</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/motorola-nexus-6-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T14:52:04-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641259262057</id>
+    <published>2019-07-28T14:52:04-04:00</published>
+    <updated>2019-07-28T14:52:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-6-rear-camera"/>
+    <title>Nexus 6 Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-6-rear-camera-0-jpg.jpg?v=1571612229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix your broken camera!  13 MP front facing camera with optical image stabilization and 4K video capture capabilities.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>Motorola</s:tag>
+    <s:tag>Motorola Nexus 6</s:tag>
+    <s:tag>Nexus 6</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:tag>XT1100</s:tag>
+    <s:tag>XT1103</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641259262057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13257</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641258999913</id>
+    <published>2019-07-28T14:51:49-04:00</published>
+    <updated>2019-07-28T14:51:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-6-front-camera"/>
+    <title>Nexus 6 Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-6-front-camera-0-jpg.jpg?v=1571612215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix your broken camera!  2 MP front facing camera with HD video conferencing capability.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>Motorola</s:tag>
+    <s:tag>Motorola Nexus 6</s:tag>
+    <s:tag>Nexus 6</s:tag>
+    <s:tag>XT1100</s:tag>
+    <s:tag>XT1103</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641258999913</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13256</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641258410089</id>
+    <published>2019-07-28T14:51:27-04:00</published>
+    <updated>2019-07-28T14:51:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-6-wireless-charging-coil"/>
+    <title>Nexus 6 Wireless Charging Coil</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-6-wireless-charging-coil-0-jpg.jpg?v=1571612201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This internal inductive charging coil works with an external charging station charge the Nexus 6 battery.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Motorola</s:tag>
+    <s:tag>Motorola Nexus 6</s:tag>
+    <s:tag>Nexus 6</s:tag>
+    <s:tag>XT1100</s:tag>
+    <s:tag>XT1103</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641258410089</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>UNLKR13255</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641257525353</id>
+    <published>2019-07-28T14:50:58-04:00</published>
+    <updated>2019-07-28T14:50:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-6-display-adhesive"/>
+    <title>Nexus 6 Display Adhesive</title>
+    <s:type>Display Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-6-display-adhesive-0-jpg.jpg?v=1571612171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Display Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This custom cut adhesive film secures the front screen display assembly to the case of a Nexus 6.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Display Adhesive</s:tag>
+    <s:tag>Motorola</s:tag>
+    <s:tag>Motorola Nexus 6</s:tag>
+    <s:tag>Nexus 6</s:tag>
+    <s:tag>XT1100</s:tag>
+    <s:tag>XT1103</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641257525353</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13253</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641257066601</id>
+    <published>2019-07-28T14:50:43-04:00</published>
+    <updated>2019-07-28T14:50:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-6-headphone-jack"/>
+    <title>Nexus 6 Headphone Jack</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-6-headphone-jack-0-jpg.jpg?v=1571612157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the headphone jack assembly for the Google Nexus 6 smartphone.  This is a used, OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Motorola</s:tag>
+    <s:tag>Motorola Nexus 6</s:tag>
+    <s:tag>Nexus 6</s:tag>
+    <s:tag>XT1100</s:tag>
+    <s:tag>XT1103</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641257066601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13252</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641256869993</id>
+    <published>2019-07-28T14:50:29-04:00</published>
+    <updated>2019-07-28T14:50:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-6-earpiece-speaker"/>
+    <title>Nexus 6 Earpiece Speaker</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-6-earpiece-speaker-0-jpg.jpg?v=1571612144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>If you can hear me, clap once!  Replace a damaged or broken earpiece speaker. This is a used, OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Motorola</s:tag>
+    <s:tag>Motorola Nexus 6</s:tag>
+    <s:tag>Nexus 6</s:tag>
+    <s:tag>XT1100</s:tag>
+    <s:tag>XT1103</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641256869993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13251</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641256378473</id>
+    <published>2019-07-28T14:50:11-04:00</published>
+    <updated>2019-07-28T14:50:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-6-rear-panel"/>
+    <title>Nexus 6 Rear Panel</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-6-rear-panel-black-a-stock-0-jpg.jpg?v=1571612127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            6.99 - 9.99
+            <a href="https://unlockr.ca/products/nexus-6-rear-panel">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched rear panel  This is only the exterior rear cover and does not include the plastic midframe.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Motorola</s:tag>
+    <s:tag>Motorola Nexus 6</s:tag>
+    <s:tag>Nexus 6</s:tag>
+    <s:tag>XT1100</s:tag>
+    <s:tag>XT1103</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641256378473</id>
+      <title>Black</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13249</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641256378473</id>
+      <title>White</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13250</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641256018025</id>
+    <published>2019-07-28T14:49:56-04:00</published>
+    <updated>2019-07-28T14:49:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-6-midframe"/>
+    <title>Nexus 6 Midframe</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-6-midframe-0-jpg.jpg?v=1571612111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged midframe with a midnight blue edge bezel.  This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Motorola</s:tag>
+    <s:tag>Motorola Nexus 6</s:tag>
+    <s:tag>Nexus 6</s:tag>
+    <s:tag>XT1100</s:tag>
+    <s:tag>XT1103</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641256018025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR13248</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641255821417</id>
+    <published>2019-07-28T14:49:43-04:00</published>
+    <updated>2019-07-28T14:49:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-6-screen"/>
+    <title>Nexus 6 Screen</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-6-screen-0-jpg.jpg?v=1571612097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a cracked or malfunctioning display and digitizer for a Nexus 6 model XT1103 or XT1100 smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>LCD Screen and Digitizer</s:tag>
+    <s:tag>Motorola</s:tag>
+    <s:tag>Motorola Nexus 6</s:tag>
+    <s:tag>Nexus 6</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:tag>XT1100</s:tag>
+    <s:tag>XT1103</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641255821417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>UNLKR13247</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641255559273</id>
+    <published>2019-07-28T14:49:30-04:00</published>
+    <updated>2019-07-28T14:49:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/nexus-6-replacement-battery"/>
+    <title>Replacement Battery For Nexus 6</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/nexus-6-replacement-battery-0-jpg.jpg?v=1611802783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Swap out your dead or damaged battery with this part.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>Motorola</s:tag>
+    <s:tag>Motorola Nexus 6</s:tag>
+    <s:tag>Nexus 6</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>XT1100</s:tag>
+    <s:tag>XT1103</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641255559273</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13246</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

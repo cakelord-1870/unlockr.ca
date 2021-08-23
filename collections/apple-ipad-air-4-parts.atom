@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-ipad-air-4-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-06-08T14:15:32-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/6952855470254</id>
+    <published>2021-06-08T14:15:32-04:00</published>
+    <updated>2021-06-08T14:15:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-4-2020-10-9-lcd-digitizer-assembly"/>
+    <title>iPad Air 4 2020 10.9 LCD &amp; Digitizer Assembly</title>
+    <s:type>LCD &amp; Digitizer</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipadair4-apple-A2316-A2324-A2072-air4-ipad.jpg?v=1623176133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD &amp; Digitizer<br>
+        <strong>Price: </strong>
+            629.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: justify;" dir="ltr">Replacement screen assembly for iPad Air 4 LCD and Digitizer. For customers with a high quality standard, the iPad parts has you covered. The Full assembly is offered to you for a <strong>faster &amp; easier iPad repair.</strong> You won’t need to <strong>transfer the old broken LCD</strong> display because it is already preinstalled on the part.</p>
+<p style="text-align: justify;" dir="ltr"><strong style="text-align: start;">Notice : Only the original home button assembly will support Touch ID on your device.</strong></p>
+<ul>
+<li>LCD &amp; Digitizer</li>
+<li>Touch Digitizer and IC</li>
+<li>Backlight</li>
+<li>Foam Connector Pads</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3 dir="ltr">Lifetime Warranty</h3>
+<p style="text-align: justify;" dir="ltr">This replacement iPad Air 4 LCD Screen and Digitizer Assembly comes with lifetime warranty, as our other iPad LCD Repair Parts.</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad Air 4</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;">A2316, A2324, A2072</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.91px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A2072</s:tag>
+    <s:tag>A2316</s:tag>
+    <s:tag>A2324</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPad Air 4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6952855470254</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">629.99</s:price>
+      <s:sku>UNLKR14857</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

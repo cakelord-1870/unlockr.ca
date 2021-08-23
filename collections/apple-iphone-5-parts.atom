@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-iphone-5-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-10-06T21:06:43-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/4183727472745</id>
+    <published>2019-10-06T21:06:43-04:00</published>
+    <updated>2019-10-06T21:06:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-front-camera-and-sensor-cable"/>
+    <title>iPhone 5 Front Camera and Sensor Cable</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-front-camera-and-sensor-cable-0-jpg.jpg?v=1571608454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged front camera and sensor cable for your iPhone 5 smartphone with this part. This assembly includes the front facing camera, secondary microphone, ambient light and proximity sensors.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183727472745</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR12801</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4183724687465</id>
+    <published>2019-10-06T21:03:17-04:00</published>
+    <updated>2019-10-06T21:03:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-lightning-connector-and-headphone-jack"/>
+    <title>iPhone 5 Lightning Connector and Headphone Jack</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-lightning-connector-and-headphone-jack-white-3-jpg.jpg?v=1571608207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>The Lightning Connector and Headphone Jack is assembly is your solution to connectivity and charging problems. If your phone isn't charging, has connectivity problems, is not recognized when plugged into your computer via USB, or if the microphone isn't detecting sound, this iPhone 5 compatible part could fix the problem. But if you have a clogged headphone jack, there are easier fixes than replacing the partu2014you should check out the GripStick.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183724687465</id>
+      <title>Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12778</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183724687465</id>
+      <title>White</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12779</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4183651483753</id>
+    <published>2019-10-06T19:39:30-04:00</published>
+    <updated>2019-10-06T19:39:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lcd-metal-back-plate-for-iphone-5"/>
+    <title>LCD Metal Back Plate for iPhone 5</title>
+    <s:type>LCD Plate</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD Plate<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p>The iPhone 5 LCD shield plate is used for heat disbursement and protection for the LCD. It is installed between the main body and the LCD of your iPhone 5. The screws for iPhone 5 required for the installation are not included.</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 445.9926452636719px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 507.316162109375px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone Rear-Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.9926452636719px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 507.316162109375px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone 5 (4")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.9926452636719px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 507.316162109375px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1428 / A1429</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.9926452636719px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 507.316162109375px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Apple</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 445.9926452636719px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 507.316162109375px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>LCD Metal Plate</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183651483753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>UNLKR11890</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3643759886441</id>
+    <published>2019-07-30T14:33:37-04:00</published>
+    <updated>2019-07-30T14:33:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-lcd-screen-and-digitizer"/>
+    <title>iPhone 5 LCD Screen and Digitizer</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iPhone-5-lcd-display-screen-and-digitizer-black-1_6425f180-885d-446c-b56a-b42fdff03bb3.jpg?v=1620487509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            24.99 - 28.99
+            <a href="https://unlockr.ca/products/iphone-5-lcd-screen-and-digitizer">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for an iPhone 5 screen replacement ? If you dropped your iPhone 5 and broke the front glass it can be repaired ! You can replace your broken iPhone screen easily. The repair takes just a few minutes with our replacement parts.</p>
+<h3><strong>Certified (Recommended)</strong></h3>
+<p>The Certified screens for iPhone 5 LCD Screens and Digitizers are built with <strong>noticeably higher brightness and contrast </strong>than others. Certified screens are custom built to match or <strong>exceed our strict specification standards</strong> in terms of brightness and color reproduction.</p>
+<ul>
+<li>Color calibrated LCD &amp; Digitizer</li>
+<li>High Brightness Backlight</li>
+<li>Aligned Front Camera Ring</li>
+<li>Foam Connector Pads</li>
+<li>Ear Speaker Grill and Mounting Gasket</li>
+<li>Proximity Sensor Bracket</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Preassembled</strong></h3>
+<p>The Preassembled Aftermarket screens for iPhone 5 LCD Screens and Digitizers has additional phone parts preinstalled. It is offered to you for a <strong>faster &amp; easier iPhone repair.</strong> You won’t need to <strong>transfer the front camera with sensors, speaker and backplate</strong> from the old broken LCD display because they are preinstalled on the part.</p>
+<ul>
+<li>Ear Speaker With Bracket</li>
+<li>Front Camera With Bracket</li>
+<li>Backplate With Home Button Flex Cable</li>
+<li>Proximity Sensor With Bracket</li>
+<li>Ear Speaker Grill and Mounting Gasket</li>
+<li>Foam Connector Pads</li>
+<li>High Quality Aftermarket LCD &amp; Digitizer</li>
+<li>High Quality Aftermarket Backlight</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement iPhone 5 LCD Screens and Digitizers come with lifetime warranty, as the other iPhone LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone 5 (4")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1428 / A1429</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty<br></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3643759886441</id>
+      <title>Black / Certified</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR11103</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3643759886441</id>
+      <title>White / Certified</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR11104</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3643759886441</id>
+      <title>Black / Preassembled</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>UNLKR11105</s:sku>
+      <s:grams>63</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3643759886441</id>
+      <title>White / Preassembled</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>UNLKR11106</s:sku>
+      <s:grams>63</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641226362985</id>
+    <published>2019-07-28T13:52:51-04:00</published>
+    <updated>2019-07-28T13:52:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-lcd-shield-plate"/>
+    <title>iPhone 5 LCD Shield Plate</title>
+    <s:type>Shield Plate</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-lcd-shield-plate-new-0-jpg.jpg?v=1571608565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Shield Plate<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a bent or missing metal plate that fits between the LCD and the rest of the internal parts of an iPhone 5. The shield plate disburses heat and protects the back of the LCD.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641226362985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR12811</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641226231913</id>
+    <published>2019-07-28T13:52:27-04:00</published>
+    <updated>2019-07-28T13:52:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-earpiece-speaker"/>
+    <title>iPhone 5 Earpiece Speaker</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-earpiece-speaker-0-jpg.jpg?v=1571608551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning earpiece speaker in an iPhone 5 and fix problems with phone call audio.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641226231913</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12809</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641226100841</id>
+    <published>2019-07-28T13:52:13-04:00</published>
+    <updated>2019-07-28T13:52:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-nano-sim-card-tray"/>
+    <title>iPhone 5 Nano SIM Card Tray</title>
+    <s:type>SIM Card Tray</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-nano-sim-card-tray-black-0-jpg.jpg?v=1583167207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>SIM Card Tray<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a bent or missing SIM card tray for an iPhone 5. This tray holds the nano SIM card and is inserted on the side of the phone. Keep your SIM card safe and functioning.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641226100841</id>
+      <title>Black</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR12807</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641226100841</id>
+      <title>White</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR12808</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641225937001</id>
+    <published>2019-07-28T13:51:48-04:00</published>
+    <updated>2019-07-28T13:51:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-blank-rear-case"/>
+    <title>iPhone 5 Blank Rear Case</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-blank-rear-case-black-1-jpg.jpg?v=1571608503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or dented rear case of an iPhone 5. No internal components are included and no logo or text is printed on the back.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225937001</id>
+      <title>Black</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>UNLKR12804</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225937001</id>
+      <title>White</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>UNLKR12805</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641225871465</id>
+    <published>2019-07-28T13:51:34-04:00</published>
+    <updated>2019-07-28T13:51:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-power-and-lock-button"/>
+    <title>iPhone 5 Power and Lock Button</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-power-and-lock-button-black-new-0-jpg.jpg?v=1571608485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or missing external button cover for the power/lock button for an iPhone 5.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225871465</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12802</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225871465</id>
+      <title>White</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12803</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641225707625</id>
+    <published>2019-07-28T13:51:09-04:00</published>
+    <updated>2019-07-28T13:51:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-rear-camera-lens-cover"/>
+    <title>iPhone 5 Rear Camera Lens Cover</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-rear-camera-lens-cover-black-0-jpg.jpg?v=1571608432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched external lens cover for your rear-facing camera.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>iPhone 5 A1429</s:tag>
+    <s:tag>iPhone 5 CDMA</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225707625</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12799</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225707625</id>
+      <title>White</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12800</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641225674857</id>
+    <published>2019-07-28T13:50:55-04:00</published>
+    <updated>2019-07-28T13:50:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-volume-buttons"/>
+    <title>iPhone 5 Volume Buttons</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-volume-buttons-black-new-0-jpg.jpg?v=1571608412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or missing external volume control button cover for an iPhone 5.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225674857</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12797</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225674857</id>
+      <title>White</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12798</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641225576553</id>
+    <published>2019-07-28T13:50:44-04:00</published>
+    <updated>2019-07-28T13:50:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-rear-camera"/>
+    <title>iPhone 5 Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-rear-camera-0-jpg.jpg?v=1571608397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning 8 megapixel rear-facing main camera for an iPhone 5. The assembly includes the LED flash.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>iPhone 5 A1429</s:tag>
+    <s:tag>iPhone 5 CDMA</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225576553</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12796</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641225412713</id>
+    <published>2019-07-28T13:50:13-04:00</published>
+    <updated>2019-07-28T13:50:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-vibrate-ring-switch"/>
+    <title>iPhone 5 Vibrate/Ring Switch</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-vibrate-ring-switch-black-0-jpg.jpg?v=1571608358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or missing external switch cover for the vibrate/ring switch on an iPhone 5.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225412713</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12790</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225412713</id>
+      <title>White</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12791</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641225379945</id>
+    <published>2019-07-28T13:50:01-04:00</published>
+    <updated>2019-07-28T13:50:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-home-button-bracket"/>
+    <title>iPhone 5 Home Button Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-home-button-bracket-0-jpg.jpg?v=1571608344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a bent or missing metal bracket securing the home button assembly to the display assembly of an iPhone 5.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225379945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR12789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641225281641</id>
+    <published>2019-07-28T13:49:50-04:00</published>
+    <updated>2019-07-28T13:49:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-loudspeaker-contact-clip"/>
+    <title>iPhone 5 Loudspeaker Contact Clip</title>
+    <s:type>Loudspeaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-loudspeaker-contact-clip-0-jpg.jpg?v=1571608331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Loudspeaker<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a bent or missing small metal contact clip that fits over the plastic tab on the loudspeaker assembly. This clip is compatible with an iPhone 5.  See the contact clip's location in the detail photo.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Audio</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>Loudspeaker</s:tag>
+    <s:tag>Speaker</s:tag>
+    <s:tag>Speakerphone</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225281641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>UNLKR12788</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641225248873</id>
+    <published>2019-07-28T13:49:40-04:00</published>
+    <updated>2019-07-28T13:49:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-cellular-antenna"/>
+    <title>iPhone 5 Cellular Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-cellular-antenna-0-jpg.jpg?v=1571608318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or missing cellular antenna in an iPhone 5 and fix unreliable connectivity to cell service. This antenna is adhered to the loudspeaker.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225248873</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12787</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641225117801</id>
+    <published>2019-07-28T13:49:18-04:00</published>
+    <updated>2019-07-28T13:49:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-front-camera-bracket"/>
+    <title>iPhone 5 Front Camera Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-front-camera-bracket-0-jpg.jpg?v=1571608292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This metal bracket secures the front facing camera to the display assembly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225117801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12785</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641225019497</id>
+    <published>2019-07-28T13:49:07-04:00</published>
+    <updated>2019-07-28T13:49:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-interconnect-cable"/>
+    <title>iPhone 5 Interconnect Cable</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-interconnect-cable-0-jpg.jpg?v=1571608278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>The straight cable is related to cellular signal strength. The angled cable is related to GPS signal strength.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641225019497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12784</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641224855657</id>
+    <published>2019-07-28T13:48:56-04:00</published>
+    <updated>2019-07-28T13:48:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-audio-control-and-power-button-cable"/>
+    <title>iPhone 5 Audio Control and Power Button Cable</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-audio-control-and-power-button-cable-0-jpg.jpg?v=1571608264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>If your volume or power buttons have no clicking action or your mute switch doesn't work properly anymore, the Audio Control and Power Button Cable may be the part you need. This iPhone 5 compatible cable connects the volume buttons, mute/silent button, power button, and vibrate/ring switch to the logic board. It also contains contacts which the vibrator rests on in order to connect it to the logic board.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641224855657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12783</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641224822889</id>
+    <published>2019-07-28T13:48:44-04:00</published>
+    <updated>2019-07-28T13:48:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-wi-fi-antenna"/>
+    <title>iPhone 5 Wi-Fi Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-wi-fi-antenna-0-jpg.jpg?v=1571608249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or missing Wi-Fi antenna in an iPhone 5 and fix unreliable connectivity to Wi-Fi devices. This is an OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641224822889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12782</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641224757353</id>
+    <published>2019-07-28T13:48:34-04:00</published>
+    <updated>2019-07-28T13:48:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-loudspeaker"/>
+    <title>iPhone 5 Loudspeaker</title>
+    <s:type>Loudspeaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-loudspeaker-new-0-jpg.jpg?v=1571608235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Loudspeaker<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the a malfunctioning loudspeaker in an iPhone 5 and fix problems with speakerphone audio output.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Audio</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>Loudspeaker</s:tag>
+    <s:tag>Speaker</s:tag>
+    <s:tag>Speakerphone</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641224757353</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR12781</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641224626281</id>
+    <published>2019-07-28T13:48:23-04:00</published>
+    <updated>2019-07-28T13:48:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-home-button-ribbon-cable"/>
+    <title>iPhone 5 Home Button Ribbon Cable</title>
+    <s:type>Home Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-home-button-ribbon-cable-new-0-jpg.jpg?v=1571608222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Home Button<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>If your home button has no clicking action to it, this is most likely the problem. This part includes the flex cable, internal home button switch, and the gold contacts, but does not include the colored, plastic home button itself. We do sell the actual home button too.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1429</s:tag>
+    <s:tag>A1442</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Home Button</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641224626281</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR12780</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641224134761</id>
+    <published>2019-07-28T13:46:34-04:00</published>
+    <updated>2019-07-28T13:46:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-5s-5c-fl11-filter"/>
+    <title>iPhone 5/5s/5c FL11 Filter</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-5s-5c-fl11-filter-0-jpg.jpg?v=1571608113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace an FL11 filter on the logic board of an iPhone 5, 5c, or 5s.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1453</s:tag>
+    <s:tag>A1456</s:tag>
+    <s:tag>A1507</s:tag>
+    <s:tag>A1516</s:tag>
+    <s:tag>A1529</s:tag>
+    <s:tag>A1532</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Apple iPhone 5c</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>iPhone 5C</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641224134761</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR12764</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641222987881</id>
+    <published>2019-07-28T13:42:52-04:00</published>
+    <updated>2019-07-28T13:42:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-and-5c-home-button"/>
+    <title>iPhone 5 and 5c Home Button</title>
+    <s:type>Home Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-and-5c-home-button-black-2-jpg.jpg?v=1571607802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Home Button<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This home button is compatible with both iPhone 5 and iPhone 5c. If your button is scratched or cracked, this replacement part will make your phone look good as new. Keep in mind, this is just a button coveru2014not the actual actuator that's integrated in the home button cable. So if your home button is not working properly, the button cable is the more likely culprit. We sell the home button ribbon cable compatible with iPhone 5 and the home button ribbon cable compatible with iPhone 5c too.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1456</s:tag>
+    <s:tag>A1507</s:tag>
+    <s:tag>A1516</s:tag>
+    <s:tag>A1529</s:tag>
+    <s:tag>A1532</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Apple iPhone 5c</s:tag>
+    <s:tag>Home Button</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>iPhone 5c</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641222987881</id>
+      <title>Black</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12737</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641222987881</id>
+      <title>White</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12738</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641209421929</id>
+    <published>2019-07-28T13:07:10-04:00</published>
+    <updated>2019-07-28T13:07:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-5-to-6s-plus-front-camera-gasket-pads"/>
+    <title>iPhone 5 to 6s Plus Front Camera Gasket Pads</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-5-to-6s-plus-front-camera-gasket-pads-0-jpg.jpg?v=1571605143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the adhesive gasket ring on the lens end of the front-facing camera of an iPhone 5, 5s, 5c, SE, 6, 6 Plus, 6s, or 6s Plus.Set of 5 foam gasket pads.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1428</s:tag>
+    <s:tag>A1453</s:tag>
+    <s:tag>A1662</s:tag>
+    <s:tag>A1723</s:tag>
+    <s:tag>A1724</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Apple iPhone 5c</s:tag>
+    <s:tag>Apple iPhone 5s</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>Apple iPhone 6 Plus</s:tag>
+    <s:tag>Apple iPhone 6s</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>Apple iPhone SE</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>iPhone 5c</s:tag>
+    <s:tag>iPhone 5s</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>iPhone 6 Plus</s:tag>
+    <s:tag>iPhone 6s</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:tag>iPhone SE</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641209421929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>UNLKR12419</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

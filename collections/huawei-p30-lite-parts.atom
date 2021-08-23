@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/huawei-p30-lite-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-07-20T11:52:11-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/7209754263726</id>
+    <published>2021-07-20T11:52:11-04:00</published>
+    <updated>2021-07-20T11:52:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/antenna-flex-cable-compatible-for-huawei-p30-lite-mar-lx1-mar-al00"/>
+    <title>Antenna Flex Cable Compatible For Huawei P30 Lite MAR-LX1 MAR-AL00</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/antenna-flex-Huawei-P30-Lite-p30lite-MAR-LX1-MAR-AL00.jpg?v=1626796332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Replace the antenna cable that connects the motherboard and USB daughter board.</span></p>
+<p>Compatible with: Huawei P30 Lite, MAR-LX1, MAR-LX1M, MAR-AL00, MAR-LX2, MAR-AL01<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Antenna</s:tag>
+    <s:tag>Huawei</s:tag>
+    <s:tag>Huawei P30 Lite</s:tag>
+    <s:tag>MAR-AL00</s:tag>
+    <s:tag>MAR-AL01</s:tag>
+    <s:tag>MAR-LX1</s:tag>
+    <s:tag>MAR-LX1M</s:tag>
+    <s:tag>MAR-LX2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7209754263726</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14960</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6967475110062</id>
+    <published>2021-06-09T10:42:01-04:00</published>
+    <updated>2021-06-09T10:42:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/earpiece-speaker-for-huawei-p20-p20-pro-p20-lite-p30-honor-mate-20-lite"/>
+    <title>Earpiece Speaker For Huawei P20 P20 Pro P20 Lite P30 Honor 8X Nova 3i Mate 20 Lite</title>
+    <s:type>Ear Speaker</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/p20pro-huawei-ear-piece-speaker-p20-p30lite-p30honor-mate20-lite.jpg?v=1623249721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Ear Speaker<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged or malfunctioning earpiece speaker in a Huawei P20, P20 Pro, P20 Lite, P30 Honor, Mate 20 Lite, smartphone to fix phone call audio.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ANE-LX1</s:tag>
+    <s:tag>CLT-AL00</s:tag>
+    <s:tag>EML-L29</s:tag>
+    <s:tag>Huawei</s:tag>
+    <s:tag>Huawei Mate 20 Lite</s:tag>
+    <s:tag>Huawei P20</s:tag>
+    <s:tag>Huawei P20 Lite</s:tag>
+    <s:tag>Huawei P20 Pro</s:tag>
+    <s:tag>MAR-LX1</s:tag>
+    <s:tag>SNE-LX3</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6967475110062</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14859</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4820119584873</id>
+    <published>2020-10-22T14:37:19-04:00</published>
+    <updated>2020-10-22T14:37:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/replacement-battery-for-huawei-p30-lite"/>
+    <title>Replacement Battery For Huawei P30 lite HB356687ECW</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/new-replacement-battery-for-huawei-p30-lite.jpg?v=1622574543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have a Huawei P30 lite that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your Huawei P30 lite </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly?</span> </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Does your cell phone only work when the battery is plugged in?</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new Huawei P30 lite replacement battery.</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The old battery in your cell phone can swell inside and damage the internals.</span></p>
+<p>Our Batteries for Huawei P30 lite are <strong>brand-new batteries</strong> coming directly from our manufacturer. They are custom-built for customers who demand the <strong>same quality as original Huawei</strong> <strong>batteries. </strong></p>
+<ul>
+<li>Zero cycle count</li>
+<li>Tested under extreme weather</li>
+<li>100% New with premium components</li>
+<li>High output current capacity</li>
+<li>1 Year Warranty</li>
+</ul>
+<h3>Compatibility</h3>
+<p>Hawei Nova 2 Plus, BAC-TL00, BAC-AL00, HB356687ECW, BAC-AL23, Honor 7X, CAZ-TL00, BND-L21, BND-L24,</p>
+<p>Huawei P30 Lite, MAR-LX1, MAR-LX1M, MAR-AL00, MAR-LX2, MAR-AL01, </p>
+<p>Nova 4E HD, Mate 10 Lite, RNE-L01, RNE-L21, RNE-L23,</p>
+<h3>Warranty</h3>
+<p>The Replacement Huawei P30 lite Battery comes with a 1-year warranty, as the other Huawei Battery Replacement Parts.</p>
+<table style="height: 84px; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei P30 lite / Mate 10 Lite</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 445.6px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BACTL00</s:tag>
+    <s:tag>battery</s:tag>
+    <s:tag>HB356687ECW</s:tag>
+    <s:tag>Huawei</s:tag>
+    <s:tag>Lite</s:tag>
+    <s:tag>MAR-LX1</s:tag>
+    <s:tag>MARAL00</s:tag>
+    <s:tag>Mate 10 Lite</s:tag>
+    <s:tag>newFor</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>RNE-L01</s:tag>
+    <s:tag>RNE-L02</s:tag>
+    <s:tag>RNE-L03</s:tag>
+    <s:tag>RNE-L11</s:tag>
+    <s:tag>RNE-L21</s:tag>
+    <s:tag>RNE-L22</s:tag>
+    <s:tag>RNE-L23</s:tag>
+    <s:tag>RNEL21</s:tag>
+    <s:tag>RNEL23Model</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4820119584873</id>
+      <title>Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14592</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4806734708841</id>
+    <published>2020-10-08T14:24:08-04:00</published>
+    <updated>2020-10-08T14:24:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/rear-camera-for-huawei-p30-lite"/>
+    <title>Rear Camera For Huawei P30 lite</title>
+    <s:type>Rear Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/back-camera-for-huawei-p30-lite-mar-lx1-mar-al00-0-jpg.jpg?v=1602181453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Rear Camera<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Huawei P30 lite rear camera replacement? If you dropped your Huawei P30 lite and broke the rear camera it can be repaired!</p>
+<p>You can replace your broken Huawei P30 lite rear-facing camera using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>This part includes the P30 lite front-facing camera and flex cable.</p>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Huawei P30 lite front-facing camera come with a lifetime warranty, as the other Huawei Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Rear-Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei P30 lite</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HDback</s:tag>
+    <s:tag>Huawei</s:tag>
+    <s:tag>Lite</s:tag>
+    <s:tag>MAR-AL00</s:tag>
+    <s:tag>MAR-LX1A</s:tag>
+    <s:tag>MAR-LX1M</s:tag>
+    <s:tag>MAR-LX2</s:tag>
+    <s:tag>MAR-LX3A</s:tag>
+    <s:tag>MAR-TL00</s:tag>
+    <s:tag>MARAL00</s:tag>
+    <s:tag>MARAL01Nova</s:tag>
+    <s:tag>Marie-L01A</s:tag>
+    <s:tag>Marie-L21A</s:tag>
+    <s:tag>Marie-L21MEA</s:tag>
+    <s:tag>Marie-L22A</s:tag>
+    <s:tag>MARLX1</s:tag>
+    <s:tag>MARLX1M</s:tag>
+    <s:tag>MARLX2</s:tag>
+    <s:tag>NewFor</s:tag>
+    <s:tag>P30</s:tag>
+    <s:tag>P30 lite</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4806734708841</id>
+      <title>Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>UNLKR14586</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4578655010921</id>
+    <published>2020-03-25T15:48:19-04:00</published>
+    <updated>2020-03-25T15:48:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/charging-port-assembly-for-huawei-p30-lite-1"/>
+    <title>Charging Port Assembly Compatible For Huawei P30 Lite</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/charging-port-flex-oem-for-huawei-p30-lite-mar-lx1-mar-al00-0-jpg.jpg?v=1585165704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for your Huawei P30 lite charging port replacement? If you damaged your Huawei P30 lite and broke the charging port it can be repaired!</p>
+<p>You can replace your broken Huawei P30 lite charging port using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Huawei P30 lite charging port come with a lifetime warranty, as the other Huawei Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 439.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 500.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei charging port</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 439.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 500.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei P30 lite</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 439.219px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 500.219px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 439.219px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 500.219px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HDcharging</s:tag>
+    <s:tag>Huawei</s:tag>
+    <s:tag>Lite</s:tag>
+    <s:tag>MAR-AL00</s:tag>
+    <s:tag>MAR-LX1A</s:tag>
+    <s:tag>MAR-LX1M</s:tag>
+    <s:tag>MAR-LX2</s:tag>
+    <s:tag>MAR-LX3A</s:tag>
+    <s:tag>MAR-TL00</s:tag>
+    <s:tag>MARAL00</s:tag>
+    <s:tag>MARAL01Nova</s:tag>
+    <s:tag>Marie-L01A</s:tag>
+    <s:tag>Marie-L21A</s:tag>
+    <s:tag>Marie-L21MEA</s:tag>
+    <s:tag>Marie-L22A</s:tag>
+    <s:tag>MARLX1</s:tag>
+    <s:tag>MARLX1M</s:tag>
+    <s:tag>MARLX2</s:tag>
+    <s:tag>NewFor</s:tag>
+    <s:tag>P30</s:tag>
+    <s:tag>P30 lite</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4578655010921</id>
+      <title>Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14465</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4438087991401</id>
+    <published>2019-12-13T12:00:32-05:00</published>
+    <updated>2019-12-13T12:00:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/tempered-glass-for-huawei-series"/>
+    <title>Tempered Glass For Huawei P Series</title>
+    <s:type>Tempered Glass</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/tempglasssingle.png?v=1623244991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Tempered Glass<br>
+        <strong>Price: </strong>
+            1.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-size: 14px; font-weight: 400;">Tempered Glass for Huawei Series. It adds a layer of protection on the screen of your device to protect it from breaking and scratching. They include oleophobic coating to prevent fingerprints and provide extra protection. The high quality glass it's made of ensures original image clarity perfect touch sensitivity.</p>
+<h3><strong>Warranty</strong></h3>
+<p style="font-size: 14px; font-weight: 400;">The Replacement Tempered Glass come with a 1 year warranty, as the other tempered glasses. </p>
+<table style="font-size: 14px; font-weight: 400; height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei Tempered Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible With</strong></span></td>
+<td style="width: 508px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty<br></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ANE-LX1</s:tag>
+    <s:tag>EML-L29</s:tag>
+    <s:tag>Huawei</s:tag>
+    <s:tag>HWV32</s:tag>
+    <s:tag>MAR-LX1</s:tag>
+    <s:tag>NE-TL00</s:tag>
+    <s:tag>P20 lite</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4438087991401</id>
+      <title>P20</title>
+      <s:price currency="CAD">1.79</s:price>
+      <s:sku>UNLKR14374</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4438087991401</id>
+      <title>P20 Lite</title>
+      <s:price currency="CAD">1.79</s:price>
+      <s:sku>UNLKR14377</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4438087991401</id>
+      <title>P30 Lite</title>
+      <s:price currency="CAD">1.79</s:price>
+      <s:sku>UNLKR14375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4328396423273</id>
+    <published>2019-10-29T23:42:05-04:00</published>
+    <updated>2019-10-29T23:42:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/huawei-p30-lite-camera-lens"/>
+    <title>Huawei P30 lite Camera lens</title>
+    <s:type>Camera Lens</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1572406895For_Huawei_P30_lite_Rear_Facing_Camera_Lens_Replacement.jpg?v=1572406931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Camera Lens<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Huawei P30 lite Rear Camera Lens is designed to allow the replacement of your broken Camera Lens. </p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Rear Camera Lens</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei P30 lite</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Huawei</s:tag>
+    <s:tag>Huawei P30 Lite</s:tag>
+    <s:tag>Lite</s:tag>
+    <s:tag>MAR-AL00</s:tag>
+    <s:tag>MAR-LX1A</s:tag>
+    <s:tag>MAR-LX1M</s:tag>
+    <s:tag>MAR-LX2</s:tag>
+    <s:tag>MAR-LX3A</s:tag>
+    <s:tag>MAR-TL00</s:tag>
+    <s:tag>MARAL00</s:tag>
+    <s:tag>MARAL01Nova</s:tag>
+    <s:tag>Marie-L01A</s:tag>
+    <s:tag>Marie-L21A</s:tag>
+    <s:tag>Marie-L21MEA</s:tag>
+    <s:tag>Marie-L22A</s:tag>
+    <s:tag>MARLX1</s:tag>
+    <s:tag>MARLX1M</s:tag>
+    <s:tag>MARLX2</s:tag>
+    <s:tag>P30</s:tag>
+    <s:tag>P30 lite</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4328396423273</id>
+      <title>Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR14288</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4309231435881</id>
+    <published>2019-10-24T01:26:26-04:00</published>
+    <updated>2019-10-24T01:26:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/huawei-p30-lite-back-cover-rear-glass"/>
+    <title>Huawei P30 Lite Back Cover Rear Glass With Camera Lens</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1575576739Huawei-P30-lite-back-glass-cover-blue.jpg?v=1618605504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Huawei P30 Lite Back Cover Rear Glass is designed to allow the replacement of your broken casing.</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei Rear Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">P30 Lite</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif;">MAR-LX1M, MAR-AL00, MAR-TL00, MAR-LX2, Marie-L21A, Marie-L01A, Marie-L21MEA, Marie-L22A, MAR-LX1A, MAR-LX3A</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.219px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.219px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.219px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.219px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Back Glass</s:tag>
+    <s:tag>Huawei</s:tag>
+    <s:tag>Huawei P30 lite</s:tag>
+    <s:tag>MAR-AL00</s:tag>
+    <s:tag>MAR-LX1A</s:tag>
+    <s:tag>MAR-LX1M</s:tag>
+    <s:tag>MAR-LX2</s:tag>
+    <s:tag>MAR-LX3A</s:tag>
+    <s:tag>MAR-TL00</s:tag>
+    <s:tag>Marie-L01A</s:tag>
+    <s:tag>Marie-L21A</s:tag>
+    <s:tag>Marie-L21MEA</s:tag>
+    <s:tag>Marie-L22A</s:tag>
+    <s:tag>P30 Lite</s:tag>
+    <s:tag>Rear Cover</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4309231435881</id>
+      <title>Black - Low Version</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR14260</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4309231435881</id>
+      <title>Peacock Blue - Low Version</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR14359</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3627990974569</id>
+    <published>2019-07-19T13:16:09-04:00</published>
+    <updated>2019-07-19T13:16:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/huawei-p30-lite-lcd-screen-and-digitizer-with-frame"/>
+    <title>Screen and Digitizer LCD Frame Assembly For Huawei P30 LITE</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1585166129Replacement_LCD_Screen_Assembly_with_frame_For_Huawei_P30_Lite_new1.jpg?v=1596656010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Warning : 2 Variants are possible, please refer to the red circle on the image to tell which version you need.</strong></p>
+<p>Looking for a Huawei P30 LITE screen replacement ? If you dropped your Huawei P30 LITE and broke the front glass, it can be repaired ! You can replace your broken Huawei screen using our high quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>The Screens for Huawei P30 LITE LCD Screens and Digitizers has <strong>components from original screens.</strong> For customers who demand the <strong>same standard as original repair parts</strong>, the parts compatible with Huawei has you covered.</p>
+<ul>
+<li>LCD &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Huawei P10 Lite LCD Screens and Digitizers come with lifetime warranty, as the other Huawei LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei P30 Lite (6.15")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 509px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 509px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Huawei</s:tag>
+    <s:tag>Huawei P30 Lite</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>MAR-AL00</s:tag>
+    <s:tag>MAR-LX1A</s:tag>
+    <s:tag>MAR-LX1M</s:tag>
+    <s:tag>MAR-LX2</s:tag>
+    <s:tag>MAR-LX3A</s:tag>
+    <s:tag>MAR-TL00</s:tag>
+    <s:tag>Marie-L01A</s:tag>
+    <s:tag>Marie-L21A</s:tag>
+    <s:tag>Marie-L21MEA</s:tag>
+    <s:tag>Marie-L22A</s:tag>
+    <s:tag>P30 Lite</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3627990974569</id>
+      <title>Low Version</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>UNLKR11970</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3627990974569</id>
+      <title>High Version</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>UNLKR14507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

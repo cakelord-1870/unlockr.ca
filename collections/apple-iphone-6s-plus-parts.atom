@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-iphone-6s-plus-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-10-06T20:35:42-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/4183705682025</id>
+    <published>2019-10-06T20:35:42-04:00</published>
+    <updated>2019-10-06T20:35:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-sim-card-slot-reader"/>
+    <title>iPhone 6s Plus SIM Card Slot/Reader</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-sim-card-slot-reader-0-jpg.jpg?v=1571606101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged SIM card tray holder socket on the logic board. This part is compatible with an iPhone 6s Plus.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183705682025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12525</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4183705550953</id>
+    <published>2019-10-06T20:35:25-04:00</published>
+    <updated>2019-10-06T20:35:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-top-left-wi-fi-antenna-1"/>
+    <title>iPhone 6s Plus Top Left Wi-Fi Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-top-left-wi-fi-antenna-0-jpg.jpg?v=1571606083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the Wi-Fi antenna in the top left of the rear case.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183705550953</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12524</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4183705092201</id>
+    <published>2019-10-06T20:34:56-04:00</published>
+    <updated>2019-10-06T20:34:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-blank-rear-case"/>
+    <title>iPhone 6s Plus Blank Rear Case</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-blank-rear-case-black-0-jpg.jpg?v=1571606059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or dented rear case and edge bezel.  Looking for a used OEM case? Find it here.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183705092201</id>
+      <title>Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12520</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183705092201</id>
+      <title>Silver</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12521</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183705092201</id>
+      <title>Gold</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12522</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183705092201</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12523</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4183704862825</id>
+    <published>2019-10-06T20:34:38-04:00</published>
+    <updated>2019-10-06T20:34:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-wi-fi-diversity-antenna-1"/>
+    <title>iPhone 6s Plus Wi-Fi Diversity Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-wi-fi-diversity-antenna-0-jpg.jpg?v=1571606036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix unreliable connectivity to Wi-Fi devices by replacing a damaged or missing Wi-Fi diversity antenna. This part is compatible with an iPhone 6s Plus.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183704862825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR12519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4183644995689</id>
+    <published>2019-10-06T19:33:43-04:00</published>
+    <updated>2019-10-06T19:33:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-salvaged-front-facing-camera-assembly-with-sensors-2-pack"/>
+    <title>iPhone 6S Plus Salvaged Front-Facing Camera Assembly With Sensors (2-Pack)</title>
+    <s:type>Small Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Small Parts<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p>This iPhone 6S Plus Salvaged Front-Facing Camera with Sensors Flex is designed to allow the replacement of your broken camera and is salvaged from a broken device. It includes the front-facing camera, secondary microphone, ambient light and proximity sensors.</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone Front-Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 506.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone 6S Plus (5.5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 506.531px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1634 / A1687 / A1699</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.531px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 506.531px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Apple</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.531px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.531px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone 6S Plus</s:tag>
+    <s:tag>Refurbished</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183644995689</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR11767</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4183641161833</id>
+    <published>2019-10-06T19:30:43-04:00</published>
+    <updated>2019-10-06T19:30:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-back-housing"/>
+    <title>Back Housing Complete Assembly For iPhone 6S Plus</title>
+    <s:type>Housing</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1582053800Replacement_back_housing_complete_assembly_for_iPhone_6S.jpg?v=1620671534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Housing<br>
+        <strong>Price: </strong>
+            62.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p>The iPhone 6S Plus Back Housing with Power and Volume Flex, Buttons and Rear Camera Lens assembly is designed to allow the replacement of the broken back of your device. This part has the same coloration as the Apple Original Back Housing.</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 440px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 501px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone Back Housing</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 440px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 501px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone 6S Plus (5.1")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 440px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 501px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1634 / A1687 / A1699</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 440px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 501px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 440px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 501px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Back Housing</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone 6S Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183641161833</id>
+      <title>Space Grey</title>
+      <s:price currency="CAD">62.99</s:price>
+      <s:sku>UNLKR11779</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183641161833</id>
+      <title>Silver</title>
+      <s:price currency="CAD">62.99</s:price>
+      <s:sku>UNLKR11780</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183641161833</id>
+      <title>Gold</title>
+      <s:price currency="CAD">62.99</s:price>
+      <s:sku>UNLKR11781</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183641161833</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">62.99</s:price>
+      <s:sku>UNLKR11782</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641215549545</id>
+    <published>2019-07-28T13:22:34-04:00</published>
+    <updated>2019-07-28T13:22:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-volume-button-bracket"/>
+    <title>iPhone 6s Plus Volume Button Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-volume-button-bracket-0-jpg.jpg?v=1571606344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix an unresponsive audio control button by replacing a bent or missing metal bracket securing the volume switches to the inside of the rear case. This part is compatible with an iPhone 6s Plus.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641215549545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12552</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641215451241</id>
+    <published>2019-07-28T13:22:24-04:00</published>
+    <updated>2019-07-28T13:22:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-power-button-cable-and-bracket"/>
+    <title>iPhone 6s Plus Power Button Cable and Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-power-button-cable-and-bracket-new-0-jpg.jpg?v=1571606317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>If your power button has no clicking action or your camera flash doesn't work, this may be the part you need.This cable connects the power button and camera flash to the logic board.The metal power button bracket is included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641215451241</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12551</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641215385705</id>
+    <published>2019-07-28T13:22:13-04:00</published>
+    <updated>2019-07-28T13:22:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-antenna-clip"/>
+    <title>iPhone 6s Plus Antenna Clip</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-antenna-clip-0-jpg.jpg?v=1571606305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the clip that holds the antenna cables to the edge of the loudspeaker assembly. See the clip's location in the detail photo.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641215385705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR12550</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641215320169</id>
+    <published>2019-07-28T13:21:44-04:00</published>
+    <updated>2019-07-28T13:21:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-power-button-bracket"/>
+    <title>iPhone 6s Plus Power Button Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-power-button-bracket-0-jpg.jpg?v=1571606296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix an unresponsive power button by replacing a bent or missing metal bracket securing the power switch to the inside of the rear case. This part is compatible with an iPhone 6s Plus.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641215320169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12543</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641215287401</id>
+    <published>2019-07-28T13:21:33-04:00</published>
+    <updated>2019-07-28T13:21:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-audio-control-cable"/>
+    <title>iPhone 6s Plus Audio Control Cable</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-audio-control-cable-new-0-jpg.jpg?v=1571606284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the cable and internal switches for the volume and mute controls.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641215287401</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR12542</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641215221865</id>
+    <published>2019-07-28T13:21:23-04:00</published>
+    <updated>2019-07-28T13:21:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-front-panel-clips"/>
+    <title>iPhone 6s Plus Front Panel Clips</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-front-panel-clips-0-jpg.jpg?v=1571606273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the set of five retaining clips in the edges of the rear case of an iPhone 6s Plus. These clips help hold the front panel assembly in place. Two short clips and one long clip fit in the left edge of the rear case. Two more long clips fit in the right edge and one includes a flange for the antenna cable.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641215221865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12541</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641215090793</id>
+    <published>2019-07-28T13:21:13-04:00</published>
+    <updated>2019-07-28T13:21:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-mute-switch-bracket"/>
+    <title>iPhone 6s Plus Mute Switch Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-mute-switch-bracket-0-jpg.jpg?v=1571606261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This metal bracket secures the mute switch cover to the inside of the rear case.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641215090793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641214992489</id>
+    <published>2019-07-28T13:21:02-04:00</published>
+    <updated>2019-07-28T13:21:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-microphone-mount"/>
+    <title>iPhone 6s Plus Microphone Mount</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a punctured or damaged anti-dust mesh and plastic mount for the lower left microphone and keep dust and dirt from blocking the microphone. This part is compatible with an iPhone 6s Plus.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641214992489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR12539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641214959721</id>
+    <published>2019-07-28T13:20:51-04:00</published>
+    <updated>2019-07-28T13:20:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-earpiece-speaker-mesh"/>
+    <title>iPhone 6s Plus Earpiece Speaker Mesh</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-earpiece-speaker-mesh-0-jpg.jpg?v=1571606236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a punctured or missing mesh and plastic bezel covering the earpiece speaker opening and keep dust and dirt from blocking the earpiece speaker. This part is compatible with an iPhone 6s Plus.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641214959721</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR12538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641214926953</id>
+    <published>2019-07-28T13:20:41-04:00</published>
+    <updated>2019-07-28T13:20:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-top-center-cell-antenna-bracket"/>
+    <title>iPhone 6s Plus Top Center Cell Antenna Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-top-center-cell-antenna-bracket-0-jpg.jpg?v=1571606223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or missing bracket that connects the logic board to the top cellular antenna in an iPhone 6s Plus.  This part is visible in the iPhone 6s Plus Logic Board Replacement guide.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641214926953</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641214828649</id>
+    <published>2019-07-28T13:20:31-04:00</published>
+    <updated>2019-07-28T13:20:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-lcd-shield-plate-sticker"/>
+    <title>iPhone 6s Plus LCD Shield Plate Sticker</title>
+    <s:type>Shield Plate</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-lcd-shield-plate-sticker-0-jpg.jpg?v=1571606211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Shield Plate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a torn or missing black adhesive cover on the back of the metal LCD shield plate in an iPhone 6s Plus.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641214828649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12536</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641214763113</id>
+    <published>2019-07-28T13:20:20-04:00</published>
+    <updated>2019-07-28T13:20:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-nfc-bracket"/>
+    <title>iPhone 6s Plus NFC Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-nfc-bracket-0-jpg.jpg?v=1570408637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This short flex cable connects the logic board to the NFC antenna.  This part is visible in the iPhone 6s Plus Logic Board Replacement guide.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641214763113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12535</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641214664809</id>
+    <published>2019-07-28T13:20:08-04:00</published>
+    <updated>2019-07-28T13:20:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-lcd-shield-plate"/>
+    <title>iPhone 6s Plus LCD Shield Plate</title>
+    <s:type>Shield Plate</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-lcd-shield-plate-0-jpg.jpg?v=1571606188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Shield Plate<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a bent or damaged LCD shield plate. This part is compatible with an iPhone 6s Plus.  The shield diffuses heat and protects the back of the LCD.This part fits between the LCD and the main body of the phone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641214664809</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR12534</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641214468201</id>
+    <published>2019-07-28T13:19:47-04:00</published>
+    <updated>2019-07-28T13:19:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-flash-and-microphone-bracket"/>
+    <title>iPhone 6s Plus Flash and Microphone Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-flash-and-microphone-bracket-0-jpg.jpg?v=1571606163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix a misaligned flash or microphone by replacing a bent or missing metal bracket securing the camera flash and top microphone to the rear case. This part is compatible with an iPhone 6s Plus.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641214468201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR12532</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641214140521</id>
+    <published>2019-07-28T13:19:30-04:00</published>
+    <updated>2019-07-28T13:19:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-oem-rear-case"/>
+    <title>iPhone 6s Plus OEM Rear Case</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace  a damaged iPhone 6s Plus rear panel with this replacement part.Keep the same color or experiment with a new color combination.This is a used, OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641214140521</id>
+      <title>Silver</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>UNLKR12528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641214140521</id>
+      <title>Black</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>UNLKR12529</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641214140521</id>
+      <title>Gold</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>UNLKR12530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641214140521</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>UNLKR12531</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641214107753</id>
+    <published>2019-07-28T13:19:19-04:00</published>
+    <updated>2019-07-28T13:19:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-wi-fi-bluetooth-antenna"/>
+    <title>iPhone 6s Plus Wi-Fi/Bluetooth Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-wi-fi-bluetooth-antenna-0-jpg.jpg?v=1571606128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix unreliable connectivity to Wi-Fi and bluetooth devices by replacing a missing or torn Wi-Fi and bluetooth signal antenna in the top left of the rear case. This part is compatible with an iPhone 6s Plus.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641214107753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR12527</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641213976681</id>
+    <published>2019-07-28T13:19:10-04:00</published>
+    <updated>2019-07-28T13:19:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-home-button-bracket"/>
+    <title>iPhone 6s Plus Home Button Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-home-button-bracket-0-jpg.jpg?v=1571606114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This metal bracket secures the home button assembly to the back of the LCD Screen and Digitizer Panel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641213976681</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR12526</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641213812841</id>
+    <published>2019-07-28T13:18:39-04:00</published>
+    <updated>2019-07-28T13:18:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-loudspeaker-mount"/>
+    <title>iPhone 6s Plus Loudspeaker Mount</title>
+    <s:type>Loudspeaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Loudspeaker<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a punctured or damaged anti-dust mesh and plastic mount for the loudspeaker and lower right microphone and keep dust and dirt from blocking the microphone or speaker. This part is compatible with an iPhone 6s Plus</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>Audio</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:tag>Loudspeaker</s:tag>
+    <s:tag>Speaker</s:tag>
+    <s:tag>Speakerphone</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641213812841</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR12518</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641213714537</id>
+    <published>2019-07-28T13:18:21-04:00</published>
+    <updated>2019-07-28T13:18:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-6s-plus-nano-sim-card-tray"/>
+    <title>iPhone 6s Plus Nano SIM Card Tray</title>
+    <s:type>SIM Card Tray</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-6s-plus-nano-sim-card-tray-black-0-jpg.jpg?v=1571605947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>SIM Card Tray<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a bent or missing nano SIM card tray and keep your SIM card working for the life of your phone. This part is compatible with an iPhone 6s Plus.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1634</s:tag>
+    <s:tag>A1687</s:tag>
+    <s:tag>A1699</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641213714537</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12514</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641213714537</id>
+      <title>Silver</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12515</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641213714537</id>
+      <title>Gold</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641213714537</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12517</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

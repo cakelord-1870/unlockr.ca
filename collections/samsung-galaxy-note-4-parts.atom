@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/samsung-galaxy-note-4-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T15:51:21-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641309364329</id>
+    <published>2019-07-28T15:51:21-04:00</published>
+    <updated>2019-07-28T15:51:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-charging-assembly"/>
+    <title>Galaxy Note 4 Charging Assembly</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-charging-assembly-at-amp-t-0-jpg.jpg?v=1564343487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the USB charging port, cable, internal home button switch, menu button sensors, and daughter board assembly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>Samsung Note 4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641309364329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR13575</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641309298793</id>
+    <published>2019-07-28T15:51:07-04:00</published>
+    <updated>2019-07-28T15:51:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-rear-panel"/>
+    <title>Galaxy Note 4 Rear Panel</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-rear-panel-black-unlocked-0-jpg.jpg?v=1571615848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or cracked rear panel for a Samsung Galaxy Note 4 smartphone.  This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>Samsung Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641309298793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR13574</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641309266025</id>
+    <published>2019-07-28T15:50:50-04:00</published>
+    <updated>2019-07-28T15:50:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-midframe"/>
+    <title>Galaxy Note 4 Midframe</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-midframe-at-amp-t-black-a-stock-1-jpg.jpg?v=1571615830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a cracked midframe or scratched edge bezel! This part includes the plastic middle frame, edge bezel, external volume and power button covers, speaker, and rear facing camera lens cover. This part is for AT&amp;T models only. This is a used OEM part.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>Samsung Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641309266025</id>
+      <title>Black</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR13572</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641309266025</id>
+      <title>White</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR13573</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641309200489</id>
+    <published>2019-07-28T15:50:36-04:00</published>
+    <updated>2019-07-28T15:50:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-speaker-assembly"/>
+    <title>Galaxy Note 4 Speaker Assembly</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-speaker-assembly-0-jpg.jpg?v=1571615812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning speaker in your Galaxy Note 4  Includes the speaker and plastic speaker enclosure.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>Samsung Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641309200489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13571</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641309069417</id>
+    <published>2019-07-28T15:50:21-04:00</published>
+    <updated>2019-07-28T15:50:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-s-pen"/>
+    <title>Galaxy Note 4 S-Pen</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-s-pen-black-a-stock-0-jpg.jpg?v=1571615797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace your missing or broken S-Pen stylus  This pen stylus fits inside the edge of the Galaxy Note 4.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>Samsung Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641309069417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13570</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641309003881</id>
+    <published>2019-07-28T15:50:03-04:00</published>
+    <updated>2019-07-28T15:50:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-home-button-assembly"/>
+    <title>Galaxy Note 4 Home Button Assembly</title>
+    <s:type>Home Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-home-button-assembly-0-jpg.jpg?v=1571615764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Home Button<br>
+        <strong>Price: </strong>
+            5.99 - 9.99
+            <a href="https://unlockr.ca/products/galaxy-note-4-home-button-assembly">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged home button assembly for your Samsung Galaxy Note 4 smartphone with this part. This assembly includes the external home button cover, touch sensor, and flex cable. This is a used, OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>Home Button</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641309003881</id>
+      <title>White</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13569</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641309003881</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13568</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641308938345</id>
+    <published>2019-07-28T15:49:47-04:00</published>
+    <updated>2019-07-28T15:49:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-rear-camera"/>
+    <title>Galaxy Note 4 Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-rear-camera-at-amp-t-0-jpg.jpg?v=1571615748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Don't miss that photo op!  Replace your malfunctioning rear facing camera.This part includes the rear facing 16 MP camera and flex cable.This part is for AT&amp;T models only.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>Galaxy Note 4 N910T</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>N910A</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>Samsung Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641308938345</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13567</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641308872809</id>
+    <published>2019-07-28T15:49:32-04:00</published>
+    <updated>2019-07-28T15:49:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-front-camera"/>
+    <title>Galaxy Note 4 Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-front-camera-at-amp-t-0-jpg.jpg?v=1571615733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Don't miss a selfie!  Replace your malfunctioning front facing camera.This part includes the front facing 3.7 MP camera, light sensor, and flex cable.This part is for AT&amp;T models only.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641308872809</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641308545129</id>
+    <published>2019-07-28T15:49:02-04:00</published>
+    <updated>2019-07-28T15:49:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-headphone-jack"/>
+    <title>Galaxy Note 4 Headphone Jack</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-headphone-jack-0-jpg.jpg?v=1571615684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>No sound in your headphones?  Replace a broken or malfunctioning headphone jack.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>Samsung Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641308545129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13563</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641308446825</id>
+    <published>2019-07-28T15:48:47-04:00</published>
+    <updated>2019-07-28T15:48:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-sim-and-sd-card-slot-assembly"/>
+    <title>Galaxy Note 4 SIM and SD Card Slot Assembly</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-sim-and-sd-card-slot-assembly-0-jpg.jpg?v=1571615668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the flex cable including the Sim card and SD card slots.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>Samsung Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641308446825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR13562</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641308282985</id>
+    <published>2019-07-28T15:48:32-04:00</published>
+    <updated>2019-07-28T15:48:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-vibrator"/>
+    <title>Galaxy Note 4 Vibrator</title>
+    <s:type>Vibrator</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-vibrator-new-0-jpg.jpg?v=1571615653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Vibrator<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This small circuit board and flex assembly includes the vibration motor and the internal button for the power button.It does not include the external power button cover.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>Samsung Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641308282985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13561</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641308151913</id>
+    <published>2019-07-28T15:48:18-04:00</published>
+    <updated>2019-07-28T15:48:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-antenna-cables"/>
+    <title>Galaxy Note 4 Antenna Cables</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-antenna-cables-0-jpg.jpg?v=1571615638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the antenna cables that connect the motherboard and USB daughter board.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>Samsung Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641308151913</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13560</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641308086377</id>
+    <published>2019-07-28T15:48:03-04:00</published>
+    <updated>2019-07-28T15:48:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-charge-port"/>
+    <title>Galaxy Note 4 Charge Port</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-charge-port-0-jpg.jpg?v=1571615623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged USB port for your Samsung Galaxy Note 4 smartphone with this part. This component is surface soldered to the bottom edge of the charging daughter board.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>Samsung Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641308086377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13559</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641307955305</id>
+    <published>2019-07-28T15:47:48-04:00</published>
+    <updated>2019-07-28T15:47:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-display-adhesive"/>
+    <title>Galaxy Note 4 Display Adhesive</title>
+    <s:type>Display Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-display-adhesive-0-jpg.jpg?v=1571615578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Display Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This custom cut adhesive film set secures the front glass digitizer screen and display to the front frame and bezel assembly of the Samsung Galaxy Note 4.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Display Adhesive</s:tag>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641307955305</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13558</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641307889769</id>
+    <published>2019-07-28T15:47:34-04:00</published>
+    <updated>2019-07-28T15:47:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-replacement-battery"/>
+    <title>Galaxy Note 4 Replacement Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-replacement-battery-0-jpg.jpg?v=1574458371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a dead or damaged battery for the Samsung Galaxy Note 4 smartphone.  Replacing the battery in your Galaxy Note 4 smartphone does not require any tools to accomplish the swap. This battery is all you need!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>Galaxy Note 4 N910T</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>N910A</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>Samsung Note 4</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641307889769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13557</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641307594857</id>
+    <published>2019-07-28T15:47:13-04:00</published>
+    <updated>2019-07-28T15:47:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-4-screen"/>
+    <title>Galaxy Note 4 Screen</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-4-screen-black-2-jpg.jpg?v=1571615540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            79.99 - 89.99
+            <a href="https://unlockr.ca/products/galaxy-note-4-screen">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched, cracked, or malfunctioning display assembly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>Galaxy Note 4 N910T</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>LCD Screen and Digitizer</s:tag>
+    <s:tag>N910</s:tag>
+    <s:tag>N910A</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 4</s:tag>
+    <s:tag>Samsung Note 4</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:tag>SM-N910C</s:tag>
+    <s:tag>SM-N910F</s:tag>
+    <s:tag>SM-N910G</s:tag>
+    <s:tag>SM-N910H</s:tag>
+    <s:tag>SM-N910K</s:tag>
+    <s:tag>SM-N910L</s:tag>
+    <s:tag>SM-N910S</s:tag>
+    <s:tag>SM-N910T3</s:tag>
+    <s:tag>SM-N910U</s:tag>
+    <s:tag>SM-N916K</s:tag>
+    <s:tag>SM-N916L</s:tag>
+    <s:tag>SM-N916S</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641307594857</id>
+      <title>White</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>UNLKR13554</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641307594857</id>
+      <title>Gold</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>UNLKR13555</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641307594857</id>
+      <title>Black</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>UNLKR13556</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

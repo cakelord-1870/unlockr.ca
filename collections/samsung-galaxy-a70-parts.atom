@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/samsung-galaxy-a70-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-07-26T16:55:26-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/7220767719598</id>
+    <published>2021-07-26T16:55:26-04:00</published>
+    <updated>2021-07-26T16:55:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/back-camera-lens-with-frame-compatible-for-samsung-galaxy-a70-a705-a705f"/>
+    <title>Back Camera Lens With Frame Compatible For Samsung Galaxy A70 A705 A705F</title>
+    <s:type>Camera Lens</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/rear-back-camera-lens-frame-Samsung-Galaxy-A70-A705-A705F.jpg?v=1627393985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Camera Lens<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Samsung Galaxy A70 A705 A705F Rear Camera Lens With Frame is designed to allow the replacement of your broken Camera Lens. </p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Rear Camera Lens With Frame</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy A70 A705 A705F</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;">(A705 A705F)</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A705</s:tag>
+    <s:tag>A705F</s:tag>
+    <s:tag>Camera Lens</s:tag>
+    <s:tag>Galaxy A70</s:tag>
+    <s:tag>Rear Camera Lens</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy A70</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7220767719598</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14965</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7220767719598</id>
+      <title>Gold</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14968</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7220767719598</id>
+      <title>Blue</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14967</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7220767719598</id>
+      <title>Silver</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14966</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7169610383534</id>
+    <published>2021-07-15T09:58:52-04:00</published>
+    <updated>2021-07-15T09:58:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/loudspeaker-compatible-for-samsung-galaxy-a70-a705"/>
+    <title>Loudspeaker Compatible For Samsung Galaxy A70 A705 2019</title>
+    <s:type>Loudspeaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/loudpseaker-compatible-samsung-galaxy-a70-a705.jpg?v=1626357522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Loudspeaker<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged or malfunctioning main speaker assembly for a Samsung Galaxy A70 A705 2019 and fix problems with loudspeaker audio.</p>
+<p>Compatible with : <span data-mce-fragment="1">A705U, A705F, A705W</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A70 2019</s:tag>
+    <s:tag>A705F</s:tag>
+    <s:tag>A705U</s:tag>
+    <s:tag>A705W</s:tag>
+    <s:tag>Galaxy A70</s:tag>
+    <s:tag>Loudspeaker</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy A70</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7169610383534</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14947</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6564244684974</id>
+    <published>2021-03-15T15:37:30-04:00</published>
+    <updated>2021-03-15T15:37:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-a70-2019-lcd-screen-and-digitizer"/>
+    <title>Screen and Digitizer With Frame For Samsung Galaxy A70 2019 A705</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Replacement_20part_20LCD_20screen_20_20Digitizer_20with_20frame_20for_20samsung_20galaxy_20A70_202019_20SM-A705W_cf45e887-d438-4d16-aedb-2bbd4814334a.jpg?v=1616705466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            64.99 - 139.99
+            <a href="https://unlockr.ca/products/samsung-galaxy-a70-2019-lcd-screen-and-digitizer">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung A70 2019 screen replacement ? If you dropped your Samsung Galaxy A70 2019 and broke the front glass, it can be repaired ! You can replace your broken Samsung screen using our high quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<ul>
+<li>Super AMOLED LCD &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<p> </p>
+<h3><strong>About In-Cell</strong></h3>
+<p>The In-Cell screen variant is an LCD screen instead of OLED. This allows the manufacturing of a more affordable version of the screen.</p>
+<ul>
+<li>Fingerprint ID not supported</li>
+<li>Ambiant light sensor not supported</li>
+<li>Screen is a bit smaller compared to the OLED</li>
+</ul>
+<p> </p>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy A70 LCD Screens and Digitizers come with lifetime warranty, as the other Samsung LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy A70 (6.7")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif;"><span style="font-size: 16px;">SM-A705W</span></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A70</s:tag>
+    <s:tag>A7050</s:tag>
+    <s:tag>Galaxy A70</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SM-A7050</s:tag>
+    <s:tag>SM-A705F</s:tag>
+    <s:tag>SM-A705FN</s:tag>
+    <s:tag>SM-A705GM</s:tag>
+    <s:tag>SM-A705MN</s:tag>
+    <s:tag>SM-A705W</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6564244684974</id>
+      <title>In-cell LCD</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>UNLKR14669</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6564244684974</id>
+      <title>Certified</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku>UNLKR14076</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4763943338089</id>
+    <published>2020-07-30T15:36:28-04:00</published>
+    <updated>2020-07-30T15:36:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/main-flex-for-samsung-galaxy-a70-2019-a705-a705f"/>
+    <title>Main Flex Compatible for Samsung Galaxy A70 2019 A705 A705F</title>
+    <s:type>Main Flex</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1596137737Samsung_Galaxy_Main_Flex_replacement_part_for_A70_A705.jpg?v=1596137794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Main Flex<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New Main Motherboard Flex Compatible For Samsung Galaxy A70 2019, A705, A705F, A705DS, A705FN, A705FD, SM-A705</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A70</s:tag>
+    <s:tag>A705</s:tag>
+    <s:tag>A7050</s:tag>
+    <s:tag>A705DS</s:tag>
+    <s:tag>A705F</s:tag>
+    <s:tag>A705FD</s:tag>
+    <s:tag>A705FN</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy A70</s:tag>
+    <s:tag>NewFor</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SM-A7050</s:tag>
+    <s:tag>SM-A705F</s:tag>
+    <s:tag>SM-A705FN</s:tag>
+    <s:tag>SM-A705GM</s:tag>
+    <s:tag>SM-A705MN</s:tag>
+    <s:tag>SM-A705W</s:tag>
+    <s:tag>SMA705 Model</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4763943338089</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14535</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4758857351273</id>
+    <published>2020-07-27T18:21:08-04:00</published>
+    <updated>2020-07-27T18:21:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-a70s-lcd-screen-and-digitizer-frame-assembly"/>
+    <title>LCD Screen and Digitizer Frame Assembly For Samsung Galaxy A70S A707</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lcd-assembly-with-frame-for-samsung-galaxy-a70s-2019-a707-a707f-0-jpg.jpg?v=1621281047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            164.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A70S screen replacement? If you dropped your Samsung Galaxy A70S and broke the front glass it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy A70S screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, Our Samsung parts have you covered.</p>
+<ul>
+<li>LCD &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy A70 LCD Screens and Digitizers come with a lifetime warranty, as the other Samsung LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy A70S / A707 / A707F</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Super AMOLED capacitive touchscreen, 16M colors</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A7050</s:tag>
+    <s:tag>A707</s:tag>
+    <s:tag>A707DS</s:tag>
+    <s:tag>A707F</s:tag>
+    <s:tag>A707FD</s:tag>
+    <s:tag>A707FN</s:tag>
+    <s:tag>A70s</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy A70</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SM-A7050</s:tag>
+    <s:tag>SM-A705F</s:tag>
+    <s:tag>SM-A705FN</s:tag>
+    <s:tag>SM-A705GM</s:tag>
+    <s:tag>SM-A705MN</s:tag>
+    <s:tag>SM-A705W</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4758857351273</id>
+      <title>Title</title>
+      <s:price currency="CAD">164.99</s:price>
+      <s:sku>UNLKR14522</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4457707634793</id>
+    <published>2019-12-31T13:35:28-05:00</published>
+    <updated>2019-12-31T13:35:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-a70-battery-1"/>
+    <title>Samsung Galaxy A70 Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1582057891Replacement_battery_for_samsung_galaxy_a70_2019_A705_new.jpg?v=1619726912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have a Samsung Galaxy A70 that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your Samsung Galaxy A70 </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly?</span> </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Does your cell phone only work when the battery is plugged in?</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new Samsung Galaxy A70 replacement battery.</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The old battery in your cell phone can outgrow inside and damage the internals.</span></p>
+<p>The OEM Batteries for Samsung Galaxy A70 are <strong>brand-new batteries</strong> coming directly from our manufacturer. They are custom-built for customers who demand the <strong>same quality as original Samsung</strong> <strong>batteries. </strong></p>
+<ul>
+<li>Zero cycle count</li>
+<li>Tested under extreme weather</li>
+<li>No wrapping for a better fit</li>
+<li>High output current capacity</li>
+<li>1 Year Warranty</li>
+</ul>
+<h3>Compatibility</h3>
+<p>This battery is only compatible with a Samsung Galaxy A70.</p>
+<h3>Warranty</h3>
+<p>The Replacement Samsung Galaxy A70 Battery comes with a 1-year warranty, as the other Samsung Battery Replacement Parts.</p>
+<table style="height: 84px; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Galaxy A70 A705</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 445.6px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A70</s:tag>
+    <s:tag>A705</s:tag>
+    <s:tag>A7050</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>Galaxy A70</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SM-A7050</s:tag>
+    <s:tag>SM-A705F</s:tag>
+    <s:tag>SM-A705FN</s:tag>
+    <s:tag>SM-A705GM</s:tag>
+    <s:tag>SM-A705MN</s:tag>
+    <s:tag>SM-A705W</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4457707634793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4434232311913</id>
+    <published>2019-12-11T15:05:14-05:00</published>
+    <updated>2019-12-11T15:05:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-a70-back-glass-cover"/>
+    <title>Back Cover For Samsung Galaxy A70</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1573758082Back_Glass_for_Samsung_Galaxy_A70_Black_with__20Adhesive_for_A705.jpg?v=1596473494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px 0px 16px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; font-size: 14px; letter-spacing: 0.1px; background-color: #ffffff;">The Samsung Galaxy A70 Rear Cover is designed for the replacement of your broken or cracked rear casing. Adhesive is pre-installed for easy installation.</p>
+<h3 style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; letter-spacing: 0.1px; background-color: #ffffff;">Warranty</h3>
+<p style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px 0px 16px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; font-size: 14px; letter-spacing: 0.1px; background-color: #ffffff;">Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; font-size: 14px; letter-spacing: 0.1px; background-color: #ffffff; height: 84px; border-style: solid; border-color: #000000;" border="1">
+<tbody style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px;">
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 18px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder;">Part Type</span></span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;">Back Covers</span></td>
+</tr>
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 18px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder;">Compatible Model</span></span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy A70</span></td>
+</tr>
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 18px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder;">Model Number</span></span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 18px;">A705</td>
+</tr>
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 10px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 10px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder; font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 10px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 20px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 20px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder;">Warranty</span></span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 20px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A70</s:tag>
+    <s:tag>A7050</s:tag>
+    <s:tag>Back Cover</s:tag>
+    <s:tag>Galaxy A70</s:tag>
+    <s:tag>Rear Glass</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy</s:tag>
+    <s:tag>SM-A7050</s:tag>
+    <s:tag>SM-A705F</s:tag>
+    <s:tag>SM-A705FN</s:tag>
+    <s:tag>SM-A705GM</s:tag>
+    <s:tag>SM-A705MN</s:tag>
+    <s:tag>SM-A705W</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4434232311913</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14310</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4434232311913</id>
+      <title>White</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14311</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4434232311913</id>
+      <title>Blue</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14312</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4346749157481</id>
+    <published>2019-11-06T17:27:41-05:00</published>
+    <updated>2019-11-06T17:27:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-a70-charging-port"/>
+    <title>Charging Port Compatible For Samsung Galaxy A70</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1573758570charging_port_Replacement_part_For_samsung_galaxy_A70_model_A705.jpg?v=1573758607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A70 charging port replacement? If you damaged your Samsung Galaxy A70 and broke the charging port it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy A70 charging port using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Samsung Galaxy A70 charging port come with a lifetime warranty, as the other Samsung Replacement Parts.</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Charging port</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Galaxy A70</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A70</s:tag>
+    <s:tag>A7050</s:tag>
+    <s:tag>Galaxy A70</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SM-A7050</s:tag>
+    <s:tag>SM-A705F</s:tag>
+    <s:tag>SM-A705FN</s:tag>
+    <s:tag>SM-A705GM</s:tag>
+    <s:tag>SM-A705MN</s:tag>
+    <s:tag>SM-A705W</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4346749157481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14306</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3669363392617</id>
+    <published>2019-08-18T14:38:36-04:00</published>
+    <updated>2019-08-18T14:38:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/tempered-glass-samsung-galaxy-a-series"/>
+    <title>Tempered Glass Samsung Galaxy A Series</title>
+    <s:type>Tempered Glass</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1607029034iPhone_tempered_glass_back_x700_3471c918-bd8b-4a2d-9b40-39fd0865415d.png?v=1607029106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Tempered Glass<br>
+        <strong>Price: </strong>
+            1.69 - 1.89
+            <a href="https://unlockr.ca/products/tempered-glass-samsung-galaxy-a-series">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-size: 14px; font-weight: 400;">Tempered Glass for Samsung Galaxy A Series Device. It adds an extra layer of protection on the screen of the device to protect from bumps and bruises. They are oil-resistant, prevents fingerprints and ensures image clarity perfect touch sensitivity.</p>
+<table style="font-size: 14px; font-weight: 400; height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Tempered Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif;"><span style="font-size: 16px;">Samsung A series</span></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">N/A</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible With</strong></span></td>
+<td style="width: 508px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung A series</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A205</s:tag>
+    <s:tag>A505F</s:tag>
+    <s:tag>A530</s:tag>
+    <s:tag>A705</s:tag>
+    <s:tag>A715F</s:tag>
+    <s:tag>Galaxy A8 (2018)</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy A8</s:tag>
+    <s:tag>Screen Protector</s:tag>
+    <s:tag>SM-A530F</s:tag>
+    <s:tag>SM-A530K</s:tag>
+    <s:tag>SM-A530L</s:tag>
+    <s:tag>SM-A530N</s:tag>
+    <s:tag>SM-A530S</s:tag>
+    <s:tag>SM-A530W</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3669363392617</id>
+      <title>A71</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>UNLKR14581</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3669363392617</id>
+      <title>A8 2018</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>UNLKR14071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3669363392617</id>
+      <title>A20</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>UNLKR14361</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3669363392617</id>
+      <title>A50</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>UNLKR14315</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3669363392617</id>
+      <title>A70</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>UNLKR14317</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

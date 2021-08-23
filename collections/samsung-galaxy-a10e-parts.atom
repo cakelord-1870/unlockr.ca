@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/samsung-galaxy-a10e-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2020-09-10T12:25:26-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/4791046570089</id>
+    <published>2020-09-10T12:25:26-04:00</published>
+    <updated>2020-09-10T12:25:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lcd-screen-and-digitizer-assembly-for-samsung-galaxy-a10e"/>
+    <title>LCD Screen and Digitizer Frame Assembly For Samsung Galaxy A10e</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lcd-digitizer-with-frame-for-samsung-galaxy-a10e-2019-a102-a102f-0-jpg.jpg?v=1608229070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            61.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A10e screen replacement? If you dropped your Samsung Galaxy A10e and broke the front glass it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy A10e screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, Our Samsung parts have you covered.</p>
+<ul>
+<li>LCD &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy A10e LCD Screens and Digitizers come with a lifetime warranty, as the other Samsung LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Galaxy A10e</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">PLS TFT capacitive touchscreen, 16M colors</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A102</s:tag>
+    <s:tag>A102DS</s:tag>
+    <s:tag>A102F</s:tag>
+    <s:tag>A102FD</s:tag>
+    <s:tag>A102FN</s:tag>
+    <s:tag>A102U</s:tag>
+    <s:tag>A10e</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy A10e</s:tag>
+    <s:tag>NewFor</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SM-A102U</s:tag>
+    <s:tag>SMA102 Model</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4791046570089</id>
+      <title>Title</title>
+      <s:price currency="CAD">61.99</s:price>
+      <s:sku>UNLKR14571</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+</feed>

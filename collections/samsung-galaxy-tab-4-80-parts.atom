@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/samsung-galaxy-tab-4-80-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-11-30T13:47:45-05:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/4405381562473</id>
+    <published>2019-11-30T13:47:45-05:00</published>
+    <updated>2019-11-30T13:47:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-tab-4-80-t330-touch-digitizer"/>
+    <title>Samsung Galaxy Tab 4 8.0 T330 Touch Digitizer</title>
+    <s:type>Digitizer</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1575139519touch-screen-digitizer-for-samsung-sm-t330-white.jpg?v=1575139669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Digitizer<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The digitizer on your Samsung Galaxy Tab 4 8.0 is cracked, scratched or has become non-responsive? This brand new Samsungreplacement digitizer is what you need. Purchase this high quality replacement digitizer with the recommended repair tools and fix your broken digitizer quickly. This digitizer is compatible with Samsung Galaxy Tab 4 8.0.</p>
+<p dir="ltr" style="text-align: justify;"><span style="text-align: start;">For customers who demand the </span><strong style="text-align: start;">same standard as original repair parts</strong><span style="text-align: start;">, this certified for Samsungreplacement part has you covered.</span></p>
+<h3 dir="ltr">Lifetime Warranty</h3>
+<p dir="ltr" style="text-align: justify;">This replacement Samsung Galaxy Tab 4 8.0 comes with lifetime warranty, as our other Samsung digitizer repair parts. Your Samsungreplacement screen will be shipped from Canada the same business day it is purchased. Don't hesitate to contact our support team if you have any questions or concerns.</p>
+<table style="height: 84px; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 430.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 485.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 430.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 485.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Galaxy Tab 4 8.0 T330</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 430.219px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 485.219px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 430.219px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 485.219px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>Galaxy Tab 4 8.0</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Tab</s:tag>
+    <s:tag>SM-T330</s:tag>
+    <s:tag>T330</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4405381562473</id>
+      <title>White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14341</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4405381562473</id>
+      <title>Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14342</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

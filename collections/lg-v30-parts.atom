@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/lg-v30-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T15:21:54-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641289408617</id>
+    <published>2019-07-28T15:21:54-04:00</published>
+    <updated>2019-07-28T15:21:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-v30-headphone-jack"/>
+    <title>LG V30 Headphone Jack</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-v30-headphone-jack-0-jpg.jpg?v=1571614038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a dirty or corroded headphone jack in your LG V30 smartphone and fix problems with your headphone audio connection.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>H930</s:tag>
+    <s:tag>H931</s:tag>
+    <s:tag>H932</s:tag>
+    <s:tag>H933</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG V30</s:tag>
+    <s:tag>LGM-V300K</s:tag>
+    <s:tag>LGM-V300L</s:tag>
+    <s:tag>LGM-V300S</s:tag>
+    <s:tag>LS998</s:tag>
+    <s:tag>LS998U</s:tag>
+    <s:tag>US998</s:tag>
+    <s:tag>V30</s:tag>
+    <s:tag>VS996</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641289408617</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR13423</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641289310313</id>
+    <published>2019-07-28T15:21:40-04:00</published>
+    <updated>2019-07-28T15:21:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-v30-charging-assembly"/>
+    <title>LG V30 Charging Assembly</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-v30-charging-assembly-0-jpg.jpg?v=1571614024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a corroded or malfunctioning charging assembly for an LG V30 smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>H930</s:tag>
+    <s:tag>H931</s:tag>
+    <s:tag>H932</s:tag>
+    <s:tag>H933</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG V30</s:tag>
+    <s:tag>LGM-V300K</s:tag>
+    <s:tag>LGM-V300L</s:tag>
+    <s:tag>LGM-V300S</s:tag>
+    <s:tag>LS998</s:tag>
+    <s:tag>LS998U</s:tag>
+    <s:tag>US998</s:tag>
+    <s:tag>V30</s:tag>
+    <s:tag>VS996</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641289310313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641288786025</id>
+    <published>2019-07-28T15:21:17-04:00</published>
+    <updated>2019-07-28T15:21:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-v30-screen"/>
+    <title>LG V30 Screen</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-v30-screen-black-0-jpg.jpg?v=1604456531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            149.99 - 159.99
+            <a href="https://unlockr.ca/products/lg-v30-screen">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or malfunctioning display assembly for an LG V30 smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>H930</s:tag>
+    <s:tag>H931</s:tag>
+    <s:tag>H932</s:tag>
+    <s:tag>H933</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>LCD Screen and Digitizer</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG V30</s:tag>
+    <s:tag>LGM-V300K</s:tag>
+    <s:tag>LGM-V300L</s:tag>
+    <s:tag>LGM-V300S</s:tag>
+    <s:tag>LS998</s:tag>
+    <s:tag>LS998U</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:tag>US998</s:tag>
+    <s:tag>V30</s:tag>
+    <s:tag>VS996</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641288786025</id>
+      <title>Pink</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>UNLKR13421</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641288786025</id>
+      <title>Black</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>UNLKR13418</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641288786025</id>
+      <title>Silver</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>UNLKR13419</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641288786025</id>
+      <title>Blue</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>UNLKR13420</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641287868521</id>
+    <published>2019-07-28T15:21:02-04:00</published>
+    <updated>2019-07-28T15:21:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-v30-replacement-battery"/>
+    <title>LG V30 Replacement Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-v30-replacement-battery-0-jpg.jpg?v=1571613966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a dead or damaged BL-T34 battery in an LG V30 smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>H930</s:tag>
+    <s:tag>H931</s:tag>
+    <s:tag>H932</s:tag>
+    <s:tag>H933</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG V30</s:tag>
+    <s:tag>LGM-V300K</s:tag>
+    <s:tag>LGM-V300L</s:tag>
+    <s:tag>LGM-V300S</s:tag>
+    <s:tag>LS998</s:tag>
+    <s:tag>LS998U</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>US998</s:tag>
+    <s:tag>V30</s:tag>
+    <s:tag>VS996</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641287868521</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13417</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

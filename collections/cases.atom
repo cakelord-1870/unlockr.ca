@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/cases.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-03-26T16:59:47-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/6591204262062</id>
+    <published>2021-03-26T16:59:47-04:00</published>
+    <updated>2021-03-26T16:59:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/slim-clear-case-shockproof-bumper-protective-cover-flexible-silicone"/>
+    <title>Slim Clear Case Shockproof Bumper Protective Cover Flexible Silicone</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/161679171561CeqcbiuML._AC_SL1300.jpg?v=1616792392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            6.99 - 8.99
+            <a href="https://unlockr.ca/products/slim-clear-case-shockproof-bumper-protective-cover-flexible-silicone">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" style="box-sizing: border-box; margin: 0px 0px 0px 18px; color: #0f1111; padding: 0px; font-family: 'Amazon Ember', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">
+<li style="box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;"><span class="a-list-item" style="box-sizing: border-box;">Ultra Slim &amp; Flexible TPU: Unlockr protective case for iPhone is made of premium soft TPU, this phone case is slim and flexible enough but sturdy, you can put on and off the case easily.</span></li>
+<li style="box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;"><span class="a-list-item" style="box-sizing: border-box;">All-round Protection: The raised 0.38mm lip around the screen can perfectly protect your screen, and the raised 0.37mm lip around the camera can protect your camera from damage; The shock absorption airbags can maximum shock absorption when the phone dropping.</span></li>
+<li style="box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;"><span class="a-list-item" style="box-sizing: border-box;">Ultra Clear: Unlockr case for is Crystal Clear, show the original color and beauty of your phone on the back, good look and stylish.</span></li>
+<li style="box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;"><span class="a-list-item" style="box-sizing: border-box;">Precise Cutting: With precise cutting and appropriate space saved, this protector case covers your iPhone perfectly, there is no block for its charging port and speaker.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Case</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6591204262062</id>
+      <title>iPhone 12 &amp; 12 Pro</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR14677</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6591204262062</id>
+      <title>iPhone 12 Mini</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR14681</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6591204262062</id>
+      <title>iPhone 12 Pro Max</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR14679</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6591204262062</id>
+      <title>iPhone 11 Pro Max</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR14683</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6591204262062</id>
+      <title>iPhone 11</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR14685</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6591204262062</id>
+      <title>iPhone XR</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR14687</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6591204262062</id>
+      <title>iPhone X &amp; XS</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR14689</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6591204262062</id>
+      <title>iPhone 7 &amp; 8</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR14691</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6591204262062</id>
+      <title>iPhone 11 Pro</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR14887</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/289731805225</id>
+    <published>2020-07-15T09:38:16-04:00</published>
+    <updated>2020-07-15T09:38:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phone-case-like-commuter-iphone-5-5s-se"/>
+    <title>Phone Case Like Commuter iPhone 5/5S/SE</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/fullsizeoutput_9d9.jpg?v=1571599421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="a-spacing-mini">Defend your device from drops, dirt and daily adventures</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Defender Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the Otterbox Defender Series for iPhone combines three ultra-tough layers, including a built-in touchscreen protector, to guard your device against the drops, dirt, scrapes and bumps of daily device use. Plus, the included holster gives you the quick draw on calls and converts into a convenient stand to watch your movies, use your apps or get caught up on work emails. </p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Screen Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Scratch Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off Functionality</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Included Holster</span></span></li>
+</ul>
+<p> </p>
+<h3 class="a-spacing-mini">Perfect fit for your pocket. Built to beat the daily grind.</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Commuter Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base"><span>This case similar to the </span>OtterBox Commuter Series is built for life on the go. Featuring two durable layers it withstands serious drops and falls so your phone remains damage free. Plus, it conserves precious space in bags and purses. And, port covers stop dust and pocket lint from clogging your inputs, keeping your device ready for your daily grind.</p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Pocket-Friendly, Slim Design</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">2-Layers</span></span></li>
+</ul>
+<p> <b>Version français*</b></p>
+<p><span style="font-weight: 400;">Défendez votre appareil contre les chutes, la saleté et les aventures quotidiennes avec cet étui</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">semblable à ceux de la série Defender pour iPhone et Samsung</span></p>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+<p><span style="font-weight: 400;">Cet étui combine trois couches ultra résistantes ainsi qu’un protecteur d'écran tactile intégré, pour protéger votre appareil contre les chutes, la saleté, les éraflures et les bosses de l'utilisation quotidienne de l'appareil. De plus, l'étui est muni d’une clip pour la ceinture vous permettant de répondre rapidement aux  appels en plus de le convertir en un support pratique pour regarder vos films, utiliser vos applications ou lire courriels de travail.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre les égratignures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection de l’écran</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Clip pour la ceinture incluse.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Parfait pour votre poche et construit pour affronter le quotidien.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Semblable à ceux la série Commuter pour iPhone et Samsung </span><span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;">Cet étui est conçu pour la vie en déplacement. Doté de deux couches durables, il résiste à de graves chutes et tombes de façon que votre téléphone ne subisse aucun dommages. De plus, il ne prend pas beaucoup d’espace dans les poches ou dans un sac. Les housses de port empêchent la poussière et les peluches de boucher les entrées de votre appareil, le gardant prêt pour votre quotidien.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Étui de petite taille et mince.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 couches de protection</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/289731805225</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR11004</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4435384107113</id>
+    <published>2019-12-12T01:40:17-05:00</published>
+    <updated>2019-12-12T01:40:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phone-case-like-defender-iphone-7-plus-8-plus"/>
+    <title>Phone Case Like Defender iPhone 7 Plus/8 Plus</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/fullsizeoutput_9d8_6eeeafc3-ef0b-412a-8d8a-fe89aa4b6e6b.jpg?v=1620489422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="a-spacing-mini">Defend your device from drops, dirt and daily adventures</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Defender Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the Otterbox Defender Series for iPhone combines three ultra-tough layers, including a built-in touchscreen protector, to guard your device against the drops, dirt, scrapes and bumps of daily device use. Plus, the included holster gives you the quick draw on calls and converts into a convenient stand to watch your movies, use your apps or get caught up on work emails. </p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Screen Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Scratch Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off Functionality</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Included Holster</span></span></li>
+</ul>
+<p> </p>
+<h3 class="a-spacing-mini">Perfect fit for your pocket. Built to beat the daily grind.</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Commuter Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base"><span>This case similar to the </span>OtterBox Commuter Series is built for life on the go. Featuring two durable layers it withstands serious drops and falls so your phone remains damage free. Plus, it conserves precious space in bags and purses. And, port covers stop dust and pocket lint from clogging your inputs, keeping your device ready for your daily grind.</p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Pocket-Friendly, Slim Design</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">2-Layers</span></span></li>
+</ul>
+<p><b>Version français*</b></p>
+<p><span style="font-weight: 400;">Défendez votre appareil contre les chutes, la saleté et les aventures quotidiennes avec cet étui</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">semblable à ceux de la série Defender pour iPhone et Samsung</span></p>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+<p><span style="font-weight: 400;">Cet étui combine trois couches ultra résistantes ainsi qu’un protecteur d'écran tactile intégré, pour protéger votre appareil contre les chutes, la saleté, les éraflures et les bosses de l'utilisation quotidienne de l'appareil. De plus, l'étui est muni d’une clip pour la ceinture vous permettant de répondre rapidement aux  appels en plus de le convertir en un support pratique pour regarder vos films, utiliser vos applications ou lire courriels de travail.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre les égratignures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection de l’écran</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Clip pour la ceinture incluse.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Parfait pour votre poche et construit pour affronter le quotidien.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Semblable à ceux la série Commuter pour iPhone et Samsung<span> </span></span><span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;">Cet étui est conçu pour la vie en déplacement. Doté de deux couches durables, il résiste à de graves chutes et tombes de façon que votre téléphone ne subisse aucun dommages. De plus, il ne prend pas beaucoup d’espace dans les poches ou dans un sac. Les housses de port empêchent la poussière et les peluches de boucher les entrées de votre appareil, le gardant prêt pour votre quotidien.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Étui de petite taille et mince.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 couches de protection</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4435384107113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR11380</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4394351525993</id>
+    <published>2019-11-25T17:21:14-05:00</published>
+    <updated>2019-11-25T17:21:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phone-case-like-defender-samsung-2"/>
+    <title>Phone Case Like Defender Samsung</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            8.99 - 12.99
+            <a href="https://unlockr.ca/products/phone-case-like-defender-samsung-2">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="a-spacing-mini">Defend your device from drops, dirt and daily adventures</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Defender Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the Otterbox Defender Series for iPhone combines three ultra-tough layers, including a built-in touchscreen protector, to guard your device against the drops, dirt, scrapes and bumps of daily device use. Plus, the included holster gives you the quick draw on calls and converts into a convenient stand to watch your movies, use your apps or get caught up on work emails. </p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Screen Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Scratch Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off Functionality</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Included Holster</span></span></li>
+</ul>
+<p> </p>
+<h3 class="a-spacing-mini">Perfect fit for your pocket. Built to beat the daily grind.</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Commuter Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base"><span>This case similar to the </span>OtterBox Commuter Series is built for life on the go. Featuring two durable layers it withstands serious drops and falls so your phone remains damage free. Plus, it conserves precious space in bags and purses. And, port covers stop dust and pocket lint from clogging your inputs, keeping your device ready for your daily grind.</p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Pocket-Friendly, Slim Design</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">2-Layers</span></span></li>
+</ul>
+<p><b>Version français*</b></p>
+<p><span style="font-weight: 400;">Défendez votre appareil contre les chutes, la saleté et les aventures quotidiennes avec cet étui</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">semblable à ceux de la série Defender pour iPhone et Samsung</span></p>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+<p><span style="font-weight: 400;">Cet étui combine trois couches ultra résistantes ainsi qu’un protecteur d'écran tactile intégré, pour protéger votre appareil contre les chutes, la saleté, les éraflures et les bosses de l'utilisation quotidienne de l'appareil. De plus, l'étui est muni d’une clip pour la ceinture vous permettant de répondre rapidement aux  appels en plus de le convertir en un support pratique pour regarder vos films, utiliser vos applications ou lire courriels de travail.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre les égratignures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection de l’écran</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Clip pour la ceinture incluse.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Parfait pour votre poche et construit pour affronter le quotidien.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Semblable à ceux la série Commuter pour iPhone et Samsung<span> </span></span><span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;">Cet étui est conçu pour la vie en déplacement. Doté de deux couches durables, il résiste à de graves chutes et tombes de façon que votre téléphone ne subisse aucun dommages. De plus, il ne prend pas beaucoup d’espace dans les poches ou dans un sac. Les housses de port empêchent la poussière et les peluches de boucher les entrées de votre appareil, le gardant prêt pour votre quotidien.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Étui de petite taille et mince.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 couches de protection</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>case</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4394351525993</id>
+      <title>S10e</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR14457</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4394351525993</id>
+      <title>A20</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14460</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4394351525993</id>
+      <title>S10</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4394351525993</id>
+      <title>S10 Plus</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4394351525993</id>
+      <title>Note 10</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4394351525993</id>
+      <title>Note 10 Plus</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4394351525993</id>
+      <title>S9</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4394351525993</id>
+      <title>S9 Plus</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4394351525993</id>
+      <title>A50</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14483</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4394351525993</id>
+      <title>S20</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14485</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4302328103017</id>
+    <published>2019-10-22T13:40:47-04:00</published>
+    <updated>2019-10-22T13:40:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phone-case-like-defender-iphone-7-8"/>
+    <title>Phone Case Like - Defender</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            11.99 - 12.99
+            <a href="https://unlockr.ca/products/phone-case-like-defender-iphone-7-8">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="a-spacing-mini">Defend your device from drops, dirt and daily adventures</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Defender Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the Otterbox Defender Series for iPhone combines three ultra-tough layers, including a built-in touchscreen protector, to guard your device against the drops, dirt, scrapes and bumps of daily device use. Plus, the included holster gives you the quick draw on calls and converts into a convenient stand to watch your movies, use your apps or get caught up on work emails. </p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Screen Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Scratch Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off Functionality</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Included Holster</span></span></li>
+</ul>
+<p> </p>
+<h3 class="a-spacing-mini">Perfect fit for your pocket. Built to beat the daily grind.</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Commuter Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base"><span>This case similar to the </span>OtterBox Commuter Series is built for life on the go. Featuring two durable layers it withstands serious drops and falls so your phone remains damage free. Plus, it conserves precious space in bags and purses. And, port covers stop dust and pocket lint from clogging your inputs, keeping your device ready for your daily grind.</p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Pocket-Friendly, Slim Design</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">2-Layers</span></span></li>
+</ul>
+<p><b>Version français*</b></p>
+<p><span style="font-weight: 400;">Défendez votre appareil contre les chutes, la saleté et les aventures quotidiennes avec cet étui</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">semblable à ceux de la série Defender pour iPhone et Samsung</span></p>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+<p><span style="font-weight: 400;">Cet étui combine trois couches ultra résistantes ainsi qu’un protecteur d'écran tactile intégré, pour protéger votre appareil contre les chutes, la saleté, les éraflures et les bosses de l'utilisation quotidienne de l'appareil. De plus, l'étui est muni d’une clip pour la ceinture vous permettant de répondre rapidement aux  appels en plus de le convertir en un support pratique pour regarder vos films, utiliser vos applications ou lire courriels de travail.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre les égratignures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection de l’écran</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Clip pour la ceinture incluse.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Parfait pour votre poche et construit pour affronter le quotidien.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Semblable à ceux la série Commuter pour iPhone et Samsung<span> </span></span><span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;">Cet étui est conçu pour la vie en déplacement. Doté de deux couches durables, il résiste à de graves chutes et tombes de façon que votre téléphone ne subisse aucun dommages. De plus, il ne prend pas beaucoup d’espace dans les poches ou dans un sac. Les housses de port empêchent la poussière et les peluches de boucher les entrées de votre appareil, le gardant prêt pour votre quotidien.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Étui de petite taille et mince.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 couches de protection</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>case</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4302328103017</id>
+      <title>iPhone 7/8</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR11010</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4302328103017</id>
+      <title>iPhone 11 Pro</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14649</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4302328103017</id>
+      <title>iPhone 11 Pro Max</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14651</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4302328103017</id>
+      <title>iPhone 12 &amp; 12 Pro</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14653</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4302328103017</id>
+      <title>iPhone 12 Pro Max</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14655</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4302328103017</id>
+      <title>iPhone 12 Mini</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14657</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4302328103017</id>
+      <title>iPhone 11</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14490</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4302328103017</id>
+      <title>iPhone SE 2020</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14726</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4257246740585</id>
+    <published>2019-10-13T20:40:44-04:00</published>
+    <updated>2019-10-13T20:40:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phone-case-like-defender-iphone-6-6s"/>
+    <title>Phone Case Like Defender iPhone 6/6S</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/fullsizeoutput_9dc.jpg?v=1620489401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="a-spacing-mini">Defend your device from drops, dirt and daily adventures</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Defender Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the Otterbox Defender Series for iPhone combines three ultra-tough layers, including a built-in touchscreen protector, to guard your device against the drops, dirt, scrapes and bumps of daily device use. Plus, the included holster gives you the quick draw on calls and converts into a convenient stand to watch your movies, use your apps or get caught up on work emails. </p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Screen Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Scratch Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off Functionality</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Included Holster</span></span></li>
+</ul>
+<p> </p>
+<h3 class="a-spacing-mini">Perfect fit for your pocket. Built to beat the daily grind.</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Commuter Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base"><span>This case similar to the </span>OtterBox Commuter Series is built for life on the go. Featuring two durable layers it withstands serious drops and falls so your phone remains damage free. Plus, it conserves precious space in bags and purses. And, port covers stop dust and pocket lint from clogging your inputs, keeping your device ready for your daily grind.</p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Pocket-Friendly, Slim Design</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">2-Layers</span></span></li>
+</ul>
+<p><b>Version français*</b></p>
+<p><span style="font-weight: 400;">Défendez votre appareil contre les chutes, la saleté et les aventures quotidiennes avec cet étui</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">semblable à ceux de la série Defender pour iPhone et Samsung</span></p>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+<p><span style="font-weight: 400;">Cet étui combine trois couches ultra résistantes ainsi qu’un protecteur d'écran tactile intégré, pour protéger votre appareil contre les chutes, la saleté, les éraflures et les bosses de l'utilisation quotidienne de l'appareil. De plus, l'étui est muni d’une clip pour la ceinture vous permettant de répondre rapidement aux  appels en plus de le convertir en un support pratique pour regarder vos films, utiliser vos applications ou lire courriels de travail.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre les égratignures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection de l’écran</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Clip pour la ceinture incluse.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Parfait pour votre poche et construit pour affronter le quotidien.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Semblable à ceux la série Commuter pour iPhone et Samsung<span> </span></span><span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;">Cet étui est conçu pour la vie en déplacement. Doté de deux couches durables, il résiste à de graves chutes et tombes de façon que votre téléphone ne subisse aucun dommages. De plus, il ne prend pas beaucoup d’espace dans les poches ou dans un sac. Les housses de port empêchent la poussière et les peluches de boucher les entrées de votre appareil, le gardant prêt pour votre quotidien.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Étui de petite taille et mince.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 couches de protection</span></li>
+</ul>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Case</s:tag>
+    <s:tag>iPhone 6s</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4257246740585</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR11007</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4257245397097</id>
+    <published>2019-10-13T20:40:09-04:00</published>
+    <updated>2019-10-13T20:40:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phone-case-like-defender-iphone-5-5s-se"/>
+    <title>Phone Case Like Defender iPhone 5/5S/SE</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/fullsizeoutput_9dd.jpg?v=1620489364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="a-spacing-mini">Defend your device from drops, dirt and daily adventures</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Defender Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the Otterbox Defender Series for iPhone combines three ultra-tough layers, including a built-in touchscreen protector, to guard your device against the drops, dirt, scrapes and bumps of daily device use. Plus, the included holster gives you the quick draw on calls and converts into a convenient stand to watch your movies, use your apps or get caught up on work emails. </p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Screen Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Scratch Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off Functionality</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Included Holster</span></span></li>
+</ul>
+<p> </p>
+<h3 class="a-spacing-mini">Perfect fit for your pocket. Built to beat the daily grind.</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Commuter Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base"><span>This case similar to the </span>OtterBox Commuter Series is built for life on the go. Featuring two durable layers it withstands serious drops and falls so your phone remains damage free. Plus, it conserves precious space in bags and purses. And, port covers stop dust and pocket lint from clogging your inputs, keeping your device ready for your daily grind.</p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Pocket-Friendly, Slim Design</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">2-Layers</span></span></li>
+</ul>
+<p><b>Version français*</b></p>
+<p><span style="font-weight: 400;">Défendez votre appareil contre les chutes, la saleté et les aventures quotidiennes avec cet étui</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">semblable à ceux de la série Defender pour iPhone et Samsung</span></p>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+<p><span style="font-weight: 400;">Cet étui combine trois couches ultra résistantes ainsi qu’un protecteur d'écran tactile intégré, pour protéger votre appareil contre les chutes, la saleté, les éraflures et les bosses de l'utilisation quotidienne de l'appareil. De plus, l'étui est muni d’une clip pour la ceinture vous permettant de répondre rapidement aux  appels en plus de le convertir en un support pratique pour regarder vos films, utiliser vos applications ou lire courriels de travail.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre les égratignures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection de l’écran</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Clip pour la ceinture incluse.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Parfait pour votre poche et construit pour affronter le quotidien.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Semblable à ceux la série Commuter pour iPhone et Samsung<span> </span></span><span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;">Cet étui est conçu pour la vie en déplacement. Doté de deux couches durables, il résiste à de graves chutes et tombes de façon que votre téléphone ne subisse aucun dommages. De plus, il ne prend pas beaucoup d’espace dans les poches ou dans un sac. Les housses de port empêchent la poussière et les peluches de boucher les entrées de votre appareil, le gardant prêt pour votre quotidien.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Étui de petite taille et mince.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 couches de protection</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Case</s:tag>
+    <s:tag>iPhone SE</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4257245397097</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>UNLKR11008</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4257245167721</id>
+    <published>2019-10-13T20:39:52-04:00</published>
+    <updated>2019-10-13T20:39:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phone-case-like-commuter-samsung-galaxy-s8-1"/>
+    <title>Phone Case Like Commuter Samsung Galaxy S8+</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/fullsizeoutput_9d8_73c5bac0-5891-45b0-84d1-1417907e4d32.jpg?v=1571599598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="a-spacing-mini">Defend your device from drops, dirt and daily adventures</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Defender Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the Otterbox Defender Series for iPhone combines three ultra-tough layers, including a built-in touchscreen protector, to guard your device against the drops, dirt, scrapes and bumps of daily device use. Plus, the included holster gives you the quick draw on calls and converts into a convenient stand to watch your movies, use your apps or get caught up on work emails. </p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Screen Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Scratch Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off Functionality</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Included Holster</span></span></li>
+</ul>
+<p> </p>
+<h3 class="a-spacing-mini">Perfect fit for your pocket. Built to beat the daily grind.</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Commuter Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base"><span>This case similar to the </span>OtterBox Commuter Series is built for life on the go. Featuring two durable layers it withstands serious drops and falls so your phone remains damage free. Plus, it conserves precious space in bags and purses. And, port covers stop dust and pocket lint from clogging your inputs, keeping your device ready for your daily grind.</p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Pocket-Friendly, Slim Design</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">2-Layers</span></span></li>
+</ul>
+<p><b>Version français*</b></p>
+<p><span style="font-weight: 400;">Défendez votre appareil contre les chutes, la saleté et les aventures quotidiennes avec cet étui</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">semblable à ceux de la série Defender pour iPhone et Samsung</span></p>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+<p><span style="font-weight: 400;">Cet étui combine trois couches ultra résistantes ainsi qu’un protecteur d'écran tactile intégré, pour protéger votre appareil contre les chutes, la saleté, les éraflures et les bosses de l'utilisation quotidienne de l'appareil. De plus, l'étui est muni d’une clip pour la ceinture vous permettant de répondre rapidement aux  appels en plus de le convertir en un support pratique pour regarder vos films, utiliser vos applications ou lire courriels de travail.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre les égratignures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection de l’écran</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Clip pour la ceinture incluse.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Parfait pour votre poche et construit pour affronter le quotidien.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Semblable à ceux la série Commuter pour iPhone et Samsung<span> </span></span><span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;">Cet étui est conçu pour la vie en déplacement. Doté de deux couches durables, il résiste à de graves chutes et tombes de façon que votre téléphone ne subisse aucun dommages. De plus, il ne prend pas beaucoup d’espace dans les poches ou dans un sac. Les housses de port empêchent la poussière et les peluches de boucher les entrées de votre appareil, le gardant prêt pour votre quotidien.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Étui de petite taille et mince.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 couches de protection</span></li>
+</ul>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>case</s:tag>
+    <s:tag>Galaxy S8 Plus</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>SC-03J</s:tag>
+    <s:tag>SM-G955</s:tag>
+    <s:tag>SM-G9550</s:tag>
+    <s:tag>SM-G955A</s:tag>
+    <s:tag>SM-G955F</s:tag>
+    <s:tag>SM-G955FD</s:tag>
+    <s:tag>SM-G955K</s:tag>
+    <s:tag>SM-G955L</s:tag>
+    <s:tag>SM-G955N</s:tag>
+    <s:tag>SM-G955P</s:tag>
+    <s:tag>SM-G955R4</s:tag>
+    <s:tag>SM-G955S</s:tag>
+    <s:tag>SM-G955T</s:tag>
+    <s:tag>SM-G955U</s:tag>
+    <s:tag>SM-G955U1</s:tag>
+    <s:tag>SM-G955V</s:tag>
+    <s:tag>SM-G955W</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4257245167721</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR11389</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4257242546281</id>
+    <published>2019-10-13T20:38:31-04:00</published>
+    <updated>2019-10-13T20:38:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phone-case-like-commuter-iphone-x"/>
+    <title>Phone Case Like Commuter iPhone</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/fullsizeoutput_9d4_dbf0741d-0eba-48cf-8833-05a878051f84.jpg?v=1620489263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="a-spacing-mini">Defend your device from drops, dirt and daily adventures</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Defender Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the Defender Series for iPhone combines three ultra-tough layers, including a built-in touchscreen protector, to guard your device against the drops, dirt, scrapes and bumps of daily device use. Plus, the included holster gives you the quick draw on calls and converts into a convenient stand to watch your movies, use your apps or get caught up on work emails. </p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Screen Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Scratch Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off Functionality</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Included Holster</span></span></li>
+</ul>
+<p> </p>
+<h3 class="a-spacing-mini">Perfect fit for your pocket. Built to beat the daily grind.</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Commuter Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the Commuter Series is built for life on the go. Featuring two durable layers it withstands serious drops and falls so your phone remains damage free. Plus, it conserves precious space in bags and purses. And, port covers stop dust and pocket lint from clogging your inputs, keeping your device ready for your daily grind.</p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Pocket-Friendly, Slim Design</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">2-Layers</span></span></li>
+</ul>
+<p><strong>Version français*</strong></p>
+<p><span style="font-weight: 400;">Défendez votre appareil contre les chutes, la saleté et les aventures quotidiennes avec cet étui</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">semblable à ceux de la série Defender pour iPhone et Samsung</span></p>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+<p><span style="font-weight: 400;">Cet étui combine trois couches ultra résistantes ainsi qu’un protecteur d'écran tactile intégré, pour protéger votre appareil contre les chutes, la saleté, les éraflures et les bosses de l'utilisation quotidienne de l'appareil. De plus, l'étui est muni d’une clip pour la ceinture vous permettant de répondre rapidement aux  appels en plus de le convertir en un support pratique pour regarder vos films, utiliser vos applications ou lire courriels de travail.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre les égratignures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection de l’écran</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Clip pour la ceinture incluse.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Parfait pour votre poche et construit pour affronter le quotidien.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Semblable à ceux la série Commuter pour iPhone et Samsung </span><span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;">Cet étui est conçu pour la vie en déplacement. Doté de deux couches durables, il résiste à de graves chutes et tombes de façon que votre téléphone ne subisse aucun dommages. De plus, il ne prend pas beaucoup d’espace dans les poches ou dans un sac. Les housses de port empêchent la poussière et les peluches de boucher les entrées de votre appareil, le gardant prêt pour votre quotidien.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Étui de petite taille et mince.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 couches de protection</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Case</s:tag>
+    <s:tag>iPhone X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4257242546281</id>
+      <title>iPhone XR</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14451</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4257242546281</id>
+      <title>iPhone 11</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14453</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4257242546281</id>
+      <title>iPhone X</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR11378</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4257242021993</id>
+    <published>2019-10-13T20:38:15-04:00</published>
+    <updated>2019-10-13T20:38:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phone-case-like-commuter-iphone-7-8"/>
+    <title>Phone Case Like Commuter iPhone 7/8</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/fullsizeoutput_9db_f56f40b5-713c-4539-a407-fb7872b18119.jpg?v=1620489242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="a-spacing-mini">Defend your device from drops, dirt and daily adventures</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Defender Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the Otterbox Defender Series for iPhone combines three ultra-tough layers, including a built-in touchscreen protector, to guard your device against the drops, dirt, scrapes and bumps of daily device use. Plus, the included holster gives you the quick draw on calls and converts into a convenient stand to watch your movies, use your apps or get caught up on work emails. </p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Screen Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Scratch Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off Functionality</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Included Holster</span></span></li>
+</ul>
+<p> </p>
+<h3 class="a-spacing-mini">Perfect fit for your pocket. Built to beat the daily grind.</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Commuter Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base"><span>This case similar to the </span>OtterBox Commuter Series is built for life on the go. Featuring two durable layers it withstands serious drops and falls so your phone remains damage free. Plus, it conserves precious space in bags and purses. And, port covers stop dust and pocket lint from clogging your inputs, keeping your device ready for your daily grind.</p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Pocket-Friendly, Slim Design</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">2-Layers</span></span></li>
+</ul>
+<p><b>Version français*</b></p>
+<p><span style="font-weight: 400;">Défendez votre appareil contre les chutes, la saleté et les aventures quotidiennes avec cet étui</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">semblable à ceux de la série Defender pour iPhone et Samsung</span></p>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+<p><span style="font-weight: 400;">Cet étui combine trois couches ultra résistantes ainsi qu’un protecteur d'écran tactile intégré, pour protéger votre appareil contre les chutes, la saleté, les éraflures et les bosses de l'utilisation quotidienne de l'appareil. De plus, l'étui est muni d’une clip pour la ceinture vous permettant de répondre rapidement aux  appels en plus de le convertir en un support pratique pour regarder vos films, utiliser vos applications ou lire courriels de travail.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre les égratignures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection de l’écran</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Clip pour la ceinture incluse.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Parfait pour votre poche et construit pour affronter le quotidien.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Semblable à ceux la série Commuter pour iPhone et Samsung<span> </span></span><span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;">Cet étui est conçu pour la vie en déplacement. Doté de deux couches durables, il résiste à de graves chutes et tombes de façon que votre téléphone ne subisse aucun dommages. De plus, il ne prend pas beaucoup d’espace dans les poches ou dans un sac. Les housses de port empêchent la poussière et les peluches de boucher les entrées de votre appareil, le gardant prêt pour votre quotidien.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Étui de petite taille et mince.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 couches de protection</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Case</s:tag>
+    <s:tag>iPhone 7</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4257242021993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR11006</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4257241563241</id>
+    <published>2019-10-13T20:37:59-04:00</published>
+    <updated>2019-10-13T20:37:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phone-case-like-commuter-iphone-7-plus-8-plus"/>
+    <title>Phone Case Like Commuter iPhone 7 Plus/8 Plus</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/fullsizeoutput_9e1.jpg?v=1620489222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="a-spacing-mini">Defend your device from drops, dirt and daily adventures</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Defender Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the Otterbox Defender Series for iPhone combines three ultra-tough layers, including a built-in touchscreen protector, to guard your device against the drops, dirt, scrapes and bumps of daily device use. Plus, the included holster gives you the quick draw on calls and converts into a convenient stand to watch your movies, use your apps or get caught up on work emails. </p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Screen Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Scratch Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off Functionality</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Included Holster</span></span></li>
+</ul>
+<p> </p>
+<h3 class="a-spacing-mini">Perfect fit for your pocket. Built to beat the daily grind.</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Commuter Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base"><span>This case similar to the </span>OtterBox Commuter Series is built for life on the go. Featuring two durable layers it withstands serious drops and falls so your phone remains damage free. Plus, it conserves precious space in bags and purses. And, port covers stop dust and pocket lint from clogging your inputs, keeping your device ready for your daily grind.</p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Pocket-Friendly, Slim Design</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">2-Layers</span></span></li>
+</ul>
+<p><b>Version français*</b></p>
+<p><span style="font-weight: 400;">Défendez votre appareil contre les chutes, la saleté et les aventures quotidiennes avec cet étui</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">semblable à ceux de la série Defender pour iPhone et Samsung</span></p>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+<p><span style="font-weight: 400;">Cet étui combine trois couches ultra résistantes ainsi qu’un protecteur d'écran tactile intégré, pour protéger votre appareil contre les chutes, la saleté, les éraflures et les bosses de l'utilisation quotidienne de l'appareil. De plus, l'étui est muni d’une clip pour la ceinture vous permettant de répondre rapidement aux  appels en plus de le convertir en un support pratique pour regarder vos films, utiliser vos applications ou lire courriels de travail.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre les égratignures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection de l’écran</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Clip pour la ceinture incluse.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Parfait pour votre poche et construit pour affronter le quotidien.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Semblable à ceux la série Commuter pour iPhone et Samsung<span> </span></span><span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;">Cet étui est conçu pour la vie en déplacement. Doté de deux couches durables, il résiste à de graves chutes et tombes de façon que votre téléphone ne subisse aucun dommages. De plus, il ne prend pas beaucoup d’espace dans les poches ou dans un sac. Les housses de port empêchent la poussière et les peluches de boucher les entrées de votre appareil, le gardant prêt pour votre quotidien.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Étui de petite taille et mince.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 couches de protection</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Case</s:tag>
+    <s:tag>iPhone 8 Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4257241563241</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR11379</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4257241170025</id>
+    <published>2019-10-13T20:37:42-04:00</published>
+    <updated>2019-10-13T20:37:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phone-case-like-commuter-iphone-6-6s"/>
+    <title>Phone Case Like Commuter iPhone 6/6S</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/fullsizeoutput_9d6.jpg?v=1620489203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="a-spacing-mini">Defend your device from drops, dirt and daily adventures</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Defender Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the Otterbox Defender Series for iPhone combines three ultra-tough layers, including a built-in touchscreen protector, to guard your device against the drops, dirt, scrapes and bumps of daily device use. Plus, the included holster gives you the quick draw on calls and converts into a convenient stand to watch your movies, use your apps or get caught up on work emails. </p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Screen Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Scratch Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off Functionality</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Included Holster</span></span></li>
+</ul>
+<p> </p>
+<h3 class="a-spacing-mini">Perfect fit for your pocket. Built to beat the daily grind.</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Commuter Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base"><span>This case similar to the </span>OtterBox Commuter Series is built for life on the go. Featuring two durable layers it withstands serious drops and falls so your phone remains damage free. Plus, it conserves precious space in bags and purses. And, port covers stop dust and pocket lint from clogging your inputs, keeping your device ready for your daily grind.</p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Pocket-Friendly, Slim Design</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">2-Layers</span></span></li>
+</ul>
+<p><b>Version français*</b></p>
+<p><span style="font-weight: 400;">Défendez votre appareil contre les chutes, la saleté et les aventures quotidiennes avec cet étui</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">semblable à ceux de la série Defender pour iPhone et Samsung</span></p>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+<p><span style="font-weight: 400;">Cet étui combine trois couches ultra résistantes ainsi qu’un protecteur d'écran tactile intégré, pour protéger votre appareil contre les chutes, la saleté, les éraflures et les bosses de l'utilisation quotidienne de l'appareil. De plus, l'étui est muni d’une clip pour la ceinture vous permettant de répondre rapidement aux  appels en plus de le convertir en un support pratique pour regarder vos films, utiliser vos applications ou lire courriels de travail.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre les égratignures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection de l’écran</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Clip pour la ceinture incluse.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Parfait pour votre poche et construit pour affronter le quotidien.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Semblable à ceux la série Commuter pour iPhone et Samsung<span> </span></span><span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;">Cet étui est conçu pour la vie en déplacement. Doté de deux couches durables, il résiste à de graves chutes et tombes de façon que votre téléphone ne subisse aucun dommages. De plus, il ne prend pas beaucoup d’espace dans les poches ou dans un sac. Les housses de port empêchent la poussière et les peluches de boucher les entrées de votre appareil, le gardant prêt pour votre quotidien.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Étui de petite taille et mince.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 couches de protection</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Case</s:tag>
+    <s:tag>iPhone 6s</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4257241170025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR11000</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4257240776809</id>
+    <published>2019-10-13T20:37:24-04:00</published>
+    <updated>2019-10-13T20:37:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phone-case-like-commuter-iphone-6-plus-6s-plus"/>
+    <title>Phone Case Like Commuter iPhone 6 Plus/6S Plus</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/fullsizeoutput_9da.jpg?v=1620489183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="a-spacing-mini">Defend your device from drops, dirt and daily adventures</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Defender Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the Otterbox Defender Series for iPhone combines three ultra-tough layers, including a built-in touchscreen protector, to guard your device against the drops, dirt, scrapes and bumps of daily device use. Plus, the included holster gives you the quick draw on calls and converts into a convenient stand to watch your movies, use your apps or get caught up on work emails. </p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Screen Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Scratch Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off Functionality</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Included Holster</span></span></li>
+</ul>
+<p> </p>
+<h3 class="a-spacing-mini">Perfect fit for your pocket. Built to beat the daily grind.</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Commuter Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base"><span>This case similar to the </span>OtterBox Commuter Series is built for life on the go. Featuring two durable layers it withstands serious drops and falls so your phone remains damage free. Plus, it conserves precious space in bags and purses. And, port covers stop dust and pocket lint from clogging your inputs, keeping your device ready for your daily grind.</p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Pocket-Friendly, Slim Design</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">2-Layers</span></span></li>
+</ul>
+<p> </p>
+<p><b>Version français*</b></p>
+<p><span style="font-weight: 400;">Défendez votre appareil contre les chutes, la saleté et les aventures quotidiennes avec cet étui</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">semblable à ceux de la série Defender pour iPhone et Samsung</span></p>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+<p><span style="font-weight: 400;">Cet étui combine trois couches ultra résistantes ainsi qu’un protecteur d'écran tactile intégré, pour protéger votre appareil contre les chutes, la saleté, les éraflures et les bosses de l'utilisation quotidienne de l'appareil. De plus, l'étui est muni d’une clip pour la ceinture vous permettant de répondre rapidement aux  appels en plus de le convertir en un support pratique pour regarder vos films, utiliser vos applications ou lire courriels de travail.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre les égratignures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection de l’écran</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Clip pour la ceinture incluse.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Parfait pour votre poche et construit pour affronter le quotidien.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Semblable à ceux la série Commuter pour iPhone et Samsung<span> </span></span><span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;">Cet étui est conçu pour la vie en déplacement. Doté de deux couches durables, il résiste à de graves chutes et tombes de façon que votre téléphone ne subisse aucun dommages. De plus, il ne prend pas beaucoup d’espace dans les poches ou dans un sac. Les housses de port empêchent la poussière et les peluches de boucher les entrées de votre appareil, le gardant prêt pour votre quotidien.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Étui de petite taille et mince.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 couches de protection</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Case</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4257240776809</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR11005</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3729634951273</id>
+    <published>2019-09-16T16:02:04-04:00</published>
+    <updated>2019-09-16T16:02:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phone-case-like-defender-iphone-xr"/>
+    <title>Phone Case Like Defender iPhone Xr</title>
+    <s:type>Case</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="a-spacing-mini">Defend your device from drops, dirt and daily adventures</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Defender Series for iPhone and Samsung</h4>
+<p class="a-spacing-base">This case similar to the Otterbox Defender Series for iPhone combines three ultra-tough layers, including a built-in touchscreen protector, to guard your device against the drops, dirt, scrapes and bumps of daily device use. Plus, the included holster gives you the quick draw on calls and converts into a convenient stand to watch your movies, use your apps or get caught up on work emails. </p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Screen Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Scratch Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off Functionality</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Included Holster</span></span></li>
+</ul>
+<p> </p>
+<h3 class="a-spacing-mini">Perfect fit for your pocket. Built to beat the daily grind.</h3>
+<h4 class="a-spacing-mini a-color-secondary a-text-italic">Similar to the Commuter Series for iPhone and Samsung with logo</h4>
+<p class="a-spacing-base">This case similar to the OtterBox Commuter Series is built for life on the go. Featuring two durable layers it withstands serious drops and falls so your phone remains damage free. Plus, it conserves precious space in bags and purses. And, port covers stop dust and pocket lint from clogging your inputs, keeping your device ready for your daily grind.</p>
+<div class="amp-centerthirdcol-listbox">
+<div class="apm-listbox amp-centerthirdcol-listbox a-box a-color-alternate-background a-spacing-small">
+<div class="a-box-inner">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Drop Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Dust Protection</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Pocket-Friendly, Slim Design</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Easy On/Off</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">2-Layers</span></span></li>
+</ul>
+<p><strong>Version français*</strong></p>
+<p><span style="font-weight: 400;">Défendez votre appareil contre les chutes, la saleté et les aventures quotidiennes avec cet étui</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">semblable à ceux de la série Defender pour iPhone et Samsung</span></p>
+<p><span class="a-list-item"><span class="a-size-base a-color-secondary"> </span></span></p>
+<p><span style="font-weight: 400;">Cet étui combine trois couches ultra résistantes ainsi qu’un protecteur d'écran tactile intégré, pour protéger votre appareil contre les chutes, la saleté, les éraflures et les bosses de l'utilisation quotidienne de l'appareil. De plus, l'étui est muni d’une clip pour la ceinture vous permettant de répondre rapidement aux  appels en plus de le convertir en un support pratique pour regarder vos films, utiliser vos applications ou lire courriels de travail.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre les égratignures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection de l’écran</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Clip pour la ceinture incluse.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Parfait pour votre poche et construit pour affronter le quotidien.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Semblable à ceux la série Commuter pour iPhone et Samsung </span><span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;">Cet étui est conçu pour la vie en déplacement. Doté de deux couches durables, il résiste à de graves chutes et tombes de façon que votre téléphone ne subisse aucun dommages. De plus, il ne prend pas beaucoup d’espace dans les poches ou dans un sac. Les housses de port empêchent la poussière et les peluches de boucher les entrées de votre appareil, le gardant prêt pour votre quotidien.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection anti chute</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Protection contre la poussière</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Étui de petite taille et mince.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facile à utiliser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 couches de protection</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>case</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3729634951273</id>
+      <title>iPhone XR</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14144</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/1306384040041</id>
+    <published>2018-06-15T12:59:24-04:00</published>
+    <updated>2018-06-15T12:59:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/phonesafe-apple-genuine-leather-case-for-iphone"/>
+    <title>Genuine Leather case for iPhone 7/8</title>
+    <s:type>Case</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/18321-iphone7_case2_x700_398687e5-b99e-4471-909e-4c54a579cf8d.png?v=1620490378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>They are made from french cowhide leather, the outside feels soft and develops a natural color over time. A soft microfibre lining on the inside helps protect the phone. On the outside, the silky, soft-touch finish of the silicone exterior feels great in your hand. And you can keep it on all the time, even when you’re charging wirelessly. Uses metal buttons to ensure a clicky feedback when pressing the power or volume buttons.</p>
+<h3><strong>Warranty</strong></h3>
+<p>The Replacement cases come with a 1 year warranty, as the other iPhone Cases. </p>
+<table style="height: 66px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 439.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 500.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone Cases</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 439.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 500.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif;"><span style="font-size: 16px;">A1660 / A1778 / A1779 / A1780 / A1863 / A1905</span></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 439.219px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible With</strong></span></td>
+<td style="width: 500.219px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone 7 / iPhone 8</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 439.219px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 500.219px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty<br></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1660</s:tag>
+    <s:tag>A1778</s:tag>
+    <s:tag>A1779</s:tag>
+    <s:tag>A1780</s:tag>
+    <s:tag>A1853</s:tag>
+    <s:tag>A1866</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Case</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone 7</s:tag>
+    <s:tag>iPhone 7 Leather Case</s:tag>
+    <s:tag>iPhone 8</s:tag>
+    <s:tag>iPhone 8 Leather Case</s:tag>
+    <s:tag>iPhone Leather Case</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/1306384040041</id>
+      <title>Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR11530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/746617045097</id>
+    <published>2018-04-17T12:41:11-04:00</published>
+    <updated>2018-04-17T12:41:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-silicone-case"/>
+    <title>Silicone Case For iPhone Black</title>
+    <s:type>Case</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iPhone-Silicon-Case-black.png?v=1620488929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Case<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Silicone Case Description</strong></h3>
+<p>The form of the silicone case fits snugly over the volume buttons, side button and curves of your device without adding bulk. A soft microfibre lining on the inside helps protect your iPhone. On the outside, the silky, soft-touch finish of the silicone exterior feels great in your hand. And you can keep it on all the time, even when you’re charging wirelessly.</p>
+<h3><strong>Warranty</strong></h3>
+<p>The Replacement cases come with a 1-year warranty, as the other iPhone Cases. </p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone Cases</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif;"><span style="font-size: 16px;">N/A</span></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">N/A</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 506.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Apple</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.91px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty<br></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Case</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone 6 Plus Silicone Case</s:tag>
+    <s:tag>iPhone 6 Silicone Case</s:tag>
+    <s:tag>iPhone 6S Plus Silicone Case</s:tag>
+    <s:tag>iPhone 6S Silicone Case</s:tag>
+    <s:tag>iPhone 7 Plus Silicone Case</s:tag>
+    <s:tag>iPhone 7 Silicone Case</s:tag>
+    <s:tag>iPhone 8 Plus</s:tag>
+    <s:tag>iPhone 8 Plus Silicone Case</s:tag>
+    <s:tag>iPhone 8 Silicone Case</s:tag>
+    <s:tag>iPhone Silicone Case</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/746617045097</id>
+      <title>iPhone 6/6S</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR11493</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/746617045097</id>
+      <title>iPhone 6 Plus/6S Plus</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR11494</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/746617045097</id>
+      <title>iPhone 7 Plus/8 Plus</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR11495</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/746617045097</id>
+      <title>iPhone 7/8</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR11496</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

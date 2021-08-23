@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/lg-g4-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T15:33:06-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641297502313</id>
+    <published>2019-07-28T15:33:06-04:00</published>
+    <updated>2019-07-28T15:33:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-volume-button-board"/>
+    <title>LG G4 Volume Button Board</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g4-volume-button-board-0-jpg.jpg?v=1571614720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This circuit board assembly includes the internal buttons for the volume and power buttons, the camera flash, and the spring contacts flex cable.It does not include the external button cover.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641297502313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13480</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641297404009</id>
+    <published>2019-07-28T15:32:50-04:00</published>
+    <updated>2019-07-28T15:32:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-vibration-motor"/>
+    <title>LG G4 Vibration Motor</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g4-vibration-motor-0-jpg.jpg?v=1571614705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning vibrator motor with this part.This is a used, OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641297404009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13479</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641297305705</id>
+    <published>2019-07-28T15:32:34-04:00</published>
+    <updated>2019-07-28T15:32:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-rear-panel"/>
+    <title>LG G4 Rear Panel</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g4-rear-panel-0-jpg.jpg?v=1571614690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged rear panel or simply swap out for a new one.  This is a used, OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641297305705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>UNLKR13478</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641297076329</id>
+    <published>2019-07-28T15:32:18-04:00</published>
+    <updated>2019-07-28T15:32:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-rear-panel-nfc-antenna"/>
+    <title>LG G4 Rear Panel NFC Antenna</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g4-rear-panel-nfc-antenna-0-jpg.jpg?v=1571614674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace the NFC antenna adhered to the rear plastic panel.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641297076329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13477</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641296846953</id>
+    <published>2019-07-28T15:32:02-04:00</published>
+    <updated>2019-07-28T15:32:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-earpiece-speaker"/>
+    <title>LG G4 Earpiece Speaker</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g4-earpiece-speaker-new-0-jpg.jpg?v=1571614643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix a damaged or broken earpiece speaker!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641296846953</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13476</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641296617577</id>
+    <published>2019-07-28T15:31:41-04:00</published>
+    <updated>2019-07-28T15:31:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-rear-lens-and-button-cover"/>
+    <title>LG G4 Rear Lens and Button Cover</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g4-rear-lens-and-button-cover-black-0-jpg.jpg?v=1571614621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This part includes the rear facing camera lens cover, its metal bezel, and the plastic button cover.Find the lens cover by itself here.Find the lens cover with the metal bezel here.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641296617577</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13473</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641296617577</id>
+      <title>White</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13474</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641296617577</id>
+      <title>Gold</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13475</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641296552041</id>
+    <published>2019-07-28T15:31:26-04:00</published>
+    <updated>2019-07-28T15:31:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-headphone-jack-assembly"/>
+    <title>LG G4 Headphone Jack Assembly</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g4-headphone-jack-assembly-0-jpg.jpg?v=1571614604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a dirty, corroded, or damaged headphone jack assembly for an LG G4 smartphone.  This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641296552041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13472</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641296355433</id>
+    <published>2019-07-28T15:31:06-04:00</published>
+    <updated>2019-07-28T15:31:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-rear-lens-cover-and-bezel"/>
+    <title>LG G4 Rear Lens Cover and Bezel</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g4-rear-lens-cover-and-bezel-black-0-jpg.jpg?v=1571614572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This part includes the rear facing camera lens cover and its metal bezel.Find the lens cover with out the bezel here.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641296355433</id>
+      <title>Black</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641296355433</id>
+      <title>White</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13470</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641296355433</id>
+      <title>Gold</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13471</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641296191593</id>
+    <published>2019-07-28T15:30:51-04:00</published>
+    <updated>2019-07-28T15:30:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-front-camera"/>
+    <title>LG G4 Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g4-front-camera-new-0-jpg.jpg?v=1571614555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix a broken camera, because selfies are awesome!  8 MP front camera for selfies and such.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641296191593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13468</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641295929449</id>
+    <published>2019-07-28T15:30:31-04:00</published>
+    <updated>2019-07-28T15:30:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-rear-lens-cover"/>
+    <title>LG G4 Rear Glass Camera Lens</title>
+    <s:type>Camera Lens</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g4-rear-lens-cover-black-0-jpg.jpg?v=1578969332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Camera Lens<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This part includes only the rear facing camera lens cover.Find the lens cover with the metal bezel here.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641295929449</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13465</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641295929449</id>
+      <title>White</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13466</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641295929449</id>
+      <title>Gold</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13467</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641295765609</id>
+    <published>2019-07-28T15:30:16-04:00</published>
+    <updated>2019-07-28T15:30:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-rear-camera"/>
+    <title>LG G4 Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g4-rear-camera-0-jpg.jpg?v=1571614517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged 16 MP rear camera for the LG G4 smartphone with this part. This is a used, OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>G4 H812</s:tag>
+    <s:tag>G4 H815</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641295765609</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13464</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641295601769</id>
+    <published>2019-07-28T15:30:00-04:00</published>
+    <updated>2019-07-28T15:30:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-speaker-assembly"/>
+    <title>LG G4 Speaker Assembly</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g4-at-amp-t-speaker-assembly-0-jpg.jpg?v=1571614503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged speaker assembly with this part. This part is for AT&amp;T models only.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641295601769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13463</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641295241321</id>
+    <published>2019-07-28T15:29:31-04:00</published>
+    <updated>2019-07-28T15:29:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-charge-port"/>
+    <title>LG G4 Charge Port</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g4-charge-port-0-jpg.jpg?v=1571614489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged USB port on your LG G4 daughter board with this part. This part requires microsoldering.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641295241321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13461</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/289731936297</id>
+    <published>2017-11-27T18:24:41-05:00</published>
+    <updated>2017-11-27T18:24:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-battery-original"/>
+    <title>Battery Compatible For LG G4</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/G4-Battery-Replacement-New-1.jpg?v=1620489019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have an LG G4 that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your LG G4 </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> ? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your cell phone only works when the battery is plugged in ?</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new LG G4 replacement battery.</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The battery in your phone can outgrow inside and damage the internals.</span></p>
+<p><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Our batteries are produced with the same quality standard as original LG G4 batteries. <span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The LG G4 replacement battery power is rated at 3000 mAh. </span>After this easy battery repair, your phone will have the same battery health as when your LG G4 was new.</span></span></p>
+<ul style="margin-top: 0pt; margin-bottom: 0pt;">
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Zero cycle count</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">UN38.3, MSDS, ROHS, CE Certification</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Tested under extreme weather</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Less than 20 minutes to replace</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">1-Year Warranty</span></li>
+</ul>
+<h3>Compatibility</h3>
+<p>This battery is only compatible with a LG G4.</p>
+<h3>Warranty</h3>
+<p>The Replacement LG G4 Battery comes with 1 year warranty, as the other LG Battery Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LG Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LG G4 (5.5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-size: 16px;">VS986 / H810 / LS991 / H811</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LG</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/289731936297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR11173</s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/289734262825</id>
+    <published>2017-11-18T03:54:13-05:00</published>
+    <updated>2017-11-18T03:54:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g4-lcd-screen-and-digitizer-frame-assembly"/>
+    <title>LG G4 LCD Screen and Digitizer Frame Assembly</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/G4-lcd-display-screen-and-digitizer-1_d215ecec-1177-4477-9ea3-feba9ec35376.jpg?v=1620489030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a LG G4 screen replacement ? If you dropped your LG G4 and broke the front glass it can be repaired ! You can replace your broken LG screen using our high quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>The OEM Screens for LG G4 LCD Screens and Digitizers Frame Assembly includes <strong>components from original screens.</strong> For customers who demand the <strong>same standard as original repair parts</strong>, the OEM LG parts has you covered.</p>
+<ul>
+<li>OEM LCD &amp; Digitizer Assembly</li>
+<li>OEM Touch Digitizer and IC</li>
+<li>OEM Glass Lens</li>
+<li>OEM Backlight</li>
+<li>OEM Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement LG G4 LCD Screens and Digitizers come with lifetime warranty, as the other LG LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LG LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G4 (5.5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">H812</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LG</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>F500K</s:tag>
+    <s:tag>F500L</s:tag>
+    <s:tag>F500S</s:tag>
+    <s:tag>G4</s:tag>
+    <s:tag>H810</s:tag>
+    <s:tag>H811</s:tag>
+    <s:tag>H812</s:tag>
+    <s:tag>H815</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LGLS991</s:tag>
+    <s:tag>LGUS991</s:tag>
+    <s:tag>LS991</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:tag>US991</s:tag>
+    <s:tag>VS986</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/289734262825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>UNLKR11176</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/galaxy-a-series-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-07-26T16:55:26-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/7220767719598</id>
+    <published>2021-07-26T16:55:26-04:00</published>
+    <updated>2021-07-26T16:55:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/back-camera-lens-with-frame-compatible-for-samsung-galaxy-a70-a705-a705f"/>
+    <title>Back Camera Lens With Frame Compatible For Samsung Galaxy A70 A705 A705F</title>
+    <s:type>Camera Lens</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/rear-back-camera-lens-frame-Samsung-Galaxy-A70-A705-A705F.jpg?v=1627393985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Camera Lens<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Samsung Galaxy A70 A705 A705F Rear Camera Lens With Frame is designed to allow the replacement of your broken Camera Lens. </p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Rear Camera Lens With Frame</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy A70 A705 A705F</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;">(A705 A705F)</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A705</s:tag>
+    <s:tag>A705F</s:tag>
+    <s:tag>Camera Lens</s:tag>
+    <s:tag>Galaxy A70</s:tag>
+    <s:tag>Rear Camera Lens</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy A70</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7220767719598</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14965</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7220767719598</id>
+      <title>Gold</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14968</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7220767719598</id>
+      <title>Blue</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14967</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7220767719598</id>
+      <title>Silver</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14966</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7214539604142</id>
+    <published>2021-07-22T15:09:35-04:00</published>
+    <updated>2021-07-22T15:09:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lcd-screen-and-digitizer-frame-assembly-compatible-for-samsung-galaxy-a10s-a107-a107f"/>
+    <title>LCD Screen and Digitizer Frame Assembly Compatible For Samsung Galaxy A10s A107 A107F</title>
+    <s:type>LCD &amp; Digitizer</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lcd-frame-assembly-samsung-galaxy-A10S-A107-A107F.jpg?v=1626980970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>LCD &amp; Digitizer<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A10s A107 A107F screen replacement? If you dropped your Samsung Galaxy A10s A107 A107F and broke the front glass it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy A10s A107 A107F<span data-mce-fragment="1"> </span>screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, Our Samsung parts have you covered.</p>
+<ul>
+<li>LCD &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung A10s A107 A107F LCD Screens and Digitizers come with a lifetime warranty, as the other Samsung LCD Replacement Parts.</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy A10s<span data-mce-fragment="1"> A107 A107F</span></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;" mce-data-marked="1">LCD</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A107</s:tag>
+    <s:tag>A107F</s:tag>
+    <s:tag>A10s</s:tag>
+    <s:tag>Galaxy A10s</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy A10s</s:tag>
+    <s:tag>Samsung Screen</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:tag>Screen Assembly</s:tag>
+    <s:tag>Screen Replacement</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7214539604142</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>UNLKR14963</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7214053654702</id>
+    <published>2021-07-22T10:36:13-04:00</published>
+    <updated>2021-07-22T10:36:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/charging-port-assembly-compatible-for-samsung-galaxy-a52-us-version-a525-a526"/>
+    <title>Charging Port Assembly Compatible For Samsung Galaxy A52 (US Version) A525 A526</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/samsung-galaxy-a52-chargingport-assemmbly-us-version-a525u_2b51c19f-4e4c-4983-9fb5-f44c14269c80.jpg?v=1626964451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A52 (US Version) A525 A526 charging port replacement? If you damaged your Samsung Galaxy <span data-mce-fragment="1">A52 </span><span data-mce-fragment="1">(US Version) A525 A526</span> and broke the charging port it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy <span data-mce-fragment="1">A52 </span><span data-mce-fragment="1">(US Version) A525 A526</span> charging port using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Samsung Galaxy <span data-mce-fragment="1">A52 </span><span data-mce-fragment="1">(US Version) A525 A526</span> charging port come with a lifetime warranty, as the other Samsung Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Charging Port (US Version)</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;">A525, A526</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A52 US Version</s:tag>
+    <s:tag>A525</s:tag>
+    <s:tag>A526</s:tag>
+    <s:tag>Charging Port</s:tag>
+    <s:tag>Galaxy A52</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy A52</s:tag>
+    <s:tag>Samsung Galaxy A52 5G</s:tag>
+    <s:tag>US Version</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7214053654702</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR14961</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7169610383534</id>
+    <published>2021-07-15T09:58:52-04:00</published>
+    <updated>2021-07-15T09:58:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/loudspeaker-compatible-for-samsung-galaxy-a70-a705"/>
+    <title>Loudspeaker Compatible For Samsung Galaxy A70 A705 2019</title>
+    <s:type>Loudspeaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/loudpseaker-compatible-samsung-galaxy-a70-a705.jpg?v=1626357522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Loudspeaker<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged or malfunctioning main speaker assembly for a Samsung Galaxy A70 A705 2019 and fix problems with loudspeaker audio.</p>
+<p>Compatible with : <span data-mce-fragment="1">A705U, A705F, A705W</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A70 2019</s:tag>
+    <s:tag>A705F</s:tag>
+    <s:tag>A705U</s:tag>
+    <s:tag>A705W</s:tag>
+    <s:tag>Galaxy A70</s:tag>
+    <s:tag>Loudspeaker</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy A70</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7169610383534</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14947</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7168069337262</id>
+    <published>2021-07-14T11:12:04-04:00</published>
+    <updated>2021-07-14T11:12:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/back-cover-glass-with-camera-lens-adhesive-for-samsung-galaxy-a52-5g"/>
+    <title>Back Cover Glass With Camera Lens &amp; Adhesive For Samsung Galaxy A52 5G</title>
+    <s:type>Back Covers</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Samsung-Galaxy-A52-A525-5G-Battery-Back-Cover-Rear--Camera-Lens-black.jpg?v=1626275525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Covers<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px 0px 16px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; font-size: 14px; letter-spacing: 0.1px; background-color: #ffffff;">The <span style="letter-spacing: 0.1px;">Rear Back Cover For Samsung Galaxy A52 5G</span><span style="letter-spacing: 0.1px;"> is designed for the replacement of your broken or cracked rear casing. Adhesive is pre-installed for easy installation.</span></p>
+<h3 style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; letter-spacing: 0.1px; background-color: #ffffff;">Warranty</h3>
+<p> </p>
+<p style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px 0px 16px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; font-size: 14px; letter-spacing: 0.1px; background-color: #ffffff;">Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table border="1" style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; font-size: 14px; letter-spacing: 0.1px; background-color: #ffffff; height: 84px; border-style: solid; border-color: #000000;">
+<tbody style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px;">
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 18px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder;">Part Type</span></span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;">Back Glass Covers</span></td>
+</tr>
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 18px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder;">Compatible Model</span></span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 18px;">
+<p>Samsung Galaxy A52 5G A525, A525F</p>
+</td>
+</tr>
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 10px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 10px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder; font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 10px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 20px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 20px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder;">Warranty</span></span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 20px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A525</s:tag>
+    <s:tag>A525F</s:tag>
+    <s:tag>Back Cover</s:tag>
+    <s:tag>Back Glass</s:tag>
+    <s:tag>Samsung Galaxy A52</s:tag>
+    <s:tag>Samsung Galaxy A52 5G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7168069337262</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14940</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7168069337262</id>
+      <title>Blue</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14941</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7168069337262</id>
+      <title>White</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14942</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7168069337262</id>
+      <title>Purple</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14943</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7164747382958</id>
+    <published>2021-07-13T15:52:57-04:00</published>
+    <updated>2021-07-13T15:52:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/back-cover-glass-with-camera-lens-adhesive-for-samsung-galaxy-a32-5g"/>
+    <title>Back Cover Glass With Camera Lens &amp; Adhesive For Samsung Galaxy A32 5G</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/back-battery-cover-Samsung-Galaxy-A32-5G-a326-black.jpg?v=1626205872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px 0px 16px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; font-size: 14px; letter-spacing: 0.1px; background-color: #ffffff;">The <span style="letter-spacing: 0.1px;">Rear Back Cover For Samsung Galaxy A32 5G</span><span style="letter-spacing: 0.1px;"> is designed for the replacement of your broken or cracked rear casing. Adhesive is pre-installed for easy installation.</span></p>
+<h3 style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; letter-spacing: 0.1px; background-color: #ffffff;">Warranty</h3>
+<p> </p>
+<p style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px 0px 16px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; font-size: 14px; letter-spacing: 0.1px; background-color: #ffffff;">Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table border="1" style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; font-size: 14px; letter-spacing: 0.1px; background-color: #ffffff; height: 84px; border-style: solid; border-color: #000000;">
+<tbody style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px;">
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 18px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder;">Part Type</span></span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;">Back Glass Covers</span></td>
+</tr>
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 18px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder;">Compatible Model</span></span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 18px;">Samsung Galaxy A32 5G</td>
+</tr>
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 10px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 10px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder; font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 10px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 20px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 20px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder;">Warranty</span></span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 20px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A32 US Version</s:tag>
+    <s:tag>A326</s:tag>
+    <s:tag>A326F</s:tag>
+    <s:tag>A326U</s:tag>
+    <s:tag>A326W</s:tag>
+    <s:tag>Back Cover</s:tag>
+    <s:tag>Back Glass</s:tag>
+    <s:tag>Galaxy A32 5G</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy A32</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7164747382958</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14937</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7164747382958</id>
+      <title>Purple</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14938</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7164747382958</id>
+      <title>White</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14939</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7164672966830</id>
+    <published>2021-07-13T14:46:09-04:00</published>
+    <updated>2021-07-13T14:46:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/charging-port-assembly-compatible-for-samsung-galaxy-a32-5g-us-version"/>
+    <title>Charging Port Assembly Compatible For Samsung Galaxy A32 5G (US Version)</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/a32-samsung-charging-port-assembly-5g-a326-replacement.jpg?v=1626201583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A32 5G (US Version) charging port replacement? If you damaged your Samsung Galaxy <span data-mce-fragment="1">A32 5G (US Version)</span> and broke the charging port it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy <span data-mce-fragment="1">A32 5G (US Version)</span> charging port using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Samsung Galaxy <span data-mce-fragment="1">A32 5G (US Version)</span> charging port come with a lifetime warranty, as the other Samsung Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Charging Port (US Version)</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;">A326, A326U, A326W</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A32 US Version</s:tag>
+    <s:tag>A326</s:tag>
+    <s:tag>A326U</s:tag>
+    <s:tag>A326W</s:tag>
+    <s:tag>assembly</s:tag>
+    <s:tag>Charging Port</s:tag>
+    <s:tag>Galaxy A32 5G</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7164672966830</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14936</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7143198687406</id>
+    <published>2021-07-07T11:37:30-04:00</published>
+    <updated>2021-07-07T11:37:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/oled-screen-and-digitizer-frame-assembly-compatible-for-samsung-galaxy-a32-4g-a325"/>
+    <title>OLED Screen and Digitizer Frame Assembly Compatible For Samsung Galaxy A32 4G A325</title>
+    <s:type>LCD &amp; Digitizer</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/samsung-a32-4g-2021-A325-oled-digitizer-frame-galaxy-a32-replacement-screen.jpg?v=1625672167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD &amp; Digitizer<br>
+        <strong>Price: </strong>
+            114.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A32 4G screen replacement? If you dropped your Samsung Galaxy <span data-mce-fragment="1">A32 4G </span>and broke the front glass it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy <span data-mce-fragment="1">A32 4G </span>screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, Our Samsung parts have you covered.</p>
+<ul>
+<li>OLED &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy <span data-mce-fragment="1">A32 4G</span> OLED Screens and Digitizers come with a lifetime warranty, as the other Samsung OLED Replacement Parts.</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">OLED Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy <span data-mce-fragment="1">A32 4G A325</span></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">High Capacitive Multi Touch Screen </span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A325</s:tag>
+    <s:tag>A325F</s:tag>
+    <s:tag>Galaxy A32</s:tag>
+    <s:tag>Galaxy A32 4G</s:tag>
+    <s:tag>LCD &amp; Digitizer</s:tag>
+    <s:tag>Samsung Galaxy A32</s:tag>
+    <s:tag>Screen Replacement</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7143198687406</id>
+      <title>Black</title>
+      <s:price currency="CAD">114.99</s:price>
+      <s:sku>UNLKR14930</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7109209489582</id>
+    <published>2021-07-02T10:21:46-04:00</published>
+    <updated>2021-07-02T10:21:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lcd-screen-and-digitizer-frame-assembly-compatible-for-samsung-galaxy-a32-5g-a326u-us-version"/>
+    <title>LCD Screen and Digitizer Frame Assembly Compatible For Samsung Galaxy A32 5G A326U (US Version)</title>
+    <s:type>LCD &amp; Digitizer</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/samsung-a32-5g-2021-A326-A326U-lcd-digitizer-frame-galaxy-a32-replacement-screen.jpg?v=1625236118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD &amp; Digitizer<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A32 5G (US Version) screen replacement? If you dropped your Samsung Galaxy <span data-mce-fragment="1">A32 5G (US Version)</span> and broke the front glass it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy <span data-mce-fragment="1">A32 5G (US Version) </span>screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, Our Samsung parts have you covered.</p>
+<ul>
+<li>LCD &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy <span data-mce-fragment="1">A32 5G (US Version)</span> LCD Screens and Digitizers come with a lifetime warranty, as the other Samsung LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy <span data-mce-fragment="1">A32 5G A326U (US Version) </span></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">High Capacitive Multi Touch Screen </span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A32 US Version</s:tag>
+    <s:tag>A326U</s:tag>
+    <s:tag>Galaxy A32</s:tag>
+    <s:tag>Galaxy A32 5G</s:tag>
+    <s:tag>LCD &amp; Digitizer</s:tag>
+    <s:tag>Samsung Galaxy A32</s:tag>
+    <s:tag>Screen Replacement</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7109209489582</id>
+      <title>Black</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>UNLKR14926</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7093173485742</id>
+    <published>2021-06-29T10:39:56-04:00</published>
+    <updated>2021-06-29T10:39:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/oled-screen-and-digitizer-frame-assembly-compatible-for-samsung-galaxy-a52-5g-a526"/>
+    <title>OLED Screen and Digitizer Frame Assembly Compatible For Samsung Galaxy A52 5G A526</title>
+    <s:type>LCD &amp; Digitizer</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/samsung-a52-replacement-screen-a525-a526-lcd-digitizer-frame.jpg?v=1624978694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD &amp; Digitizer<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A52 screen replacement? If you dropped your Samsung Galaxy A52 and broke the front glass it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy A52 screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, Our Samsung parts have you covered.</p>
+<ul>
+<li>OLED &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy A52 OLED Screens and Digitizers come with a lifetime warranty, as the other Samsung OLED Replacement Parts.</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">OLED Screens and Digitizer With Frame</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy A52 5G A526</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;" mce-data-marked="1">OLED Display &amp; Digitizer with Frame</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A526</s:tag>
+    <s:tag>Galaxy A52</s:tag>
+    <s:tag>LCD &amp; Digitizer</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7093173485742</id>
+      <title>Black</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>UNLKR14925</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7093173485742</id>
+      <title>White</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>UNLKR14923</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7093173485742</id>
+      <title>Purple</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>UNLKR14924</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7039656067246</id>
+    <published>2021-06-21T16:39:16-04:00</published>
+    <updated>2021-06-21T16:39:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/rear-camera-lens-with-frame-compatible-for-samsung-galaxy-a5-2017"/>
+    <title>Rear Camera Lens With Frame Compatible For Samsung Galaxy A5 2017</title>
+    <s:type>Camera Lens</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/rear-back-camera-lens-Samsung-Galaxy-A5-2017-A520-A520F-a720-a320.jpg?v=1624308445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Camera Lens<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Samsung Galaxy A5 2017 Rear Camera Lens is designed to allow the replacement of your broken Camera Lens. </p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Rear-Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy A5 2017</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;">(A520, A520F)</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A520</s:tag>
+    <s:tag>A520F</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7039656067246</id>
+      <title>Black</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14908</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7039656067246</id>
+      <title>Blue</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14909</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7039656067246</id>
+      <title>Gold</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14910</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/7039656067246</id>
+      <title>Bronze</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14911</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/7020790841518</id>
+    <published>2021-06-16T09:45:43-04:00</published>
+    <updated>2021-06-16T09:45:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/charging-port-compatible-for-samsung-galaxy-a8-2018-a530-and-a8-plus-a730"/>
+    <title>Charging Port Compatible For Samsung Galaxy A8 2018 A530 and A8 Plus A730</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/samsung-a8-charging-port-Galaxy-A8-2018-A530-A730-A8Plus.jpg?v=1623851133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A8 2018 A530 or A8 Plus A730 charging port replacement? If you damaged your Samsung Galaxy A8 2018 A530 or A8 Plus A730 and broke the charging port it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy A8 2018 A530 and A8 Plus A730 charging port using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Samsung Galaxy A8 2018 A530 and A8 Plus A730 charging port come with a lifetime warranty, as the other Samsung Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Charging Port (soldering required)</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;">A530, A730</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A530</s:tag>
+    <s:tag>A530F</s:tag>
+    <s:tag>A530K</s:tag>
+    <s:tag>A530L</s:tag>
+    <s:tag>A530N</s:tag>
+    <s:tag>A530S</s:tag>
+    <s:tag>A530W</s:tag>
+    <s:tag>A730</s:tag>
+    <s:tag>A730F</s:tag>
+    <s:tag>Charging Port</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy A8 (2018)</s:tag>
+    <s:tag>Samsung Galaxy A8 Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7020790841518</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14884</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6996119552174</id>
+    <published>2021-06-11T15:31:57-04:00</published>
+    <updated>2021-06-11T15:31:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/oled-screen-and-digitizer-frame-assembly-compatible-for-samsung-galaxy-a52-a525f-a526b"/>
+    <title>OLED Screen and Digitizer Frame Assembly Compatible For Samsung Galaxy A52 A525F</title>
+    <s:type>LCD &amp; Digitizer</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/samsung-a52-replacement-screen-a525-a526-lcd-digitizer-frame_8f525444-5879-4d83-aacb-885ef812d81b.jpg?v=1624978891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD &amp; Digitizer<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A52 screen replacement? If you dropped your Samsung Galaxy A52 and broke the front glass it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy A52 screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, Our Samsung parts have you covered.</p>
+<ul>
+<li>OLED &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy A52 OLED Screens and Digitizers come with a lifetime warranty, as the other Samsung OLED Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">OLED Screens and Digitizer With Frame</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy A52 A525F</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;" mce-data-marked="1">OLED Display &amp; Digitizer with Frame</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A525F</s:tag>
+    <s:tag>Galaxy A52</s:tag>
+    <s:tag>LCD &amp; Digitizer</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6996119552174</id>
+      <title>Black</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>UNLKR14922</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6996119552174</id>
+      <title>White</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>UNLKR14868</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6996119552174</id>
+      <title>Purple</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>UNLKR14869</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6952666726574</id>
+    <published>2021-06-08T13:59:22-04:00</published>
+    <updated>2021-06-08T13:59:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-a5-wireless-charging-nfc-antenna"/>
+    <title>Galaxy A5 2017 Wireless Charging NFC Antenna A520 A520F A520WA</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Samsung-Galaxy-A5-2017-A520-A5200-A520F-Wireless-Charger-Chip-NFC-Antenna.jpg?v=1623175163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Replace the Wireless Charging NFC Antenna Compatible for Samsung Galaxy A5 2017 A520 A520F A520WA smartphone.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A510</s:tag>
+    <s:tag>A520</s:tag>
+    <s:tag>A520F</s:tag>
+    <s:tag>A520K</s:tag>
+    <s:tag>A520L</s:tag>
+    <s:tag>A520S</s:tag>
+    <s:tag>A520W</s:tag>
+    <s:tag>A520WA</s:tag>
+    <s:tag>Antenna</s:tag>
+    <s:tag>Galaxy A5</s:tag>
+    <s:tag>Galaxy A5 2017</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6952666726574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14856</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6936179409070</id>
+    <published>2021-06-07T14:42:31-04:00</published>
+    <updated>2021-06-07T14:42:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-a50-mid-frame-bezel-a505-a505f-a505u"/>
+    <title>Galaxy A50 Mid Frame Bezel A505 A505F A505U</title>
+    <s:type>Frame</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/a50-mid-frame-bezel-2019-a505.jpg?v=1623091352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Frame<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Fix that broken mid-frame! Dropped your phone? Cracked your mid-frame? This is the part you need. This part is only the plastic frame.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A505</s:tag>
+    <s:tag>A505F</s:tag>
+    <s:tag>A505U</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung A50</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6936179409070</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14851</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6863753347246</id>
+    <published>2021-06-02T11:24:38-04:00</published>
+    <updated>2021-06-02T11:24:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/charging-port-compatible-for-samsung-galaxy-a11-us-version-a115a-a115u"/>
+    <title>Charging Port Compatible For Samsung Galaxy A11 US Version A115A A115U</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/samsung-a11-charging-port-assembly-board-us-version-a115u-1.jpg?v=1622647480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A11 US Version A115U charging port replacement? If you damaged your Samsung Galaxy <span data-mce-fragment="1">A11 US Version A115U</span> and broke the charging port it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy <span data-mce-fragment="1">A11 US Version A115U</span> charging port using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Samsung Galaxy <span data-mce-fragment="1">A11 US Version A115U</span> charging port come with a lifetime warranty, as the other Samsung Replacement Parts.</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Charging port</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;">A115A, A115U, A115U1</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A115A</s:tag>
+    <s:tag>A115U</s:tag>
+    <s:tag>A115U1</s:tag>
+    <s:tag>Galaxy A11</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6863753347246</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR14832</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6863688302766</id>
+    <published>2021-06-02T11:17:39-04:00</published>
+    <updated>2021-06-02T11:17:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/replacement-battery-compatible-for-samsung-galaxy-a11"/>
+    <title>Replacement Battery Compatible For Samsung Galaxy A11</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-a11-battery-a115-samsung.jpg?v=1622647060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have a Samsung Galaxy A11 that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your Samsung Galaxy A11 </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly?</span> </span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Does your cell phone only work when the battery is plugged in?</span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new Samsung Galaxy A11 replacement battery.</span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The old battery in your cell phone can swell inside and damage the internals.</span></p>
+<p>Our Batteries for Samsung Galaxy A11 are <strong>brand-new batteries</strong> coming directly from our manufacturer. They are custom-built for customers who demand the <strong>same quality as original Samsung</strong> <strong>batteries. </strong></p>
+<ul>
+<li>Zero cycle count</li>
+<li>Tested under extreme weather</li>
+<li>100% New with premium components</li>
+<li>High output current capacity</li>
+<li>1 Year Warranty</li>
+</ul>
+<h3>Compatibility</h3>
+<p>This battery is only compatible with a Samsung Galaxy A11.</p>
+<h3>Warranty</h3>
+<p>The Replacement Samsung Galaxy A11 Battery comes with a 1-year warranty, as the other Samsung Battery Replacement Parts.</p>
+<table border="1" style="height: 84px; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Galaxy A11 (A115, A115F, A115U)</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 445.6px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A115</s:tag>
+    <s:tag>A115F</s:tag>
+    <s:tag>A115U</s:tag>
+    <s:tag>Galaxy A11</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6863688302766</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14831</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6850987163822</id>
+    <published>2021-06-01T11:51:09-04:00</published>
+    <updated>2021-06-01T11:51:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/main-motherboard-flex-for-samsung-galaxy-a20-2019"/>
+    <title>Main Motherboard Flex for Samsung Galaxy A20 2019</title>
+    <s:type>Flex Cable</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/motherboard_connection_flex_1_1_For_A20_samsung-A205.jpg?v=1622562625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Flex Cable<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Main Motherboard Flex for Samsung Galaxy A20 2019</p>
+<p>Compatible for Samsung A20 2019</p>
+<p>Model number A205 / A205F</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A20</s:tag>
+    <s:tag>A205</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6850987163822</id>
+      <title>Flex</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14820</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6798271774894</id>
+    <published>2021-05-28T16:07:15-04:00</published>
+    <updated>2021-05-28T16:07:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/copy-of-main-flex-1-for-samsung-galaxy-a50-2019"/>
+    <title>Flex for LCD OCTA for Samsung Galaxy A20 2019</title>
+    <s:type>Flex Cable</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Capture.png?v=1622562331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Flex Cable<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Main flex for LCD OCTA for Samsung Galaxy A20 2019</p>
+<p>Compatible for Samsung A20 2019</p>
+<p>Model number A205 / A205F</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A20</s:tag>
+    <s:tag>A205</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6798271774894</id>
+      <title>Flex</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14813</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6795518443694</id>
+    <published>2021-05-28T11:55:15-04:00</published>
+    <updated>2021-05-28T11:55:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/back-battery-cover-with-camera-lens-adhesive-for-samsung-galaxy-a11"/>
+    <title>Back Battery Cover With Camera Lens &amp; Adhesive For Samsung Galaxy A11</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/a11-back-battery-cover-camera-lens-A115.jpg?v=1622217191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px 0px 16px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; font-size: 14px; letter-spacing: 0.1px; background-color: #ffffff;">The <span style="letter-spacing: 0.1px;">Rear Back Cover For Samsung Galaxy A11</span><span style="letter-spacing: 0.1px;"> is designed for the replacement of your broken or cracked rear casing. Adhesive and camera lens is pre-installed for easy installation.</span></p>
+<h3 style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; letter-spacing: 0.1px; background-color: #ffffff;">Warranty</h3>
+<p> </p>
+<p style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px 0px 16px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; font-size: 14px; letter-spacing: 0.1px; background-color: #ffffff;">Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table border="1" style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif; font-size: 14px; letter-spacing: 0.1px; background-color: #ffffff; height: 84px; border-style: solid; border-color: #000000;">
+<tbody style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px;">
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 18px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder;">Part Type</span></span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;">Back Glass Covers</span></td>
+</tr>
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 18px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 18px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder;">Compatible Model</span></span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 18px;">Samsung Galaxy A11</td>
+</tr>
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 10px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 10px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder; font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 10px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; height: 20px;">
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 446px; text-align: center; height: 20px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-weight: bolder;">Warranty</span></span></td>
+<td style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; width: 509px; text-align: center; height: 20px;"><span style="box-sizing: inherit; background-repeat: no-repeat; padding: 0px; margin: 0px; font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A11</s:tag>
+    <s:tag>A115</s:tag>
+    <s:tag>A115DS</s:tag>
+    <s:tag>A115F</s:tag>
+    <s:tag>Galaxy A11</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6795518443694</id>
+      <title>Black</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR14809</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6795518443694</id>
+      <title>White</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR14810</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6795518443694</id>
+      <title>Red</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR14811</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6795518443694</id>
+      <title>Blue</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR14812</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6794305503406</id>
+    <published>2021-05-28T10:01:03-04:00</published>
+    <updated>2021-05-28T10:01:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/mainboard-flex-cable-compatible-for-samsung-galaxy-a21-a215-a215f-a215u"/>
+    <title>Mainboard Flex Cable Compatible for Samsung Galaxy A21 A215 A215F A215U</title>
+    <s:type>Main Flex</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/main-flex-samsung-a21-a215-a215f-galaxy.jpg?v=1622210464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Main Flex<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New Main Motherboard Flex Cable Compatible For Samsung Galaxy A21 2020 A215 A215F A215U</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A215</s:tag>
+    <s:tag>A215F</s:tag>
+    <s:tag>A215U</s:tag>
+    <s:tag>Galaxy A21</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6794305503406</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14808</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6794184229038</id>
+    <published>2021-05-28T09:51:03-04:00</published>
+    <updated>2021-05-28T09:51:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/back-camera-compatible-for-samsung-galaxy-a21-a215-a215f"/>
+    <title>Back Camera Compatible for Samsung Galaxy A21 A215 A215F</title>
+    <s:type>Rear Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/back-rear-camera-a21-a215-a215f-samsung.jpg?v=1622209864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Rear Camera<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Rear Camera Compatible For Samsung Galaxy A21 is designed to allow the replacement of your broken Back Camera. </p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Rear-Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy A21</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;">A215, A215F, A215U</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 509px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 509px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A215</s:tag>
+    <s:tag>A215F</s:tag>
+    <s:tag>A215U</s:tag>
+    <s:tag>Galaxy A21</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6794184229038</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14807</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6794038411438</id>
+    <published>2021-05-28T09:40:24-04:00</published>
+    <updated>2021-05-28T09:40:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/replacement-battery-compatible-for-samsung-galaxy-a10s-a20s-a21"/>
+    <title>Replacement Battery Compatible For Samsung Galaxy A10s, A20s &amp; A21</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/a10s-a20s-a21-battery-replacement-a207-a215.jpg?v=1622209144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have a Samsung Galaxy A10s, A20s or A21 battery that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your Samsung Galaxy <span data-mce-fragment="1">A10s, A20s or A21</span> </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly?</span> </span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Does your cell phone only work when the battery is plugged in?</span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new Samsung Galaxy <span data-mce-fragment="1">A10s, A20s or A21</span> replacement battery.</span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The old battery in your cell phone can swell inside and damage the internals.</span></p>
+<p>Our Batteries for Samsung Galaxy <span data-mce-fragment="1">A10s, A20s or A21</span> are <strong>brand-new batteries</strong> coming directly from our manufacturer. They are custom-built for customers who demand the <strong>same quality as original Samsung</strong> <strong>batteries. </strong></p>
+<ul>
+<li>Zero cycle count</li>
+<li>Tested under extreme weather</li>
+<li>100% New with premium components</li>
+<li>High output current capacity</li>
+<li>1 Year Warranty</li>
+</ul>
+<h3>Compatibility</h3>
+<p>This battery is only compatible with a Samsung Galaxy <span data-mce-fragment="1">A10s, A20s or A21.</span></p>
+<h3>Warranty</h3>
+<p>The Replacement Samsung Galaxy <span data-mce-fragment="1">A10s, A20s or A21</span> Battery comes with a 1-year warranty, as the other Samsung Battery Replacement Parts.</p>
+<table border="1" style="height: 84px; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Galaxy A10s, A20s or A21 (A107, A207, A215)</span></span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 445.6px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A107F</s:tag>
+    <s:tag>A207</s:tag>
+    <s:tag>A215</s:tag>
+    <s:tag>A215F</s:tag>
+    <s:tag>A215U</s:tag>
+    <s:tag>Galaxy A10s</s:tag>
+    <s:tag>Galaxy A20s</s:tag>
+    <s:tag>Galaxy A21</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6794038411438</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR14806</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6773405778094</id>
+    <published>2021-05-26T09:38:44-04:00</published>
+    <updated>2021-05-26T09:38:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lcd-screen-and-digitizer-frame-assembly-compatible-for-samsung-galaxy-a21s-2020-a217-a217f"/>
+    <title>LCD Screen and Digitizer Frame Assembly Compatible For Samsung Galaxy A21S 2020 A217 A217F</title>
+    <s:type>LCD &amp; Digitizer</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/a21s-lcd-assembly-frame-A217-2020.jpg?v=1622036325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>LCD &amp; Digitizer<br>
+        <strong>Price: </strong>
+            52.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A21S screen replacement? If you dropped your Samsung Galaxy A21S and broke the front glass it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy A21S screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, Our Samsung parts have you covered.</p>
+<ul>
+<li>LCD &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy A21S LCD Screens and Digitizers come with a lifetime warranty, as the other Samsung LCD Replacement Parts.</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy A21S A217 A217F</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Super capacitive touchscreen, 16M colors</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A217</s:tag>
+    <s:tag>A217F</s:tag>
+    <s:tag>A21S</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6773405778094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.99</s:price>
+      <s:sku>UNLKR14789</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/6764255477934</id>
+    <published>2021-05-25T16:37:24-04:00</published>
+    <updated>2021-05-25T16:37:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/charging-port-compatible-for-samsung-galaxy-a21"/>
+    <title>Charging Port Assembly Compatible For Samsung Galaxy A21</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/A21chargingport-replacement-part-new.jpg?v=1621974997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung Galaxy A21 charging port replacement? If you damaged your Samsung Galaxy A21 and broke the charging port it can be repaired!</p>
+<p>You can replace your broken Samsung Galaxy A21 charging port using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Samsung Galaxy A51 charging port come with a lifetime warranty, as the other Samsung Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Charging port</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Galaxy A21</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A21</s:tag>
+    <s:tag>A215</s:tag>
+    <s:tag>Charging Port</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6764255477934</id>
+      <title>Original</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR14787</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+</feed>

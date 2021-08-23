@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/huawei-p20-lite-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-06-09T10:42:01-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/6967475110062</id>
+    <published>2021-06-09T10:42:01-04:00</published>
+    <updated>2021-06-09T10:42:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/earpiece-speaker-for-huawei-p20-p20-pro-p20-lite-p30-honor-mate-20-lite"/>
+    <title>Earpiece Speaker For Huawei P20 P20 Pro P20 Lite P30 Honor 8X Nova 3i Mate 20 Lite</title>
+    <s:type>Ear Speaker</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/p20pro-huawei-ear-piece-speaker-p20-p30lite-p30honor-mate20-lite.jpg?v=1623249721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Ear Speaker<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged or malfunctioning earpiece speaker in a Huawei P20, P20 Pro, P20 Lite, P30 Honor, Mate 20 Lite, smartphone to fix phone call audio.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ANE-LX1</s:tag>
+    <s:tag>CLT-AL00</s:tag>
+    <s:tag>EML-L29</s:tag>
+    <s:tag>Huawei</s:tag>
+    <s:tag>Huawei Mate 20 Lite</s:tag>
+    <s:tag>Huawei P20</s:tag>
+    <s:tag>Huawei P20 Lite</s:tag>
+    <s:tag>Huawei P20 Pro</s:tag>
+    <s:tag>MAR-LX1</s:tag>
+    <s:tag>SNE-LX3</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6967475110062</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14859</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4438087991401</id>
+    <published>2019-12-13T12:00:32-05:00</published>
+    <updated>2019-12-13T12:00:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/tempered-glass-for-huawei-series"/>
+    <title>Tempered Glass For Huawei P Series</title>
+    <s:type>Tempered Glass</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/tempglasssingle.png?v=1623244991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Tempered Glass<br>
+        <strong>Price: </strong>
+            1.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-size: 14px; font-weight: 400;">Tempered Glass for Huawei Series. It adds a layer of protection on the screen of your device to protect it from breaking and scratching. They include oleophobic coating to prevent fingerprints and provide extra protection. The high quality glass it's made of ensures original image clarity perfect touch sensitivity.</p>
+<h3><strong>Warranty</strong></h3>
+<p style="font-size: 14px; font-weight: 400;">The Replacement Tempered Glass come with a 1 year warranty, as the other tempered glasses. </p>
+<table style="font-size: 14px; font-weight: 400; height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei Tempered Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible With</strong></span></td>
+<td style="width: 508px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty<br></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ANE-LX1</s:tag>
+    <s:tag>EML-L29</s:tag>
+    <s:tag>Huawei</s:tag>
+    <s:tag>HWV32</s:tag>
+    <s:tag>MAR-LX1</s:tag>
+    <s:tag>NE-TL00</s:tag>
+    <s:tag>P20 lite</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4438087991401</id>
+      <title>P20</title>
+      <s:price currency="CAD">1.79</s:price>
+      <s:sku>UNLKR14374</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4438087991401</id>
+      <title>P20 Lite</title>
+      <s:price currency="CAD">1.79</s:price>
+      <s:sku>UNLKR14377</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4438087991401</id>
+      <title>P30 Lite</title>
+      <s:price currency="CAD">1.79</s:price>
+      <s:sku>UNLKR14375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3700834566249</id>
+    <published>2019-09-03T21:13:16-04:00</published>
+    <updated>2019-09-03T21:13:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/huawei-p20-lite-camera-lens"/>
+    <title>Huawei P20 Lite Camera Lens</title>
+    <s:type>Camera Lens</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Samsung-Galaxy-S8-Camera-Lens-Replacement_88dbc5bd-3a88-453d-a688-0a52c09bb4f0.jpg?v=1572031628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Camera Lens<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Huawei P20 Lite Rear Camera Lens is designed to allow the replacement of your broken Camera Lens. </p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei Rear-Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei P20 Lite</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">-</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ANE-AL00</s:tag>
+    <s:tag>ANE-L21</s:tag>
+    <s:tag>ANE-L22</s:tag>
+    <s:tag>ANE-L23</s:tag>
+    <s:tag>ANE-LX1</s:tag>
+    <s:tag>ANE-LX2</s:tag>
+    <s:tag>ANE-LX2J</s:tag>
+    <s:tag>ANE-LX3</s:tag>
+    <s:tag>Camera Lens</s:tag>
+    <s:tag>Huawei</s:tag>
+    <s:tag>HWV32</s:tag>
+    <s:tag>NE-TL00</s:tag>
+    <s:tag>P20 Lite</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3700834566249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR14142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3700829061225</id>
+    <published>2019-09-03T21:08:09-04:00</published>
+    <updated>2019-09-03T21:08:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/huawei-p20-lite-back-cover-rear-glass"/>
+    <title>Huawei P20 Lite Back Cover Rear Glass With Camera Lens</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/p20lite-huawei-back-cover-camera-lens.jpg?v=1622647794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Huawei P20 Lite Back Cover Rear Glass is designed to allow the replacement of your broken casing.</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei Rear Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">P20 Lite</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.219px; text-align: center; height: 18px;"> </td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.219px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.219px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.219px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.219px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ANE-AL00</s:tag>
+    <s:tag>ANE-L21</s:tag>
+    <s:tag>ANE-L22</s:tag>
+    <s:tag>ANE-L23</s:tag>
+    <s:tag>ANE-LX1</s:tag>
+    <s:tag>ANE-LX2</s:tag>
+    <s:tag>ANE-LX2J</s:tag>
+    <s:tag>ANE-LX3</s:tag>
+    <s:tag>Back Cover</s:tag>
+    <s:tag>Huawei</s:tag>
+    <s:tag>HWV32</s:tag>
+    <s:tag>NE-TL00</s:tag>
+    <s:tag>P20 Lite</s:tag>
+    <s:tag>Rear Cover</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3700829061225</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR14141</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3672239669353</id>
+    <published>2019-08-19T22:42:55-04:00</published>
+    <updated>2019-08-19T22:42:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/huawei-p20-lite-lcd-screen-and-digitizer"/>
+    <title>Huawei P20 Lite LCD Screen and Digitizer ANE-LX1 ANE-L21 ANE-LX3 ANE-AL00</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/huawei_p20_lite_lcd_display_with_touch_screen_1.jpg?v=1571620935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            34.99 - 44.99
+            <a href="https://unlockr.ca/products/huawei-p20-lite-lcd-screen-and-digitizer">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Huawei P20 Lite screen replacement ? If you dropped your Huawei P20 Lite and broke the front glass, it can be repaired ! You can replace your broken Huawei screen using our high quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>The OEM Screens for Huawei P20 LiteLCD Screens and Digitizers has <strong>components from original screens.</strong> For customers who demand the <strong>same standard as original repair parts</strong>, our parts for Huawei has you covered.</p>
+<ul>
+<li>OEM AMOLED LCD &amp; Digitizer Assembly</li>
+<li>OEM Touch Digitizer and IC</li>
+<li>OEM Glass Lens</li>
+<li>OEM Backlight</li>
+<li>OEM Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Huawei P20 Lite LCD Screens and Digitizers come with lifetime warranty, as the other Samsung LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei P20 Lite (5.8")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;">LX3</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 509px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Huawei</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 509px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ANE-AL00</s:tag>
+    <s:tag>ANE-L21</s:tag>
+    <s:tag>ANE-L22</s:tag>
+    <s:tag>ANE-L23</s:tag>
+    <s:tag>ANE-LX1</s:tag>
+    <s:tag>ANE-LX2</s:tag>
+    <s:tag>ANE-LX2J</s:tag>
+    <s:tag>ANE-LX3</s:tag>
+    <s:tag>Huawei</s:tag>
+    <s:tag>HWV32</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>LX3</s:tag>
+    <s:tag>NE-TL00</s:tag>
+    <s:tag>P20 Lite</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3672239669353</id>
+      <title>Without Frame</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>UNLKR14083</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3672239669353</id>
+      <title>With Frame</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>UNLKR14888</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

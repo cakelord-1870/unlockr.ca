@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-iphone-4s-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-08-19T21:20:09-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3672155914345</id>
+    <published>2019-08-19T21:20:09-04:00</published>
+    <updated>2019-08-19T21:20:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-4s-lcd-screen-and-digitizer"/>
+    <title>iPhone 4S LCD Screen and Digitizer</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iPhone-4S-LCD-Digitizer-Assembly-Replacement-part.jpg?v=1571620881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for an iPhone 4S screen replacement ? If you dropped your iPhone 4S and broke the front glass it can be repaired ! You can replace your broken iPhone screen easily. The repair takes just a few minutes with our replacement parts.</p>
+<p>The Certified screens for iPhone 4S LCD Screens and Digitizers are built with <strong>noticeably higher brightness and contrast </strong>than others. Certified screens are custom built to match or <strong>exceed our strict specification standards</strong> in terms of brightness and color reproduction.</p>
+<ul>
+<li>Color calibrated LCD &amp; Digitizer</li>
+<li>High Brightness Backlight</li>
+<li>Aligned Front Camera Ring</li>
+<li>Foam Connector Pads</li>
+<li>Ear Speaker Grill and Mounting Gasket</li>
+<li>Proximity Sensor Bracket</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement iPhone 4S LCD Screens and Digitizers come with lifetime warranty, as the other iPhone LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPhone 4S (3.5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1431 / A1387</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty<br></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1387</s:tag>
+    <s:tag>A1431</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone</s:tag>
+    <s:tag>iPhone 4S</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3672155914345</id>
+      <title>Black</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>UNLKR14079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3672155914345</id>
+      <title>White</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>UNLKR14080</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

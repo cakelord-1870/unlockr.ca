@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-ipad-air-2-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-09-24T22:27:33-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/4121013878889</id>
+    <published>2019-09-24T22:27:33-04:00</published>
+    <updated>2019-09-24T22:27:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-charging-port-connector"/>
+    <title>Charging Port Connector For iPad Air 2</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1603821635ipad-air-2-dock-port-black-charging-port.png?v=1603821980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged or corroded lightning connector and fix problems with charging and connecting to USB devices. This part is compatible with iPad Air 2 A1566 &amp; A1567</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1566</s:tag>
+    <s:tag>A1567</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Charging Port</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4121013878889</id>
+      <title>Black</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14178</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641241829481</id>
+    <published>2019-07-28T14:31:43-04:00</published>
+    <updated>2019-07-28T14:31:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-wi-fi-right-antenna"/>
+    <title>iPad Air 2 Wi-Fi Right Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-wi-fi-right-antenna-0-jpg.jpg?v=1571611074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Stay connected to Wi-Fi networks!  Replace your damaged or malfunctioning right antenna with this part. This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241829481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13139</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641241763945</id>
+    <published>2019-07-28T14:31:31-04:00</published>
+    <updated>2019-07-28T14:31:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-wi-fi-left-antenna"/>
+    <title>iPad Air 2 Wi-Fi Left Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-wi-fi-left-antenna-0-jpg.jpg?v=1571611063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Stay connected to Wi-Fi networks!  Replace your damaged or malfunctioning left antenna with this part. This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241763945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641241632873</id>
+    <published>2019-07-28T14:31:13-04:00</published>
+    <updated>2019-07-28T14:31:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-home-button-assembly"/>
+    <title>iPad Air 2 Home Button Assembly</title>
+    <s:type>Home Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-home-button-assembly-black-0-jpg.jpg?v=1571611046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Home Button<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the home button, home button cable, and metal home button bezel for an iPad Air 2 and fix an unresponsive or scratched home button.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>Home Button</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241632873</id>
+      <title>Black</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>UNLKR13135</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241632873</id>
+      <title>Silver</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>UNLKR13136</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241632873</id>
+      <title>Gold</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>UNLKR13137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641241567337</id>
+    <published>2019-07-28T14:31:00-04:00</published>
+    <updated>2019-07-28T14:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-sim-card-slot-reader"/>
+    <title>iPad Air 2 SIM Card Slot/Reader</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-sim-card-slot-reader-0-jpg.jpg?v=1571611033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged SIM card reader slot and save a logic board from e-waste. Fix SIM card problems caused by bent or corroded contacts.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241567337</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13134</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641241469033</id>
+    <published>2019-07-28T14:30:45-04:00</published>
+    <updated>2019-07-28T14:30:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-wi-fi-cellular-headphone-jack-assembly"/>
+    <title>iPad Air 2 Wi-Fi/Cellular Headphone Jack Assembly</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-wi-fi-cellular-headphone-jack-assembly-black-new-0-jpg.jpg?v=1571611020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken headphone jack.This assembly includes the headphone jack, flex cable, and ambient light sensor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241469033</id>
+      <title>Black</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13132</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241469033</id>
+      <title>White</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13133</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641241337961</id>
+    <published>2019-07-28T14:30:26-04:00</published>
+    <updated>2019-07-28T14:30:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-home-button-and-gasket-assembly"/>
+    <title>iPad Air 2 Home Button and Gasket Assembly</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-home-button-and-gasket-assembly-black-0-jpg.jpg?v=1571611004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or malfunctioning home button for an iPad Air 2.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241337961</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13129</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241337961</id>
+      <title>Silver</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13130</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241337961</id>
+      <title>Gold</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641241239657</id>
+    <published>2019-07-28T14:30:11-04:00</published>
+    <updated>2019-07-28T14:30:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-wi-fi-headphone-jack-assembly"/>
+    <title>iPad Air 2 Wi-Fi Headphone Jack Assembly</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-wi-fi-headphone-jack-assembly-black-new-0-jpg.jpg?v=1571610989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or otherwise malfunctioning headphone jack assembly for your Wi-Fi iPad Air 2 with this part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241239657</id>
+      <title>Black</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241239657</id>
+      <title>White</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641241174121</id>
+    <published>2019-07-28T14:29:57-04:00</published>
+    <updated>2019-07-28T14:29:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-home-button-bracket"/>
+    <title>iPad Air 2 Home Button Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-home-button-bracket-0-jpg.jpg?v=1571610977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix a misaligned home button with this replacement Home Button Bracket compatible with an iPad Air 2. This metal bracket holds the home button assembly in place on the inside of the front panel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241174121</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13126</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641241141353</id>
+    <published>2019-07-28T14:29:43-04:00</published>
+    <updated>2019-07-28T14:29:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-rear-camera"/>
+    <title>iPad Air 2 Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-rear-camera-new-0-jpg.jpg?v=1571610965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning rear-facing 8 MP camera.  This part is compatible with an iPad Air 2.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641241141353</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641240911977</id>
+    <published>2019-07-28T14:29:19-04:00</published>
+    <updated>2019-07-28T14:29:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-volume-button-cable"/>
+    <title>Volume Button Cable For iPad Air 2</title>
+    <s:type>Volume Flex</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-volume-button-cable-new-0-jpg.jpg?v=1614024494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Volume Flex<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged or torn cable assembly connecting the internal volume button switches and one microphone to the logic board in an iPad Air 2 and fix an unresponsive audio control.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641240911977</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13123</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641240879209</id>
+    <published>2019-07-28T14:29:07-04:00</published>
+    <updated>2019-07-28T14:29:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-cellular-adhesive-strips"/>
+    <title>iPad Air 2 Cellular Adhesive Strips</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-cellular-adhesive-strips-0-jpg.jpg?v=1571610934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>These custom cut adhesive strips are compatible with a cellular model iPad Air 2. Use them to fix a loose front panel or to close the case after other internal repairs.  Individual pieces fit precisely around important components and provide a sturdy closure.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641240879209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641240748137</id>
+    <published>2019-07-28T14:28:55-04:00</published>
+    <updated>2019-07-28T14:28:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-power-button-assembly"/>
+    <title>iPad Air 2 Power Button Assembly</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-power-button-assembly-new-0-jpg.jpg?v=1571610924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or torn cable connecting the internal power button switch, one microphone, and one ambient light sensor to the logic board in an iPad Air 2.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641240748137</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641240584297</id>
+    <published>2019-07-28T14:28:42-04:00</published>
+    <updated>2019-07-28T14:28:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-wi-fi-adhesive-strips"/>
+    <title>iPad Air 2 Wi-Fi Adhesive Strips</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-wi-fi-adhesive-strips-0-jpg.jpg?v=1571610913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>These custom cut adhesive strips are compatible with a Wi-Fi model iPad Air 2. Use them to fix a loose front panel or to close the case after another internal repair.  Individual pieces fit precisely around important components and provide a sturdy closure.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641240584297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641240551529</id>
+    <published>2019-07-28T14:28:30-04:00</published>
+    <updated>2019-07-28T14:28:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-sleep-wake-sensor"/>
+    <title>iPad Air 2 Sleep/Wake Sensor</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-sleep-wake-sensor-0-jpg.jpg?v=1571610903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a broken or damaged sleep/wake sensor and fix issues with Smart Cover function. This part is compatible with an iPad Air 2 tablet. This part requires microsoldering.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641240551529</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641238487145</id>
+    <published>2019-07-28T14:23:09-04:00</published>
+    <updated>2019-07-28T14:23:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-and-air-2-screw-set"/>
+    <title>iPad Air and Air 2 Screw Set</title>
+    <s:type>Screw Set</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-and-air-2-screw-set-0-jpg.jpg?v=1571610560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Screw Set<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This set includes all the internal screws compatible with the 1st generation iPad Air and the 2nd generation iPad Air.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641238487145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13075</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641237110889</id>
+    <published>2019-07-28T14:19:01-04:00</published>
+    <updated>2019-07-28T14:19:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-mini-4-pro-12-9-front-camera"/>
+    <title>iPad Air 2/mini 4/Pro 12.9 Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-mini-4-pro-12-9-quot-front-camera-0-jpg.jpg?v=1571610255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning front-facing 1.2 MP camera.  This part is compatible with an iPad Air 2, iPad mini 4, or iPad Pro 12.9.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1538</s:tag>
+    <s:tag>A1550</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>Apple iPad mini 4</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:tag>iPad mini 4</s:tag>
+    <s:tag>iPad Pro 12.9 (2015)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641237110889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>UNLKR13045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641236488297</id>
+    <published>2019-07-28T14:17:45-04:00</published>
+    <updated>2019-07-28T14:17:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-5-6-air-2-mini-4-home-button-gasket"/>
+    <title>iPad 5/6/Air 2/mini 4 Home Button Gasket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-5-6-air-2-mini-4-home-button-gasket-0-jpg.jpg?v=1597376206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a torn or missing adhesive gasket on an iPad home button. This gasket is compatible with an iPad 5, iPad 6, iPad Air 2, or iPad mini 4. The home button gasket includes adhesive to adhere to the home button face to the back of the front panel glass.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1822</s:tag>
+    <s:tag>A1823</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 9.7 (2017)</s:tag>
+    <s:tag>Apple iPad 9.7 (2018)</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>Apple iPad mini 4</s:tag>
+    <s:tag>iPad 5 (2017)</s:tag>
+    <s:tag>iPad 9.7 (2017)</s:tag>
+    <s:tag>iPad 9.7 (2018)</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:tag>iPad Mini 4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641236488297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641216073833</id>
+    <published>2019-07-28T13:24:19-04:00</published>
+    <updated>2019-07-28T13:24:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-usb-10w-ac-adapter-original"/>
+    <title>iPad USB 10W AC Adapter (Original)</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-usb-10w-ac-adapter-original-0-jpg.jpg?v=1571606447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged AC adapter for your iPad with this part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini 3</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Apple iPhone 5c</s:tag>
+    <s:tag>Apple iPhone 5s</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>Apple iPhone 6 Plus</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:tag>iPad mini 3</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>iPhone 5c</s:tag>
+    <s:tag>iPhone 5s</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>iPhone 6 Plus</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641216073833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR12580</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641208340585</id>
+    <published>2019-07-28T13:04:07-04:00</published>
+    <updated>2019-07-28T13:04:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/iphone-earbuds-microphone"/>
+    <title>iPhone Earbuds &amp; Microphone</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iphone-earbuds-amp-microphone-0-jpg.jpg?v=1598384637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Includes earbuds and attached remote and microphone.  Supports use with the inline remote:  iPhone 3GS to iPhone 6s and 6s Plus (later models require a 3.5 mm audio jack adapter)iPad (not all models support volume up/down functions)iPod Classic (2008 and later)iPod nano (4th Generation and later)iPod Shuffle 4th GenerationiPod touch (2nd Generation and later)  Supports use without the inline remote:  Any device with 3.5 mm audio out jack</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 9.7 (2017)</s:tag>
+    <s:tag>Apple iPad 9.7 (2018)</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini 3</s:tag>
+    <s:tag>Apple iPad mini 4</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>Apple iPad Pro 10.5 (2017)</s:tag>
+    <s:tag>Apple iPad Pro 11</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Apple iPhone 5c</s:tag>
+    <s:tag>Apple iPhone 5s</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>Apple iPhone 6 Plus</s:tag>
+    <s:tag>Apple iPhone 6s</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>Apple iPhone SE</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 9.7 (2017)</s:tag>
+    <s:tag>iPad 9.7 (2018)</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:tag>iPad mini 3</s:tag>
+    <s:tag>iPad mini 4</s:tag>
+    <s:tag>iPad Pro 10.5 (2017)</s:tag>
+    <s:tag>iPad Pro 11</s:tag>
+    <s:tag>iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPhone 5</s:tag>
+    <s:tag>iPhone 5c</s:tag>
+    <s:tag>iPhone 5s</s:tag>
+    <s:tag>iPhone 6</s:tag>
+    <s:tag>iPhone 6 Plus</s:tag>
+    <s:tag>iPhone 6s</s:tag>
+    <s:tag>iPhone 6s Plus</s:tag>
+    <s:tag>iPhone SE</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641208340585</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR12373</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641200017513</id>
+    <published>2019-07-28T12:45:15-04:00</published>
+    <updated>2019-07-28T12:45:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/sim-card-eject-tool"/>
+    <title>SIM Card Eject Tool</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/sim-card-eject-tool-0-jpg.jpg?v=1571603613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>The pinnacle of modern ejection technology.  One part handle, one part actuator, combined to form the most elegant, simple, and utterly effective ejection tool conceivable.Use this tool to safely remove the SIM card from your Apple GSM/LTE devices (iPhones and iPads).Treat your iPhone and iPad with the respect and care that it deserves, and not some pernicious paperclip.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 3 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 4 Wi-Fi</s:tag>
+    <s:tag>Apple iPad 9.7 (2017)</s:tag>
+    <s:tag>Apple iPad Air</s:tag>
+    <s:tag>Apple iPad Air 2</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini 3</s:tag>
+    <s:tag>Apple iPad mini 4</s:tag>
+    <s:tag>Apple iPad mini Wi-Fi</s:tag>
+    <s:tag>Apple iPad Pro 10.5 (2017)</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2015)</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>Apple iPhone 5</s:tag>
+    <s:tag>Apple iPhone 5c</s:tag>
+    <s:tag>Apple iPhone 5s</s:tag>
+    <s:tag>Apple iPhone 6</s:tag>
+    <s:tag>Apple iPhone 6 Plus</s:tag>
+    <s:tag>Apple iPhone 6s</s:tag>
+    <s:tag>Apple iPhone 6s Plus</s:tag>
+    <s:tag>Apple iPhone 7</s:tag>
+    <s:tag>Apple iPhone 7 Plus</s:tag>
+    <s:tag>Apple iPhone SE</s:tag>
+    <s:tag>iPad 2 Wi-Fi</s:tag>
+    <s:tag>iPad 3 Wi-Fi</s:tag>
+    <s:tag>iPad 4 Wi-Fi</s:tag>
+    <s:tag>iPad 9.7 (2017)</s:tag>
+    <s:tag>iPad Air 1</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:tag>iPad mini 1</s:tag>
+    <s:tag>iPad mini 2</s:tag>
+    <s:tag>iPad mini 3</s:tag>
+    <s:tag>Tools</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641200017513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>UNLKR12168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/1341368008809</id>
+    <published>2018-09-18T15:32:23-04:00</published>
+    <updated>2018-09-18T15:32:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-oem-complete-screen-assembly"/>
+    <title>LCD Screen and Digitizer Assembly For iPad Air 2</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-air-2-black-display-assembly.png?v=1620490401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            124.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: justify;" dir="ltr">Replacement screen assembly for iPad Air 2 LCD and Digitizer. For customers with a high quality standard, the iPad parts has you covered. The Full assembly is offered to you for a <strong>faster &amp; easier iPad repair.</strong> You won’t need to <strong>transfer the old broken LCD</strong> display because it is already preinstalled on the part.</p>
+<p style="text-align: justify;" dir="ltr"><strong style="text-align: start;">Notice : Only the original home button assembly will support Touch ID on your device.</strong></p>
+<ul>
+<li>LCD &amp; Digitizer</li>
+<li>Touch Digitizer and IC</li>
+<li>Backlight</li>
+<li>Foam Connector Pads</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3 dir="ltr">Lifetime Warranty</h3>
+<p style="text-align: justify;" dir="ltr">This replacement iPad Air 2 LCD Screen and Digitizer Assembly comes with lifetime warranty, as our other iPad LCD Repair Parts.</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad Air 2</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1566/A1567</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.91px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1566</s:tag>
+    <s:tag>A1567</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPad</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:tag>iPad Air 2 A1566</s:tag>
+    <s:tag>iPad Air 2 A1567</s:tag>
+    <s:tag>iPad Air 2 Digitizer</s:tag>
+    <s:tag>iPad Air 2 LCD</s:tag>
+    <s:tag>iPad Air 2 LCD Screen and Digitizer Assembly</s:tag>
+    <s:tag>iPad Air 2 Screen</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/1341368008809</id>
+      <title>Black</title>
+      <s:price currency="CAD">124.99</s:price>
+      <s:sku>UNLKR11564</s:sku>
+      <s:grams>97</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/1341368008809</id>
+      <title>White</title>
+      <s:price currency="CAD">124.99</s:price>
+      <s:sku>UNLKR11565</s:sku>
+      <s:grams>97</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/547748118569</id>
+    <published>2018-04-05T12:44:26-04:00</published>
+    <updated>2018-04-05T12:44:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-ipad-6-battery-oem"/>
+    <title>Battery For iPad Air 2</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iPad-Air-2-6-Battery-Replacement-New-1.png?v=1620479914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Verdana; color: #222222; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your iPad Air 2 battery no longer hold a charge or you experience fast battery draining ? Is your battery</span> <span style="font-size: 11pt; font-family: Verdana; color: #222222; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">old ?</span><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> There are high chances that your battery is defective. The</span><span style="font-size: 11pt; font-family: Verdana; color: #222222; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">se signs are saying that it is time to replace your battery because it’s either dead or dying.</span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Buy a Certified, brand-new battery for your iPad Air 2 in Canada</span><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">. Our batteries are produced with the </span><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">same quality standard as original iPad batteries. </span><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">This iPad Air 2 replacement battery</span><span style="font-size: 11pt; font-family: Verdana; color: #222222; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> is rated at </span><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">7340</span><span style="font-size: 11pt; font-family: Verdana; color: #222222; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> mAh (</span><span style="font-size: 10.5pt; font-family: Arial; color: #222222; background-color: #fafafa; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">27.62</span><span style="font-size: 11pt; font-family: Verdana; color: #222222; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> Wh). It will deliver up to 10 hours of battery life exactly when your iPad Air 2 was new.</span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<ul style="margin-top: 0pt; margin-bottom: 0pt;">
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Zero cycle count</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">UN38.3 , MSDS , ROHS , CE Certification</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Delivers up to 10 hours of battery life</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Tested under extreme weather</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">High output current capacity</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">1 Year Warranty</span></li>
+</ul>
+<h3 dir="ltr" style="line-height: 1.656; margin-top: 14pt; margin-bottom: 4pt;"><span style="font-size: 13pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Compatibility</span></h3>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">This battery is compatible with iPad Air 2.</span></p>
+<h3 dir="ltr" style="line-height: 1.656; margin-top: 14pt; margin-bottom: 4pt;"><span style="font-size: 13pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Warranty</span></h3>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The replacement iPad Air 2 battery comes with 1 year warranty. As with all our other iPad Battery Replacement Parts. For any assistance with installation or questions with your product please don’t hesitate to contact our support team.</span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 13pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Shipping</span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">All items will be shipped from our warehouses in Canada. All orders placed during business hours will be shipped the same day !</span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad Air 2</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-size: 12pt;">A1566 / A1567</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.91px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1566</s:tag>
+    <s:tag>A1567</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>iPad</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/547748118569</id>
+      <title>iPad Air 2 Battery</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>UNLKR11446</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/295950319657</id>
+    <published>2018-03-21T19:51:27-04:00</published>
+    <updated>2018-03-21T19:51:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-air-2-oem-screen-digitizer"/>
+    <title>iPad Air 2 Digitizer</title>
+    <s:type>Digitizer</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iPad_air_2_Digitizer_front_black.png?v=1620479926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Digitizer<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Digitizer on iPad Air 2 is cracked, scratched or has become non-responsive? This brand new iPad Air 2 replacement digitizer is what you need. Purchase this high quality iPad Air 2 replacement digitizer with the recommended repair tools and fix your iPad quickly. This digitizer is compatible only with the iPad Air 2. </p>
+<h3><strong>OEM Part Description</strong></h3>
+<p dir="ltr" style="text-align: justify;"><span style="text-align: start;">For customers who demand the </span><strong style="text-align: start;">same standard as original repair parts</strong><span style="text-align: start;">, this OEM iPad replacement part has you covered.</span></p>
+<ul>
+<li><strong>Strong Pre-installed Adhesive</strong></li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3 dir="ltr">Important Notice </h3>
+<p style="text-align: justify;">Please take note that you will have to go through a <strong>glass seperation process</strong> to transfer this on your iPad. If you fail to properly repair your iPad we will not be able to refund you.</p>
+<h3 dir="ltr">Lifetime Warranty</h3>
+<p dir="ltr" style="text-align: justify;">This replacement iPad Air 2 Digitizer comes with lifetime warranty, as our other iPad Digitizer Repair Parts. Your iPad replacement screen will be shipped from Canada the same business day it is purchased. Don't hesitate to contact our support team if you have any questions or concerns.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad Air 2</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1566 / A1567</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.91px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1566</s:tag>
+    <s:tag>A1567</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>iPad</s:tag>
+    <s:tag>iPad Air 2</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/295950319657</id>
+      <title>Black</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>UNLKR11372</s:sku>
+      <s:grams>97</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/295950319657</id>
+      <title>White</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>UNLKR11373</s:sku>
+      <s:grams>97</s:grams>
+    </s:variant>
+  </entry>
+</feed>

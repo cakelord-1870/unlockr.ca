@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/samsung-galaxy-note-3-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T15:46:59-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641307529321</id>
+    <published>2019-07-28T15:46:59-04:00</published>
+    <updated>2019-07-28T15:46:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-3-home-button-switch-and-menu-button-sensors"/>
+    <title>Galaxy Note 3 Home Button Switch and Menu Button Sensors</title>
+    <s:type>Home Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-3-home-button-switch-and-menu-button-sensors-0-jpg.jpg?v=1571615522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Home Button<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the flex cable that includes the home button switch and the menu button touch sensors for a Samsung Galaxy Note 3.This flex cable fits between the front frame and the front glass. Replacement requires separating the glass from the front frame.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 3</s:tag>
+    <s:tag>Home Button</s:tag>
+    <s:tag>N900</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 3</s:tag>
+    <s:tag>SM-N900</s:tag>
+    <s:tag>SM-N9000Q</s:tag>
+    <s:tag>SM-N9002</s:tag>
+    <s:tag>SM-N9005</s:tag>
+    <s:tag>SM-N9006</s:tag>
+    <s:tag>SM-N9007</s:tag>
+    <s:tag>SM-N9008</s:tag>
+    <s:tag>SM-N9008S</s:tag>
+    <s:tag>SM-N9008V</s:tag>
+    <s:tag>SM-N9009</s:tag>
+    <s:tag>SM-N9009V</s:tag>
+    <s:tag>SM-N900A</s:tag>
+    <s:tag>SM-N900K</s:tag>
+    <s:tag>SM-N900L</s:tag>
+    <s:tag>SM-N900P</s:tag>
+    <s:tag>SM-N900R4</s:tag>
+    <s:tag>SM-N900S</s:tag>
+    <s:tag>SM-N900T</s:tag>
+    <s:tag>SM-N900U</s:tag>
+    <s:tag>SM-N900V</s:tag>
+    <s:tag>SM-N900W8</s:tag>
+    <s:tag>SM-N900X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641307529321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13552</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641307398249</id>
+    <published>2019-07-28T15:46:30-04:00</published>
+    <updated>2019-07-28T15:46:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-3-charge-port"/>
+    <title>Galaxy Note 3 Charge Port</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-3-charge-port-0-jpg.jpg?v=1571615475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a dirty or corroded USB port for a Samsung Galaxy Note 3 charging daughter board and save a daughter board from e-waste. This component is surface soldered to the bottom edge of the charging daughter board.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 3</s:tag>
+    <s:tag>N900</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 3</s:tag>
+    <s:tag>Samsung Note 3</s:tag>
+    <s:tag>SM-N900</s:tag>
+    <s:tag>SM-N9000Q</s:tag>
+    <s:tag>SM-N9002</s:tag>
+    <s:tag>SM-N9005</s:tag>
+    <s:tag>SM-N9006</s:tag>
+    <s:tag>SM-N9007</s:tag>
+    <s:tag>SM-N9008</s:tag>
+    <s:tag>SM-N9008S</s:tag>
+    <s:tag>SM-N9008V</s:tag>
+    <s:tag>SM-N9009</s:tag>
+    <s:tag>SM-N9009V</s:tag>
+    <s:tag>SM-N900A</s:tag>
+    <s:tag>SM-N900K</s:tag>
+    <s:tag>SM-N900L</s:tag>
+    <s:tag>SM-N900P</s:tag>
+    <s:tag>SM-N900R4</s:tag>
+    <s:tag>SM-N900S</s:tag>
+    <s:tag>SM-N900T</s:tag>
+    <s:tag>SM-N900U</s:tag>
+    <s:tag>SM-N900V</s:tag>
+    <s:tag>SM-N900W8</s:tag>
+    <s:tag>SM-N900X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641307398249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13550</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641307332713</id>
+    <published>2019-07-28T15:46:16-04:00</published>
+    <updated>2019-07-28T15:46:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-3-antenna-cable"/>
+    <title>Galaxy Note 3 Antenna Cable</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-3-antenna-cable-0-jpg.jpg?v=1571615460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the antenna cable that connects the motherboard and USB daughter board.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 3</s:tag>
+    <s:tag>N900</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 3</s:tag>
+    <s:tag>Samsung Note 3</s:tag>
+    <s:tag>SM-N900</s:tag>
+    <s:tag>SM-N9000Q</s:tag>
+    <s:tag>SM-N9002</s:tag>
+    <s:tag>SM-N9005</s:tag>
+    <s:tag>SM-N9006</s:tag>
+    <s:tag>SM-N9007</s:tag>
+    <s:tag>SM-N9008</s:tag>
+    <s:tag>SM-N9008S</s:tag>
+    <s:tag>SM-N9008V</s:tag>
+    <s:tag>SM-N9009</s:tag>
+    <s:tag>SM-N9009V</s:tag>
+    <s:tag>SM-N900A</s:tag>
+    <s:tag>SM-N900K</s:tag>
+    <s:tag>SM-N900L</s:tag>
+    <s:tag>SM-N900P</s:tag>
+    <s:tag>SM-N900R4</s:tag>
+    <s:tag>SM-N900S</s:tag>
+    <s:tag>SM-N900T</s:tag>
+    <s:tag>SM-N900U</s:tag>
+    <s:tag>SM-N900V</s:tag>
+    <s:tag>SM-N900W8</s:tag>
+    <s:tag>SM-N900X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641307332713</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13549</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641307234409</id>
+    <published>2019-07-28T15:46:03-04:00</published>
+    <updated>2019-07-28T15:46:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-3-display-adhesive"/>
+    <title>Galaxy Note 3 Display Adhesive</title>
+    <s:type>Display Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-3-display-adhesive-0-jpg.jpg?v=1571615430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Display Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This custom cut adhesive film set secures the front glass digitizer screen and display to the front frame and bezel assembly of the Samsung Galaxy Note 3.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Display Adhesive</s:tag>
+    <s:tag>Galaxy Note 3</s:tag>
+    <s:tag>N900</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 3</s:tag>
+    <s:tag>SM-N900</s:tag>
+    <s:tag>SM-N9000Q</s:tag>
+    <s:tag>SM-N9002</s:tag>
+    <s:tag>SM-N9005</s:tag>
+    <s:tag>SM-N9006</s:tag>
+    <s:tag>SM-N9007</s:tag>
+    <s:tag>SM-N9008</s:tag>
+    <s:tag>SM-N9008S</s:tag>
+    <s:tag>SM-N9008V</s:tag>
+    <s:tag>SM-N9009</s:tag>
+    <s:tag>SM-N9009V</s:tag>
+    <s:tag>SM-N900A</s:tag>
+    <s:tag>SM-N900K</s:tag>
+    <s:tag>SM-N900L</s:tag>
+    <s:tag>SM-N900P</s:tag>
+    <s:tag>SM-N900R4</s:tag>
+    <s:tag>SM-N900S</s:tag>
+    <s:tag>SM-N900T</s:tag>
+    <s:tag>SM-N900U</s:tag>
+    <s:tag>SM-N900V</s:tag>
+    <s:tag>SM-N900W8</s:tag>
+    <s:tag>SM-N900X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641307234409</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13548</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641307168873</id>
+    <published>2019-07-28T15:45:49-04:00</published>
+    <updated>2019-07-28T15:45:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-3-replacement-battery"/>
+    <title>Galaxy Note 3 Replacement Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-3-replacement-battery-0-jpg.jpg?v=1571615413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a dead or damaged battery for the Samsung Galaxy Note 3. Replacing the battery in your Samsung Galaxy Note 3 smartphone does not require any tools to accomplish the swap. This battery is all you need!<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alaxy Note III SM-N900W8</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy Note 3</s:tag>
+    <s:tag>N900</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 3</s:tag>
+    <s:tag>Samsung Note 3</s:tag>
+    <s:tag>SM-N900</s:tag>
+    <s:tag>SM-N9000Q</s:tag>
+    <s:tag>SM-N9002</s:tag>
+    <s:tag>SM-N9005</s:tag>
+    <s:tag>SM-N9006</s:tag>
+    <s:tag>SM-N9007</s:tag>
+    <s:tag>SM-N9008</s:tag>
+    <s:tag>SM-N9008S</s:tag>
+    <s:tag>SM-N9008V</s:tag>
+    <s:tag>SM-N9009</s:tag>
+    <s:tag>SM-N9009V</s:tag>
+    <s:tag>SM-N900A</s:tag>
+    <s:tag>SM-N900K</s:tag>
+    <s:tag>SM-N900L</s:tag>
+    <s:tag>SM-N900P</s:tag>
+    <s:tag>SM-N900R4</s:tag>
+    <s:tag>SM-N900S</s:tag>
+    <s:tag>SM-N900T</s:tag>
+    <s:tag>SM-N900U</s:tag>
+    <s:tag>SM-N900V</s:tag>
+    <s:tag>SM-N900W8</s:tag>
+    <s:tag>SM-N900X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641307168873</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13547</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641307037801</id>
+    <published>2019-07-28T15:45:35-04:00</published>
+    <updated>2019-07-28T15:45:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-3-s-pen"/>
+    <title>Galaxy Note 3 S-Pen</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-3-s-pen-0-jpg.jpg?v=1571615397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace your missing or broken S-Pen stylus  This pen stylus fits inside the edge of the Galaxy Note 3.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 3</s:tag>
+    <s:tag>N900</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 3</s:tag>
+    <s:tag>Samsung Note 3</s:tag>
+    <s:tag>SM-N900</s:tag>
+    <s:tag>SM-N9000Q</s:tag>
+    <s:tag>SM-N9002</s:tag>
+    <s:tag>SM-N9005</s:tag>
+    <s:tag>SM-N9006</s:tag>
+    <s:tag>SM-N9007</s:tag>
+    <s:tag>SM-N9008</s:tag>
+    <s:tag>SM-N9008S</s:tag>
+    <s:tag>SM-N9008V</s:tag>
+    <s:tag>SM-N9009</s:tag>
+    <s:tag>SM-N9009V</s:tag>
+    <s:tag>SM-N900A</s:tag>
+    <s:tag>SM-N900K</s:tag>
+    <s:tag>SM-N900L</s:tag>
+    <s:tag>SM-N900P</s:tag>
+    <s:tag>SM-N900R4</s:tag>
+    <s:tag>SM-N900S</s:tag>
+    <s:tag>SM-N900T</s:tag>
+    <s:tag>SM-N900U</s:tag>
+    <s:tag>SM-N900V</s:tag>
+    <s:tag>SM-N900W8</s:tag>
+    <s:tag>SM-N900X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641307037801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13546</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641306972265</id>
+    <published>2019-07-28T15:45:21-04:00</published>
+    <updated>2019-07-28T15:45:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-3-charging-assembly"/>
+    <title>Galaxy Note 3 Charging Assembly</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-3-at-amp-t-charging-assembly-0-jpg.jpg?v=1564343126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a dirty or corroded charging port for an AT&amp;T model Galaxy Note 3 and fix problems with charging and data connections.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 3</s:tag>
+    <s:tag>N900</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 3</s:tag>
+    <s:tag>Samsung Note 3</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641306972265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR13545</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641306185833</id>
+    <published>2019-07-28T15:45:05-04:00</published>
+    <updated>2019-07-28T15:45:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-3-amoled-and-digitizer"/>
+    <title>Galaxy Note 3 AMOLED and Digitizer</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-3-amoled-and-digitizer-black-0-jpg.jpg?v=1571615379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged 5.7 inch Super AMOLED (1920x1080) display for Samsung Galaxy Note 3 smartphone with this part. This assembly includes the front glass digitizer screen and AMOLED display.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 3</s:tag>
+    <s:tag>N900</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 3</s:tag>
+    <s:tag>Samsung Note 3</s:tag>
+    <s:tag>SM-N900</s:tag>
+    <s:tag>SM-N9000Q</s:tag>
+    <s:tag>SM-N9002</s:tag>
+    <s:tag>SM-N9005</s:tag>
+    <s:tag>SM-N9006</s:tag>
+    <s:tag>SM-N9007</s:tag>
+    <s:tag>SM-N9008</s:tag>
+    <s:tag>SM-N9008S</s:tag>
+    <s:tag>SM-N9008V</s:tag>
+    <s:tag>SM-N9009</s:tag>
+    <s:tag>SM-N9009V</s:tag>
+    <s:tag>SM-N900A</s:tag>
+    <s:tag>SM-N900K</s:tag>
+    <s:tag>SM-N900L</s:tag>
+    <s:tag>SM-N900P</s:tag>
+    <s:tag>SM-N900R4</s:tag>
+    <s:tag>SM-N900S</s:tag>
+    <s:tag>SM-N900T</s:tag>
+    <s:tag>SM-N900U</s:tag>
+    <s:tag>SM-N900V</s:tag>
+    <s:tag>SM-N900W8</s:tag>
+    <s:tag>SM-N900X</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641306185833</id>
+      <title>Black</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>UNLKR13543</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641306185833</id>
+      <title>White</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>UNLKR13544</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

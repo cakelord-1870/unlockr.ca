@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/google-pixel-5-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-07-07T10:31:20-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/7143139475630</id>
+    <published>2021-07-07T10:31:20-04:00</published>
+    <updated>2021-07-07T10:31:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lcd-screen-and-digitizer-assembly-without-frame-compatible-for-google-pixel-5"/>
+    <title>LCD Screen and Digitizer Assembly Without Frame Compatible For Google Pixel 5</title>
+    <s:type>LCD &amp; Digitizer</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-5-googlepixel5-google-pixel5-lcd-digitizer-assembly-replacement-screen-G5NZ6-GD1YQ-GTT9Q.jpg?v=1625668644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD &amp; Digitizer<br>
+        <strong>Price: </strong>
+            299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Google Pixel 5 screen replacement? If you dropped your Google Pixel 5 and broke the front glass it can be repaired!</p>
+<p>You can replace your broken Google Pixel 5 screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, Our Google parts have you covered.</p>
+<ul>
+<li>LCD &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Google Pixel 5 LCD Screens and Digitizers come with a lifetime warranty, as the other Google LCD Replacement Parts.</p>
+<table border="1" style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Google Pixel 5 (G5NZ6, GD1YQ, GTT9Q)</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">LCD &amp; Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G5NZ6</s:tag>
+    <s:tag>GD1YQ</s:tag>
+    <s:tag>Google Pixel 5</s:tag>
+    <s:tag>GTT9Q</s:tag>
+    <s:tag>LCD &amp; Digitizer</s:tag>
+    <s:tag>Pixel 5</s:tag>
+    <s:tag>Screen Replacement</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/7143139475630</id>
+      <title>Black</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku>UNLKR14928</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+</feed>

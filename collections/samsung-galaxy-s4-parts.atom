@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/samsung-galaxy-s4-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T16:12:33-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641316671593</id>
+    <published>2019-07-28T16:12:33-04:00</published>
+    <updated>2019-07-28T16:12:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-active-rear-camera"/>
+    <title>Galaxy S4 Active Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-active-rear-camera-0-jpg.jpg?v=1571617208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix your broken camera!  8 MP rear facing camera with auto focus and zero shutter lagThis is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>Galaxy S4 I9505</s:tag>
+    <s:tag>Galaxy S4 SGH-I337M</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:tag>SGH-I337ZKABMC</s:tag>
+    <s:tag>SGH-I337ZKATLS</s:tag>
+    <s:tag>SGH-I747M</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641316671593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>UNLKR13694</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641316606057</id>
+    <published>2019-07-28T16:12:19-04:00</published>
+    <updated>2019-07-28T16:12:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-sim-and-sd-card-slot-reader"/>
+    <title>Galaxy S4 SIM and SD Card Slot/Reader</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-sim-and-sd-card-slot-reader-at-amp-t-0-jpg.jpg?v=1571617194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Corroded, bent, or missing contact wires?  Replace the flexible circuit board assembly containing the microSD and SIM card slots.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641316606057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13693</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641316442217</id>
+    <published>2019-07-28T16:12:02-04:00</published>
+    <updated>2019-07-28T16:12:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-active-vibrator-motor"/>
+    <title>Galaxy S4 Active Vibrator Motor</title>
+    <s:type>Vibrator</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Vibrator<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged or broken vibration motor in your Samsung Galaxy S4 Active! This part is for the Active AT&amp;T variant only. This is a used, OEM part.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641316442217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13692</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641316376681</id>
+    <published>2019-07-28T16:11:46-04:00</published>
+    <updated>2019-07-28T16:11:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-active-screen"/>
+    <title>Galaxy S4 Active LCD Screen &amp; Digitizer</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-active-screen-0-jpg.jpg?v=1571617169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or cracked fromt glass panel or a malfunctioning display for an AT&amp;T only Samsung Galaxy S IV Active smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>Galaxy S4 I9505</s:tag>
+    <s:tag>Galaxy S4 SGH-I337M</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>LCD Screen and Digitizer</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:tag>SGH-I337ZKABMC</s:tag>
+    <s:tag>SGH-I337ZKATLS</s:tag>
+    <s:tag>SGH-I747M</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641316376681</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>UNLKR13691</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641316311145</id>
+    <published>2019-07-28T16:11:30-04:00</published>
+    <updated>2019-07-28T16:11:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-display-adhesive"/>
+    <title>Galaxy S4 Display Adhesive</title>
+    <s:type>Display Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-display-adhesive-0-jpg.jpg?v=1570417945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Display Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This custom cut adhesive film secures the front glass digitizer screen and display to the front frame and bezel assembly of the Samsung Galaxy S4.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Display Adhesive</s:tag>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641316311145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13690</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641316278377</id>
+    <published>2019-07-28T16:11:16-04:00</published>
+    <updated>2019-07-28T16:11:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-speaker-assembly"/>
+    <title>Galaxy S4 Speaker Assembly</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-speaker-assembly-at-amp-t-0-jpg.jpg?v=1571617143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning speaker  This part is for AT&amp;T (SGH-I337) models only.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641316278377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13689</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641316114537</id>
+    <published>2019-07-28T16:10:59-04:00</published>
+    <updated>2019-07-28T16:10:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-active-charging-assembly"/>
+    <title>Galaxy S4 Active Charging Assembly</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-active-charging-assembly-0-jpg.jpg?v=1574192400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring back the juice! Replace a broken or damaged charging assembly with this part. This part is for the Active AT&amp;T variant only. This is a used, OEM part.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641316114537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13688</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641315983465</id>
+    <published>2019-07-28T16:10:44-04:00</published>
+    <updated>2019-07-28T16:10:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-speaker-assembly-international"/>
+    <title>Galaxy S4 Speaker Assembly (International)</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-speaker-assembly-international-0-jpg.jpg?v=1571617116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning speaker  This part is for International (I9500) models only.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641315983465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13687</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641315885161</id>
+    <published>2019-07-28T16:10:28-04:00</published>
+    <updated>2019-07-28T16:10:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-rear-panel"/>
+    <title>Galaxy S4 Rear Panel</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-rear-panel-at-amp-t-0-jpg.jpg?v=1571617102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This is an OEM, original part.This part is specific to the AT&amp;T Galaxy S IV and will not work in any other sub-model of the Galaxy S IV.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641315885161</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13686</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641315655785</id>
+    <published>2019-07-28T16:09:58-04:00</published>
+    <updated>2019-07-28T16:09:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-active-midframe"/>
+    <title>Galaxy S4 Active Midframe</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-active-midframe-0-jpg.jpg?v=1571617090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fix that broken mid-frame! Dropped your phone? Cracked your mid-frame? This is the part you need. This part is only the plastic frame. It does not come with any other components. This is a used OEM part.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641315655785</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13684</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641315557481</id>
+    <published>2019-07-28T16:09:44-04:00</published>
+    <updated>2019-07-28T16:09:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-mini-speaker-assembly"/>
+    <title>Galaxy S4 Mini Speaker Assembly</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-mini-speaker-assembly-at-amp-t-0-jpg.jpg?v=1571617077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning speaker  Bring back your sound with a replacement speaker assembly for your Galaxy S4 Mini smartphone.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641315557481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13683</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641315459177</id>
+    <published>2019-07-28T16:09:28-04:00</published>
+    <updated>2019-07-28T16:09:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-active-earpiece-speaker"/>
+    <title>Galaxy S4 Active Earpiece Speaker</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-active-earpiece-speaker-0-jpg.jpg?v=1571617064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Can you hear me now?  Replace the earpiece speaker in your Galaxy S4 Active with this part. This part is for the Active AT&amp;T variant only. This is a used, OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641315459177</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13682</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641315393641</id>
+    <published>2019-07-28T16:09:11-04:00</published>
+    <updated>2019-07-28T16:09:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-mini-amoled-and-digitizer"/>
+    <title>Galaxy S4 Mini AMOLED and Digitizer</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-mini-amoled-and-digitizer-black-0-jpg.jpg?v=1571617052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or cracked front glass digitizer screen or a malfunctioning display for a Galaxy S4 Mini.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641315393641</id>
+      <title>Black</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>UNLKR13680</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641315393641</id>
+      <title>White</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>UNLKR13681</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641315295337</id>
+    <published>2019-07-28T16:08:54-04:00</published>
+    <updated>2019-07-28T16:08:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-rear-camera"/>
+    <title>Galaxy S4 Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-rear-camera-new-0-jpg.jpg?v=1570417782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix your broken camera!  13 MP rear facing camera with auto focus and zero shutter lag.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>Galaxy S4 I9505</s:tag>
+    <s:tag>Galaxy S4 SGH-I337M</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:tag>SGH-I337ZKABMC</s:tag>
+    <s:tag>SGH-I337ZKATLS</s:tag>
+    <s:tag>SGH-I747M</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641315295337</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13679</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641315229801</id>
+    <published>2019-07-28T16:08:38-04:00</published>
+    <updated>2019-07-28T16:08:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-active-headphone-jack"/>
+    <title>Galaxy S4 Active Headphone Jack</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-active-headphone-jack-0-jpg.jpg?v=1571617023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken headphone jack!  This part is for AT&amp;T Active variant only. This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641315229801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13678</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641315131497</id>
+    <published>2019-07-28T16:08:23-04:00</published>
+    <updated>2019-07-28T16:08:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-internal-button-switch"/>
+    <title>Galaxy S4 Internal Button Switch</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-internal-button-switch-0-jpg.jpg?v=1571616994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace one of three internal button switches (for power and volume) soldered to the edges of the motherboard.This part is the internal switch only. It does not include the external power or volume switch covers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641315131497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13677</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641315033193</id>
+    <published>2019-07-28T16:08:09-04:00</published>
+    <updated>2019-07-28T16:08:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-mini-earpiece-speaker"/>
+    <title>Galaxy S4 Mini Earpiece Speaker</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-mini-earpiece-speaker-0-jpg.jpg?v=1571616980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Can you hear me now?  Replace the earpiece speaker in your Galaxy S4 Mini with this part. This is a used, OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641315033193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13676</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641314771049</id>
+    <published>2019-07-28T16:07:36-04:00</published>
+    <updated>2019-07-28T16:07:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s4-mini-replacement-battery"/>
+    <title>Galaxy S4 Mini Replacement Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s4-mini-replacement-battery-0-jpg.jpg?v=1571616965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a dead or malfunctioning battery in a Samsung Galaxy S4 Mini.  This is a new replacement battery, not an OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>Galaxy S4 I9505</s:tag>
+    <s:tag>Galaxy S4 SGH-I337M</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:tag>SGH-I337ZKABMC</s:tag>
+    <s:tag>SGH-I337ZKATLS</s:tag>
+    <s:tag>SGH-I747M</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641314771049</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13673</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3587670081641</id>
+    <published>2019-06-18T15:21:32-04:00</published>
+    <updated>2019-06-18T15:21:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s4-charging-port-connector"/>
+    <title>Samsung Galaxy S4 Charging Port</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1573774508Charging_Port_for_samsung_galaxy_s4_i337.jpg?v=1573774524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><span class="a-list-item">This Samsung Galaxy S4 Charging Port Connector Assembly is designed to allow the replacement of your broken charging port.</span></p>
+<h3>Notice</h3>
+<p><span class="a-list-item">If your device is no longer charging, replacing the charging connector assembly should fix the problem.</span></p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 418px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 472px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Charging Port Assembly</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 418px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 472px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Galaxy S4 (5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 418px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 472px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">i9500</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 418px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 472px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 418px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 472px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charging Port</s:tag>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>S4</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3587670081641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR11960</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/289733738537</id>
+    <published>2017-11-18T03:54:06-05:00</published>
+    <updated>2017-11-18T03:54:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s4-battery-original"/>
+    <title>Samsung Galaxy S4 Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Samsung-Galaxy-S4-Replacement-Battery-1.jpg?v=1620489669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            14.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have a Samsung S4 that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your Samsung Galaxy S4 </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> ? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your cell phone only works when the battery is plugged in ?</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new Samsung S4 replacement battery.</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The old battery in your cell phone can outgrow inside and damage the internals.</span></p>
+<p>The OEM Batteries for Samsung Galaxy S4 are <strong>brand-new batteries</strong> coming directly from our manufacturer. They are custom built for customers who demand the <strong>same quality as original Samsung batteries. </strong></p>
+<ul>
+<li>Verified 95% Capacity</li>
+<li>Zero cycle count</li>
+<li>Tested under extreme weather</li>
+<li>No wrapping for a better fit</li>
+<li>High output current capacity</li>
+<li>1 Year Warranty</li>
+</ul>
+<h3>Compatibility</h3>
+<p>This battery is only compatible with a Samsung Galaxy S4.</p>
+<h3>Warranty</h3>
+<p>The Replacement Samsung Galaxy S4 Battery comes with 1 year warranty, as the other Samsung Battery Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S4 (5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-size: 12pt;">i9500</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.91px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>I9506 Galaxy S4</s:tag>
+    <s:tag>S4</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:tag>Samsung Galaxy S4 Battery</s:tag>
+    <s:tag>Samsung Galaxy S4 i9500</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/289733738537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.49</s:price>
+      <s:sku>UNLKR11204</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/289732296745</id>
+    <published>2017-11-18T03:53:57-05:00</published>
+    <updated>2017-11-18T03:53:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-s4-lcd-screen-and-digitizer"/>
+    <title>Samsung Galaxy S4 LCD Screen and Digitizer</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/samsung-galaxy-s4-display-assembly-with-frame-black-1_8a7c5fd6-d2de-48e8-94ce-0494e40d1252.jpg?v=1620489687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung S4 screen replacement ? If you dropped your Samsung Galaxy S4 and broke the front glass it can be repaired ! You can replace your broken Samsung screen using our high quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>The OEM Screens for Samsung Galaxy S4 LCD Screens and Digitizers includes <strong>components from original screens.</strong> For customers who demand the <strong>same standard as original repair parts</strong>, the OEM Samsung parts has you covered.</p>
+<ul>
+<li>OEM AMOLED LCD &amp; Digitizer Assembly</li>
+<li>OEM Touch Digitizer and IC</li>
+<li>OEM Glass Lens</li>
+<li>OEM Backlight</li>
+<li>OEM Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy S4 LCD Screens and Digitizers come with lifetime warranty, as the other Samsung LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S4 (5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">i9500</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S4</s:tag>
+    <s:tag>i9500</s:tag>
+    <s:tag>I9506 Galaxy S4</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>S4</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy</s:tag>
+    <s:tag>Samsung Galaxy S4</s:tag>
+    <s:tag>Samsung Galaxy S4 i9500</s:tag>
+    <s:tag>Samsung Galaxy S4 LCD</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/289732296745</id>
+      <title>Dark Blue</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>UNLKR11185</s:sku>
+      <s:grams>58</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/289732296745</id>
+      <title>White</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>UNLKR11186</s:sku>
+      <s:grams>58</s:grams>
+    </s:variant>
+  </entry>
+</feed>

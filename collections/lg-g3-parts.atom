@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/lg-g3-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T15:28:58-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641294782569</id>
+    <published>2019-07-28T15:28:58-04:00</published>
+    <updated>2019-07-28T15:28:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-rear-facing-camera"/>
+    <title>LG G3 Rear Facing Camera</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-rear-facing-camera-new-0-jpg.jpg?v=1571614475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix your broken camera!  13 MP rear facing camera with optical image stabilization.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641294782569</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR13459</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641294651497</id>
+    <published>2019-07-28T15:28:43-04:00</published>
+    <updated>2019-07-28T15:28:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-earpiece-speaker"/>
+    <title>LG G3 Earpiece Speaker</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-earpiece-speaker-new-0-jpg.jpg?v=1570415731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Can you hear me now?  Replace a damaged or broken earpiece speaker with this part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641294651497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641294553193</id>
+    <published>2019-07-28T15:28:29-04:00</published>
+    <updated>2019-07-28T15:28:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-display-adhesive"/>
+    <title>LG G3 Display Adhesive</title>
+    <s:type>Display Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-display-adhesive-0-jpg.jpg?v=1571614433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Display Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This custom cut adhesive film set secures the front glass digitizer screen and display to the front frame and bezel assembly of an LG G3 smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>Display Adhesive</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641294553193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13457</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641294291049</id>
+    <published>2019-07-28T15:28:09-04:00</published>
+    <updated>2019-07-28T15:28:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-volume-and-power-button-cover"/>
+    <title>LG G3 Volume and Power Button Cover</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-volume-and-power-button-cover-black-new-0-jpg.jpg?v=1571614392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            6.99 - 7.99
+            <a href="https://unlockr.ca/products/lg-g3-volume-and-power-button-cover">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This part includes the external button covers for the power and volume buttons and the rear facing camera lens cover and bezel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641294291049</id>
+      <title>Black</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641294291049</id>
+      <title>White</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13454</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641294291049</id>
+      <title>Gold</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13455</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641294258281</id>
+    <published>2019-07-28T15:27:54-04:00</published>
+    <updated>2019-07-28T15:27:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-sim-and-sd-card-slot-reader"/>
+    <title>LG G3 SIM and SD Card Slot/Reader</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-sim-and-sd-card-slot-reader-0-jpg.jpg?v=1571614374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Corroded, bent, or missing contact wires?  Replace that SIM and microSD card reader slot and save a motherboard from e-waste.  Please Note: This part requires micro soldering and board level repair skills. If you donu2019t know what this means you may not have the knowledge or tools to install this part. If youu2019re curious and want to know more about getting into micro soldering, hereu2019s some good reading and some good watching to get you started.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641294258281</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13452</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641294028905</id>
+    <published>2019-07-28T15:27:40-04:00</published>
+    <updated>2019-07-28T15:27:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-rear-panel"/>
+    <title>LG G3 Rear Panel</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-rear-panel-at-amp-t-0-jpg.jpg?v=1571614359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a scratched or cracked rear metallic plastic panel for an AT&amp;T model LG G3 smartphone.  This is a used OEM part.  The T-Mobile part can be found here.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641294028905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>UNLKR13451</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641293832297</id>
+    <published>2019-07-28T15:27:23-04:00</published>
+    <updated>2019-07-28T15:27:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-speaker-assembly"/>
+    <title>LG G3 Speaker Assembly</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-speaker-assembly-at-amp-t-black-0-jpg.jpg?v=1571614340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>No sound?  Replace a malfunctioning speaker for the LG G3.This part is for AT&amp;T (D850) models only.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641293832297</id>
+      <title>Black</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR13449</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641293832297</id>
+      <title>White</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR13450</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641293668457</id>
+    <published>2019-07-28T15:27:08-04:00</published>
+    <updated>2019-07-28T15:27:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-midframe"/>
+    <title>LG G3 Midframe</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-midframe-at-amp-t-0-jpg.jpg?v=1571614324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>The plastic midframe includes the internal button switches for the power and volume buttons.This is a used OEM part.  You can find the T-Mobile midframe here.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641293668457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>UNLKR13448</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641293570153</id>
+    <published>2019-07-28T15:26:48-04:00</published>
+    <updated>2019-07-28T15:26:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-rear-lens-cover-and-bezel"/>
+    <title>LG G3 Rear Lens Cover and Bezel</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-rear-lens-cover-and-bezel-black-0-jpg.jpg?v=1571614302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This part includes the rear facing camera lens cover and plastic bezel.The volume and power button cover is not included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641293570153</id>
+      <title>Black</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641293570153</id>
+      <title>White</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641293570153</id>
+      <title>Gold</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13447</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641292816489</id>
+    <published>2019-07-28T15:26:34-04:00</published>
+    <updated>2019-07-28T15:26:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-front-facing-camera"/>
+    <title>LG G3 Front Facing Camera</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-front-facing-camera-0-jpg.jpg?v=1571614287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Fix your broken camera!  2.1 MP front facing camera for selfies and such. This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641292816489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13444</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641292554345</id>
+    <published>2019-07-28T15:26:19-04:00</published>
+    <updated>2019-07-28T15:26:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-antenna-cable"/>
+    <title>LG G3 Antenna Cable</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-antenna-cable-0-jpg.jpg?v=1571614271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the antenna cable that is clipped along the long edge of the motherboard.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641292554345</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13443</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641292324969</id>
+    <published>2019-07-28T15:26:05-04:00</published>
+    <updated>2019-07-28T15:26:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-headphone-jack"/>
+    <title>LG G3 Headphone Jack</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-headphone-jack-0-jpg.jpg?v=1571614256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken headphone jack  This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641292324969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13442</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641291997289</id>
+    <published>2019-07-28T15:25:35-04:00</published>
+    <updated>2019-07-28T15:25:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-vibrator"/>
+    <title>LG G3 Vibrator</title>
+    <s:type>Vibrator</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-vibrator-0-jpg.jpg?v=1571614240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Vibrator<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>No buzz in your LG G3?  Replace a malfunctioning vibrator motor.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641291997289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13440</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641291636841</id>
+    <published>2019-07-28T15:25:04-04:00</published>
+    <updated>2019-07-28T15:25:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-microphone"/>
+    <title>LG G3 Microphone</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-g3-microphone-0-jpg.jpg?v=1571614225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a dead microphone and save a motherboard from e-waste. There are three microphones surface soldered to the motherboard, two near the top edge and one at the bottom edge.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641291636841</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR13438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641291571305</id>
+    <published>2019-07-28T15:24:48-04:00</published>
+    <updated>2019-07-28T15:24:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-charge-port"/>
+    <title>LG G3 Charge Port</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a dirty, corroded, or bent port and save a motherboard from e-waste. This component is surface soldered to the bottom edge of the motherboard.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641291571305</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13437</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/2374652690537</id>
+    <published>2019-01-05T22:57:13-05:00</published>
+    <updated>2019-01-05T22:57:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-rear-camera-lens-cover-with-frame"/>
+    <title>LG G3 Rear Camera Lens Cover With Frame</title>
+    <s:type>Small Parts</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/volume-button-with-housing-and-camera-lens-lg-g3-white.jpg?v=1620490884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Small Parts<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p>This LG G3 Rear Camera Lens allows the replacement of your broken Rear Camera Lens. </p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LG Rear-Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LG G3 (5.5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 509px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">D850 / D851 / D852</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 509px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 509px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera Lens</s:tag>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>G3 (CDMA)</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/2374652690537</id>
+      <title>White</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR11596</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/2374652690537</id>
+      <title>Black</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR11597</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/289731969065</id>
+    <published>2017-11-27T18:24:41-05:00</published>
+    <updated>2017-11-27T18:24:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-battery-original"/>
+    <title>LG G3 Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/G3-Battery-Replacement-New-1.jpg?v=1620488990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have an LG G3 that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your LG G3 </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> ? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your cell phone only works when the battery is plugged in ?</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new LG G3 replacement battery.</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The battery in your phone can outgrow inside and damage the internals.</span></p>
+<p><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Our batteries are produced with the same quality standard as original LG G3 batteries. <span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The LG G3 replacement battery power is rated at 3000 mAh. </span>After this easy battery repair, your phone will have the same battery health as when your LG G3 was new.</span></span></p>
+<ul style="margin-top: 0pt; margin-bottom: 0pt;">
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Zero cycle count</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">UN38.3, MSDS, ROHS, CE Certification</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Tested under extreme weather</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Less than 20 minutes to replace</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">1-Year Warranty</span></li>
+</ul>
+<h3>Compatibility</h3>
+<p>This battery is only compatible with a LG G3.</p>
+<h3>Warranty</h3>
+<p>The Replacement LG G3 Battery comes with 1 year warranty, as the other LG Battery Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LG Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LG G3 (5.5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-size: 12pt;">D855 / D850 / D851 / D852</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LG</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/289731969065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR11167</s:sku>
+      <s:grams>53</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/289734295593</id>
+    <published>2017-11-18T03:54:13-05:00</published>
+    <updated>2017-11-18T03:54:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-g3-lcd-screen-and-digitizer-frame-assembly"/>
+    <title>LG G3 LCD Screen and Digitizer Frame Assembly</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/G3-lcd-display-screen-and-digitizer-1.jpg?v=1620489001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a LG G3 screen replacement ? If you dropped your LG G3 and broke the front glass it can be repaired ! You can replace your broken LG screen using our high quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>The OEM Screens for LG G3 LCD Screens and Digitizers Frame Assembly includes <strong>components from original screens.</strong> For customers who demand the <strong>same standard as original repair parts</strong>, the OEM LG parts has you covered.</p>
+<ul>
+<li>OEM LCD &amp; Digitizer Assembly</li>
+<li>OEM Touch Digitizer and IC</li>
+<li>OEM Glass Lens</li>
+<li>OEM Backlight</li>
+<li>OEM Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement LG G3 LCD Screens and Digitizers come with lifetime warranty, as the other LG LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LG LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G3 (5.5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">D852</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LG</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D850</s:tag>
+    <s:tag>D851</s:tag>
+    <s:tag>D852</s:tag>
+    <s:tag>D855</s:tag>
+    <s:tag>F400K</s:tag>
+    <s:tag>G3</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LGLS990</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:tag>VS985 4G</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/289734295593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>UNLKR11170</s:sku>
+      <s:grams>71</s:grams>
+    </s:variant>
+  </entry>
+</feed>

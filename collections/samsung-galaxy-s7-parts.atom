@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/samsung-galaxy-s7-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-08-14T13:33:20-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3663379497065</id>
+    <published>2019-08-14T13:33:20-04:00</published>
+    <updated>2019-08-14T13:33:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-charging-daughter-board"/>
+    <title>Galaxy S7 Charging Daughter Board</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/samsung-galaxy-s7-g930-dock-charging-port-assembly-replacement-parts.jpg?v=1572031894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Repair a broken charging port daughter board with a new one that includes the USB port and primary microphone for Samsung Galaxy S7 G930.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charging Port</s:tag>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3663379497065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>UNLKR14070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641328009321</id>
+    <published>2019-07-28T16:42:10-04:00</published>
+    <updated>2019-07-28T16:42:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-midframe"/>
+    <title>Galaxy S7 Midframe</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-midframe-black-new-0-jpg.jpg?v=1571619095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the metal midframe assembly.The assembly includes the motherboard heat pipe, the internal power and volume button switches, and the external power and volume button covers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641328009321</id>
+      <title>Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13888</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641327976553</id>
+    <published>2019-07-28T16:41:54-04:00</published>
+    <updated>2019-07-28T16:41:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-touch-screen-adhesive"/>
+    <title>Galaxy S7 Touch Screen Adhesive</title>
+    <s:type>Display Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-touch-screen-adhesive-two-pieces-0-jpg.jpg?v=1571619077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Display Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This custom cut adhesive film secures the front glass digitizer screen to the midframe assembly of the Samsung Galaxy S7.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Display Adhesive</s:tag>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641327976553</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13886</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641327911017</id>
+    <published>2019-07-28T16:41:37-04:00</published>
+    <updated>2019-07-28T16:41:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-sensor-cable"/>
+    <title>Galaxy S7 Sensor Cable</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-sensor-cable-0-jpg.jpg?v=1571619058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the flex cable assembly containing the proximity sensor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641327911017</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13885</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641327878249</id>
+    <published>2019-07-28T16:41:20-04:00</published>
+    <updated>2019-07-28T16:41:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-speaker-global"/>
+    <title>Galaxy S7 Speaker (Global)</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-speaker-global-0-jpg.jpg?v=1571619038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the main speaker assembly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641327878249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13884</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641327747177</id>
+    <published>2019-07-28T16:41:03-04:00</published>
+    <updated>2019-07-28T16:41:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-s7-edge-sim-card-slot-reader"/>
+    <title>Galaxy S7/S7 Edge SIM Card Slot/Reader</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-s7-edge-sim-card-slot-reader-0-jpg.jpg?v=1571619017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged SIM card socket on the motherboard of a Galaxy S7 or S7 Edge with this part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>Samsung Galaxy S7 edge</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641327747177</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13883</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641327485033</id>
+    <published>2019-07-28T16:40:47-04:00</published>
+    <updated>2019-07-28T16:40:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-antenna-cables-global"/>
+    <title>Galaxy S7 Antenna Cables (Global)</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-antenna-cables-global-0-jpg.jpg?v=1571619000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the antenna cables that connect the motherboard to the charging daughter board.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641327485033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13881</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641327419497</id>
+    <published>2019-07-28T16:40:27-04:00</published>
+    <updated>2019-07-28T16:40:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-earpiece-dust-mesh"/>
+    <title>Galaxy S7 Earpiece Dust Mesh</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-earpiece-dust-mesh-black-0-jpg.jpg?v=1571618976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the tiny metal grille that covers the earpiece speaker opening.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641327419497</id>
+      <title>Black</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13878</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641327419497</id>
+      <title>White</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13879</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641327419497</id>
+      <title>Gold</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13880</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641327255657</id>
+    <published>2019-07-28T16:40:13-04:00</published>
+    <updated>2019-07-28T16:40:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-power-button-bracket"/>
+    <title>Galaxy S7 Power Button Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-power-button-bracket-0-jpg.jpg?v=1571618959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the bracket that holds the power button cover in place.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641327255657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13877</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641327190121</id>
+    <published>2019-07-28T16:39:54-04:00</published>
+    <updated>2019-07-28T16:39:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-home-button-and-cable-assembly"/>
+    <title>Galaxy S7 Home Button and Cable Assembly</title>
+    <s:type>Home Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-home-button-and-cable-assembly-black-new-0-jpg.jpg?v=1571618938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Home Button<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the cable, internal switch, and home button face.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Home Button</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641327190121</id>
+      <title>Black</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>UNLKR13875</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641327190121</id>
+      <title>Gold</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>UNLKR13876</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641327124585</id>
+    <published>2019-07-28T16:39:39-04:00</published>
+    <updated>2019-07-28T16:39:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-volume-button-bracket"/>
+    <title>Galaxy S7 Volume Button Bracket</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-volume-button-bracket-0-jpg.jpg?v=1571618921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the bracket that holds the volume button covers in place.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641327124585</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13874</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641326960745</id>
+    <published>2019-07-28T16:39:14-04:00</published>
+    <updated>2019-07-28T16:39:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-s7-edge-rear-camera-bezel"/>
+    <title>Galaxy S7/S7 Edge Rear Camera Lens with frame</title>
+    <s:type>Camera Lens</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-s7-edge-rear-camera-bezel-gold-2-jpg.jpg?v=1574798596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Camera Lens<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace the metal bezel for the rear-facing camera.The lens cover is not included in the bezel.The flash cover is not included in the bezel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>G930</s:tag>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Galaxy S7 G930A</s:tag>
+    <s:tag>Galaxy S7 G930F</s:tag>
+    <s:tag>Galaxy S7 G930P</s:tag>
+    <s:tag>Galaxy S7 G930T</s:tag>
+    <s:tag>Galaxy S7 G930V</s:tag>
+    <s:tag>Galaxy S7 G930W8</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:tag>S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>Samsung Galaxy S7 edge</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:tag>SM-G930WZKAXAC</s:tag>
+    <s:tag>SM-G930WZSAXAC</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641326960745</id>
+      <title>Black</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13871</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641326960745</id>
+      <title>White</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13872</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641326960745</id>
+      <title>Gold</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13873</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641326141545</id>
+    <published>2019-07-28T16:38:31-04:00</published>
+    <updated>2019-07-28T16:38:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-north-america-speaker"/>
+    <title>Galaxy S7 (North America) Speaker</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-north-america-speaker-0-jpg.jpg?v=1571618873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the main speaker assembly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641326141545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641325912169</id>
+    <published>2019-07-28T16:38:01-04:00</published>
+    <updated>2019-07-28T16:38:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-volume-button-cable"/>
+    <title>Galaxy S7 Volume Button Cable</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-volume-button-cable-0-jpg.jpg?v=1571618838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace volume button ribbon cable with the internal button switches and connector.The external volume button cover is not included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641325912169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13857</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641325813865</id>
+    <published>2019-07-28T16:37:44-04:00</published>
+    <updated>2019-07-28T16:37:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-s7-edge-front-camera"/>
+    <title>Galaxy S7/S7 Edge Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-s7-edge-front-camera-0-jpg.jpg?v=1571618820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the 5 MP front facing camera.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>G930</s:tag>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>Samsung Galaxy S7 edge</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641325813865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13856</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641325715561</id>
+    <published>2019-07-28T16:37:30-04:00</published>
+    <updated>2019-07-28T16:37:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-wireless-charging-coil"/>
+    <title>Galaxy S7 Wireless Charging Coil</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-wireless-charging-coil-0-jpg.jpg?v=1571618804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the internal inductive charging coil.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641325715561</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13854</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641325518953</id>
+    <published>2019-07-28T16:36:48-04:00</published>
+    <updated>2019-07-28T16:36:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-sim-and-sd-card-tray"/>
+    <title>Galaxy S7 SIM and SD Card Tray</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-sim-and-sd-card-tray-white-new-2-jpg.jpg?v=1571618751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Keep your nano SIM and micro SD cards safe with a new card tray!  Replace a damaged card tray so your SIM and SD cards work for the life of your phone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641325518953</id>
+      <title>Black</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641325518953</id>
+      <title>White</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13850</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641325518953</id>
+      <title>Gold</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13851</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641325486185</id>
+    <published>2019-07-28T16:36:33-04:00</published>
+    <updated>2019-07-28T16:36:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-power-button-cable"/>
+    <title>Galaxy S7 Power Button Cable</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-power-button-cable-0-jpg.jpg?v=1571618723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace power button ribbon cable with the internal button switche and connector.The external power button cover is not included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641325486185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13845</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641325355113</id>
+    <published>2019-07-28T16:36:12-04:00</published>
+    <updated>2019-07-28T16:36:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-s7-edge-earpiece-speaker"/>
+    <title>Galaxy S7/S7 Edge Earpiece Speaker</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-s7-edge-earpiece-speaker-0-jpg.jpg?v=1571618702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the earpiece speaker assembly in a Samsung Galaxy S7 or S7 Edge.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>G935</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Galaxy S7 edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>Samsung Galaxy S7 edge</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641325355113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13844</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641325158505</id>
+    <published>2019-07-28T16:35:32-04:00</published>
+    <updated>2019-07-28T16:35:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-battery-adhesive-strips"/>
+    <title>Galaxy S7 Battery Adhesive Strips</title>
+    <s:type>Battery Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-battery-adhesive-strips-0-jpg.jpg?v=1571618653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Battery Adhesive<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Use these custom adhesive strips to secure a Galaxy S7 battery to the midframe.Removal or replacement of the battery may require installing new adhesive strips.Due to continuing improvements, actual product may differ slightly from photo.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Battery Adhesive</s:tag>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641325158505</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>UNLKR13838</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641325027433</id>
+    <published>2019-07-28T16:34:52-04:00</published>
+    <updated>2019-07-28T16:34:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-charge-port"/>
+    <title>Galaxy S7 Charge Port</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-charge-port-0-jpg.jpg?v=1571618619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a broken or damaged USB port on a Samsung Galaxy S7 daughter board with this part and fix charging and USB connectivity issues.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641325027433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13833</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641324961897</id>
+    <published>2019-07-28T16:34:33-04:00</published>
+    <updated>2019-07-28T16:34:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-power-volume-button-covers"/>
+    <title>Galaxy S7 Power &amp; Volume Button Covers</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-power-amp-volume-button-covers-black-0-jpg.jpg?v=1571618594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the three external button covers for the power and volume functions.The internal button switches and cables are not included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641324961897</id>
+      <title>Black</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13830</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641324961897</id>
+      <title>White</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13831</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641324961897</id>
+      <title>Gold</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13832</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641324863593</id>
+    <published>2019-07-28T16:34:17-04:00</published>
+    <updated>2019-07-28T16:34:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-s7-headphone-jack"/>
+    <title>Galaxy S7 Headphone Jack</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-s7-headphone-jack-0-jpg.jpg?v=1571618559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a corroded, dirty, or damaged headphone jack and its flex cable for a Samsung Galaxy S7 smartphone.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy S7</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641324863593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3549431890025</id>
+    <published>2019-05-13T17:39:49-04:00</published>
+    <updated>2019-05-13T17:39:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-s7-rear-camera"/>
+    <title>Samsung Galaxy S7 Rear Camera Flex</title>
+    <s:type>Small Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/s7_rear_camera.png?v=1620490062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Small Parts<br>
+        <strong>Price: </strong>
+            15.99 - 19.99
+            <a href="https://unlockr.ca/products/samsung-s7-rear-camera">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p>This Samsung Galaxy S7 Rear Camera Flex is designed to allow the replacement of your broken Back Camera. </p>
+<h3>Notice</h3>
+<p><em>Sony Hero</em> is for the following models : S7 G930V</p>
+<p><em>ISOCELL S5K2L1</em> is for the following models :  S7 G930U, G930P, G930A and G930T</p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 442.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Rear-Facing Camera</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 442.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 506.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S7 (5.1")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 442.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 506.219px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G930W8 / G930V / G930U / G930P / G930A / G930T</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 442.219px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 506.219px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 442.219px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.219px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G930A</s:tag>
+    <s:tag>G930P</s:tag>
+    <s:tag>G930T</s:tag>
+    <s:tag>G930U</s:tag>
+    <s:tag>G930V</s:tag>
+    <s:tag>G930W8</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>ISOCELL</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:tag>S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:tag>Sony Hero</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3549431890025</id>
+      <title>ISOCELL S5K2L1</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>UNLKR11515</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3549431890025</id>
+      <title>Sony Hero IMX260</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR11514</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/1301770600553</id>
+    <published>2018-06-06T15:32:06-04:00</published>
+    <updated>2018-06-06T15:32:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-s7-back-cover"/>
+    <title>Samsung Galaxy S7 Back Glass Battery Cover</title>
+    <s:type>Small Parts</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/Galaxy-S7-Rear-Glass-Black_635d4e21-5e02-45e1-9db3-005037af77ad.png?v=1620490121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Small Parts<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p>The Samsung S7 Back Cover is designed to allow the replacement of your broken casing. This part has the same coloration as the Samsung Original Back Cover. </p>
+<h3>Warranty</h3>
+<p>Unlockr offers a 1 year on this item. Our warranty does not cover physical damage caused by the technician or any other reason. Please see our full warranty and returns policy for extra details.</p>
+<div class="details-right">
+<div class="expandable collapse">
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung Back Covers</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy S7 (5.1")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G930W8</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">1 Year Warranty</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Back Cover</s:tag>
+    <s:tag>G930</s:tag>
+    <s:tag>Galaxy S7</s:tag>
+    <s:tag>S7</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy</s:tag>
+    <s:tag>SM-G9300</s:tag>
+    <s:tag>SM-G930A</s:tag>
+    <s:tag>SM-G930F</s:tag>
+    <s:tag>SM-G930FD</s:tag>
+    <s:tag>SM-G930K</s:tag>
+    <s:tag>SM-G930L</s:tag>
+    <s:tag>SM-G930P</s:tag>
+    <s:tag>SM-G930R</s:tag>
+    <s:tag>SM-G930S</s:tag>
+    <s:tag>SM-G930T</s:tag>
+    <s:tag>SM-G930V</s:tag>
+    <s:tag>SM-G930W8</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/1301770600553</id>
+      <title>Black</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR11525</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/1301770600553</id>
+      <title>White</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR11526</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

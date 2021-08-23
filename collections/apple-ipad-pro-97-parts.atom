@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-ipad-pro-97-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2020-01-14T13:46:46-05:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/4473504399465</id>
+    <published>2020-01-14T13:46:46-05:00</published>
+    <updated>2020-01-14T13:46:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/tempered-glass-screen-protector-for-ipad"/>
+    <title>Tempered Glass Screen Protector For iPad</title>
+    <s:type>Tempered Glass</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1579025223iPad_Tempered_glass_oleophobic_coating_resistant_to_scratch.jpg?v=1618325184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Tempered Glass<br>
+        <strong>Price: </strong>
+            5.99 - 6.99
+            <a href="https://unlockr.ca/products/tempered-glass-screen-protector-for-ipad">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-size: 14px; font-weight: 400;">Add an extra layer of protection on your screen of to protect it from scratches and cracking. It is 0.2mm thick at 9H Durability with a 2.5D curve to fit perfectly.</p>
+<p style="font-size: 14px; font-weight: 400;">They have an oleophobic coating to make them oil-resistant and prevent fingerprints to ensure perfect image clarity and touch sensitivity.</p>
+<p style="font-size: 14px; font-weight: 400;">The 0.2mm thickness and flexibility makes them very easy to apply.</p>
+<table style="font-size: 14px; font-weight: 400; height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 315.2px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 347.2px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Tempered Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 315.2px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible With</strong></span></td>
+<td style="width: 347.2px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad</span></td>
+</tr>
+</tbody>
+</table>
+<section>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<p> </p>
+</div>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1538</s:tag>
+    <s:tag>A1670</s:tag>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1701</s:tag>
+    <s:tag>A2013</s:tag>
+    <s:tag>A2014</s:tag>
+    <s:tag>A2126</s:tag>
+    <s:tag>A2232</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2</s:tag>
+    <s:tag>Apple iPad mini 1</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini 3</s:tag>
+    <s:tag>iPad 6</s:tag>
+    <s:tag>iPad 9.7</s:tag>
+    <s:tag>iPad Air</s:tag>
+    <s:tag>iPad Pro</s:tag>
+    <s:tag>iPad Pro 10.5</s:tag>
+    <s:tag>iPad Pro 11</s:tag>
+    <s:tag>iPad Pro 12.9</s:tag>
+    <s:tag>iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad 9.7</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Mini</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Pro 10.5</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Pro 11</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Pro 12.9 (2015-2017)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad 10.2</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Pro 12.9 2018 and up (No home button)</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR14712</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad 2</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14849</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4410755514473</id>
+    <published>2019-12-02T16:53:29-05:00</published>
+    <updated>2019-12-02T16:53:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-9-7-lcd-screen-and-digitizer-assembly"/>
+    <title>iPad Pro (9.7&quot;) LCD Screen and Digitizer Assembly</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iPad-Pro-9.7-Digi-Black.jpg?v=1620490646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="text-align: justify;">The OEM Screens for iPad Pro 9.7" LCD Screens and Digitizers includes <strong>components from original screens.</strong> For customers who demand the <strong>same standard as original repair parts</strong>, the OEM iPad parts has you covered. The Full assembly is offered to you for a <strong>faster &amp; easier iPad repair.</strong> You won’t need to <strong>transfer the old broken LCD</strong> display because it is already preinstalled on the part.</p>
+<p dir="ltr" style="text-align: justify;"><strong style="text-align: start;">Notice : Only the original home button assembly will support Touch ID on your device.</strong></p>
+<ul style="font-size: 14px; font-weight: 400;">
+<li>OEM LCD &amp; Digitizer</li>
+<li>OEM Touch Digitizer and IC</li>
+<li>OEM Backlight</li>
+<li>Foam Connector Pads</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3 dir="ltr">Lifetime Warranty</h3>
+<p dir="ltr" style="text-align: justify;">This replacement iPad Pro 9.7" LCD Screen and Digitizer Assembly comes with lifetime warranty, as our other iPad LCD Repair Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad Pro (9.7")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1673/A1674</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1674</s:tag>
+    <s:tag>A1675</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPad</s:tag>
+    <s:tag>iPad Pro</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7 (2016)</s:tag>
+    <s:tag>iPad Pro 9.7 A1673</s:tag>
+    <s:tag>iPad Pro 9.7 A1674</s:tag>
+    <s:tag>iPad Pro 9.7 Digitizer</s:tag>
+    <s:tag>iPad Pro 9.7 LCD</s:tag>
+    <s:tag>iPad Pro 9.7 Screen</s:tag>
+    <s:tag>iPad Pro LCD Screen and Digitizer Assembly</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4410755514473</id>
+      <title>Black</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>UNLKR11568</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4410755514473</id>
+      <title>White</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>UNLKR11569</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3709784686697</id>
+    <published>2019-09-09T13:05:32-04:00</published>
+    <updated>2019-09-09T13:05:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-97-battery"/>
+    <title>Replacement Battery Compatible With iPad Pro 9.7&quot; A1675  A1674 A1673</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/iPad_pro_9.7_replacement_battery.jpg?v=1620491665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div dir="ltr" style="margin-left: 0pt;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #222222; font-family: Verdana;"><span style="white-space: pre-wrap;">Your<strong> iPad Pro 9.7" battery no longer hold a charge or is draining too quickly ?</strong> Is your battery old ? There are high chances that your battery is defective. These signs are saying that it is time to replace your battery because it’s either dead or dying.</span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #222222; font-family: Verdana;"><span style="white-space: pre-wrap;"><strong>Buy a Certified, brand-new OEM Battery for your iPad Pro 9.7".</strong> Our batteries are produced with the same quality standard as original Apple iPad batteries. This iPad Pro 9.7"</span></span><span style="color: #222222; font-family: Verdana;"><span style="white-space: pre-wrap;"> replacement battery is rated at 7306 mAh (27.9 Wh). It will deliver up to 10 hours of battery life exactly when your iPad Pro 9.7 was new. </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<ul style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; margin-top: 0pt; margin-bottom: 0pt;">
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Zero cycle count</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">UN38.3, MSDS, ROHS, CE Certification</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Delivers up to 10 hours of battery life</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Tested under extreme weather</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">High output current capacity</span></li>
+<li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">1-Year Warranty </span></li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #222222; font-family: Verdana;"><span style="white-space: pre-wrap;"><span style="font-size: 12pt;"><strong>Compatibility </strong></span> </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #222222; font-family: Verdana;"><span style="white-space: pre-wrap;">This battery is only compatible with an iPad Pro 9.7". </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #222222; font-family: Verdana;"><span style="white-space: pre-wrap;"><strong><span style="font-size: 12pt;">Warranty</span></strong> </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #222222; font-family: Verdana;"><span style="white-space: pre-wrap;">The replacement iPad Pro 9.7" Battery comes with 1 year warranty. As with all our other iPad Battery Replacement Parts. <strong>For any assistance with installation or questions with your product please don’t hesitate to contact our support team.</strong> </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #222222; font-family: Verdana;"><span style="white-space: pre-wrap;"><span style="font-size: 12pt;"><strong>Shipping</strong></span> </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #222222; font-family: Verdana;"><span style="white-space: pre-wrap;">All items will be shipped from our warehouses in Canada. All orders placed during business hours will be shipped the same day !</span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad Pro 9.7"</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508px; text-align: center; height: 18px;"><span style="font-size: 12pt;">A1675, A1674, A1673</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 508px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1395</s:tag>
+    <s:tag>A1396</s:tag>
+    <s:tag>A1397</s:tag>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1674</s:tag>
+    <s:tag>A1675</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>iPad</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7 (2016)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3709784686697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>UNLKR11825</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641245204585</id>
+    <published>2019-07-28T14:40:42-04:00</published>
+    <updated>2019-07-28T14:40:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-9-7-smart-cover-connector"/>
+    <title>iPad Pro 9.7 Smart Cover Connector</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-9-7-quot-smart-cover-connector-black-0-jpg.jpg?v=1571611581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the external contact points where the magnetic smart cover connects with your iPad Pro.Color coordinated with the case color.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1674</s:tag>
+    <s:tag>A1675</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7 (2016)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641245204585</id>
+      <title>Black</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR13196</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641245204585</id>
+      <title>Silver</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR13197</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641245204585</id>
+      <title>Gold</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>UNLKR13198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641245171817</id>
+    <published>2019-07-28T14:40:30-04:00</published>
+    <updated>2019-07-28T14:40:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-9-7-front-camera"/>
+    <title>iPad Pro 9.7 Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-9-7-quot-front-camera-0-jpg.jpg?v=1571611564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the front-facing 5 MP camera for the 9.7 inch iPad Pro.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1674</s:tag>
+    <s:tag>A1675</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7 (2016)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641245171817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>UNLKR13195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641245007977</id>
+    <published>2019-07-28T14:40:18-04:00</published>
+    <updated>2019-07-28T14:40:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-9-7-rear-camera"/>
+    <title>iPad Pro 9.7 Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-9-7-quot-rear-camera-0-jpg.jpg?v=1571611536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the main rear-facing 12 MP camera for the 9.7 inch iPad Pro.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1674</s:tag>
+    <s:tag>A1675</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7 (2016)</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641245007977</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13194</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641244811369</id>
+    <published>2019-07-28T14:39:59-04:00</published>
+    <updated>2019-07-28T14:39:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-9-7-lightning-connector"/>
+    <title>iPad Pro 9.7 Lightning Connector</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-9-7-quot-lightning-connector-black-0-jpg.jpg?v=1571611517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the lightning port and its cable and save a logic board from e-waste. This part is soldered to the logic board.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1674</s:tag>
+    <s:tag>A1675</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7 (2016)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641244811369</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641244811369</id>
+      <title>White</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641244811369</id>
+      <title>Gray</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641244745833</id>
+    <published>2019-07-28T14:39:47-04:00</published>
+    <updated>2019-07-28T14:39:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-9-7-power-button-assembly"/>
+    <title>iPad Pro 9.7 Power Button Assembly</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-9-7-quot-power-button-assembly-0-jpg.jpg?v=1571611500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a faulty power button switch.This part does not include the external power button cover.This part includes one of two microphones and one of two ambient light sensors for the iPad Pro 9.7".</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1674</s:tag>
+    <s:tag>A1675</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7 (2016)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641244745833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>UNLKR13190</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641244647529</id>
+    <published>2019-07-28T14:39:27-04:00</published>
+    <updated>2019-07-28T14:39:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-9-7-home-button-assembly"/>
+    <title>Home Button Assembly For iPad Pro 9.7</title>
+    <s:type>Home Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-9-7-quot-home-button-assembly-gold-0-jpg.jpg?v=1599160392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Home Button<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace the home button and flex cable assembly for the iPad Pro 9.7" and fix an unresponsive home button. This assembly includes the home button flex cable assembly, gasket, and the home button face with metal ring.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1674</s:tag>
+    <s:tag>A1675</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>Home Button</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7 (2016)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641244647529</id>
+      <title>Gold</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641244647529</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13187</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641244647529</id>
+      <title>Silver</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13188</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641244647529</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13189</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641244516457</id>
+    <published>2019-07-28T14:39:14-04:00</published>
+    <updated>2019-07-28T14:39:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-9-7-right-wi-fi-bluetooth-antenna"/>
+    <title>iPad Pro 9.7 Right Wi-Fi/Bluetooth Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-9-7-quot-right-wi-fi-bluetooth-antenna-0-jpg.jpg?v=1571611449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the right side antenna for Wi-Fi and Bluetooth connections.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1674</s:tag>
+    <s:tag>A1675</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7 (2016)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641244516457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641244385385</id>
+    <published>2019-07-28T14:39:00-04:00</published>
+    <updated>2019-07-28T14:39:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-9-7-left-wi-fi-bluetooth-antenna"/>
+    <title>iPad Pro 9.7 Left Wi-Fi/Bluetooth Antenna</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-9-7-quot-left-wi-fi-bluetooth-antenna-0-jpg.jpg?v=1571611435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the left side antenna for Wi-Fi and Bluetooth connections.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1674</s:tag>
+    <s:tag>A1675</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7 (2016)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641244385385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13184</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641244057705</id>
+    <published>2019-07-28T14:37:58-04:00</published>
+    <updated>2019-07-28T14:37:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-9-7-adhesive-strips"/>
+    <title>iPad Pro 9.7 Adhesive Strips</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-9-7-quot-adhesive-strips-0-jpg.jpg?v=1571611386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>These strips are custom cut specifically for the 9.7 inch model iPad Pro.Individual pieces fit precisely around important components and provide a sturdy closure.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1674</s:tag>
+    <s:tag>A1675</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7</s:tag>
+    <s:tag>iPad Pro 9.7 (2016)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641244057705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13176</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

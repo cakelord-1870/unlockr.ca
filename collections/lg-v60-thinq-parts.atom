@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/lg-v60-thinq-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2021-05-21T11:36:40-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/6733099106478</id>
+    <published>2021-05-21T11:36:40-04:00</published>
+    <updated>2021-05-21T11:36:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/oled-screen-with-frame-compatible-for-lg-v60-thinq-5g"/>
+    <title>OLED Screen With Frame Compatible For LG V60 ThinQ 5G</title>
+    <s:type>LCD &amp; Digitizer</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-v60-lcd-digitizer-frame-oled-assembly-LM-V600-V600AM.jpg?v=1621611402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD &amp; Digitizer<br>
+        <strong>Price: </strong>
+            224.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for an LG V60 ThinQ screen replacement? If you dropped your LG V60 ThinQ and broke the front glass it can be repaired!</p>
+<p>You can replace your broken LG V60 ThinQ screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>The OEM Screens for LG V60 ThinQ OLED Screens and Digitizers has <strong>components from original screens.</strong> </p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, our parts have you covered.</p>
+<ul>
+<li>OLED &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement LG V60 ThinQ OLED Screens and Digitizers come with a lifetime warranty, as the other LG LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">OLED Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span>LG V60 ThinQ (LM-V600, V600AM)</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">OLED </span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG</s:tag>
+    <s:tag>LG V60 ThinQ</s:tag>
+    <s:tag>LM-V600</s:tag>
+    <s:tag>V60</s:tag>
+    <s:tag>V600AM</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6733099106478</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">224.99</s:price>
+      <s:sku>UNLKR14782</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-ipad-pro-129-2018-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2020-01-14T13:46:46-05:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/4473504399465</id>
+    <published>2020-01-14T13:46:46-05:00</published>
+    <updated>2020-01-14T13:46:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/tempered-glass-screen-protector-for-ipad"/>
+    <title>Tempered Glass Screen Protector For iPad</title>
+    <s:type>Tempered Glass</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1579025223iPad_Tempered_glass_oleophobic_coating_resistant_to_scratch.jpg?v=1618325184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Tempered Glass<br>
+        <strong>Price: </strong>
+            5.99 - 6.99
+            <a href="https://unlockr.ca/products/tempered-glass-screen-protector-for-ipad">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-size: 14px; font-weight: 400;">Add an extra layer of protection on your screen of to protect it from scratches and cracking. It is 0.2mm thick at 9H Durability with a 2.5D curve to fit perfectly.</p>
+<p style="font-size: 14px; font-weight: 400;">They have an oleophobic coating to make them oil-resistant and prevent fingerprints to ensure perfect image clarity and touch sensitivity.</p>
+<p style="font-size: 14px; font-weight: 400;">The 0.2mm thickness and flexibility makes them very easy to apply.</p>
+<table style="font-size: 14px; font-weight: 400; height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 315.2px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 347.2px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Tempered Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 315.2px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible With</strong></span></td>
+<td style="width: 347.2px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad</span></td>
+</tr>
+</tbody>
+</table>
+<section>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<p> </p>
+</div>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1538</s:tag>
+    <s:tag>A1670</s:tag>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1701</s:tag>
+    <s:tag>A2013</s:tag>
+    <s:tag>A2014</s:tag>
+    <s:tag>A2126</s:tag>
+    <s:tag>A2232</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2</s:tag>
+    <s:tag>Apple iPad mini 1</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini 3</s:tag>
+    <s:tag>iPad 6</s:tag>
+    <s:tag>iPad 9.7</s:tag>
+    <s:tag>iPad Air</s:tag>
+    <s:tag>iPad Pro</s:tag>
+    <s:tag>iPad Pro 10.5</s:tag>
+    <s:tag>iPad Pro 11</s:tag>
+    <s:tag>iPad Pro 12.9</s:tag>
+    <s:tag>iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad 9.7</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Mini</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Pro 10.5</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Pro 11</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Pro 12.9 (2015-2017)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad 10.2</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Pro 12.9 2018 and up (No home button)</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR14712</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad 2</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14849</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641243992169</id>
+    <published>2019-07-28T14:37:45-04:00</published>
+    <updated>2019-07-28T14:37:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-12-9-3rd-gen-screen"/>
+    <title>LCD &amp; Digitizer Assembly With IC flex For iPad Pro 12.9&quot; Gen 3 &amp; 4</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-12-9-quot-3rd-gen-screen-0-jpg.jpg?v=1618510509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            339.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a scratched or cracked front glass digitizer panel or a malfunctioning display. This part is compatible with an iPad Pro 12.9 (2018)eration tablet.</p>
+<p>iPad Pro, ipad Pro 12.9" 3rd Gen, A1876, A1895, A1983, A2014</p>
+<p> </p>
+<p>iPad Pro, ipad Pro 12.9" 4th Gen, A2069, A2232, A2233, A2229, </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1876</s:tag>
+    <s:tag>A1895</s:tag>
+    <s:tag>A1983</s:tag>
+    <s:tag>A2014</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2018)</s:tag>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>iPad</s:tag>
+    <s:tag>iPad Pro 12.9 (2018)</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>LCD Screen and Digitizer</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641243992169</id>
+      <title>Black</title>
+      <s:price currency="CAD">339.99</s:price>
+      <s:sku>UNLKR13175</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

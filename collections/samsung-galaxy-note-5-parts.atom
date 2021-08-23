@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/samsung-galaxy-note-5-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T15:55:01-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641310543977</id>
+    <published>2019-07-28T15:55:01-04:00</published>
+    <updated>2019-07-28T15:55:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note5-antenna-cables"/>
+    <title>Galaxy Note5 Antenna Cables</title>
+    <s:type>Antenna</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note5-antenna-cables-0-jpg.jpg?v=1571616082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Antenna<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace the antenna cables that connect the motherboard and USB daughter board.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 5</s:tag>
+    <s:tag>N920</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 5</s:tag>
+    <s:tag>Samsung Note 5</s:tag>
+    <s:tag>SM-N920</s:tag>
+    <s:tag>SM-N9200</s:tag>
+    <s:tag>SM-N920A</s:tag>
+    <s:tag>SM-N920F</s:tag>
+    <s:tag>SM-N920G</s:tag>
+    <s:tag>SM-N920I</s:tag>
+    <s:tag>SM-N920K</s:tag>
+    <s:tag>SM-N920L</s:tag>
+    <s:tag>SM-N920S</s:tag>
+    <s:tag>SM-N920T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641310543977</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13594</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641310511209</id>
+    <published>2019-07-28T15:54:46-04:00</published>
+    <updated>2019-07-28T15:54:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note5-volume-button-board"/>
+    <title>Galaxy Note5 Volume Button Board</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note5-volume-button-board-0-jpg.jpg?v=1571616060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This small circuit board and flex assembly includes the internal buttons for the volume control.It does not include the external button cover.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 5</s:tag>
+    <s:tag>N920</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 5</s:tag>
+    <s:tag>Samsung Note 5</s:tag>
+    <s:tag>SM-N920</s:tag>
+    <s:tag>SM-N9200</s:tag>
+    <s:tag>SM-N920A</s:tag>
+    <s:tag>SM-N920F</s:tag>
+    <s:tag>SM-N920G</s:tag>
+    <s:tag>SM-N920I</s:tag>
+    <s:tag>SM-N920K</s:tag>
+    <s:tag>SM-N920L</s:tag>
+    <s:tag>SM-N920S</s:tag>
+    <s:tag>SM-N920T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641310511209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13593</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641310412905</id>
+    <published>2019-07-28T15:54:32-04:00</published>
+    <updated>2019-07-28T15:54:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note5-front-camera"/>
+    <title>Galaxy Note5 Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note5-front-camera-0-jpg.jpg?v=1571616038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace your malfunctioning front facing camera.This part includes the front facing 5 MP camera and flex cable.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>Galaxy Note 5</s:tag>
+    <s:tag>N920</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 5</s:tag>
+    <s:tag>SM-N920</s:tag>
+    <s:tag>SM-N9200</s:tag>
+    <s:tag>SM-N920A</s:tag>
+    <s:tag>SM-N920F</s:tag>
+    <s:tag>SM-N920G</s:tag>
+    <s:tag>SM-N920I</s:tag>
+    <s:tag>SM-N920K</s:tag>
+    <s:tag>SM-N920L</s:tag>
+    <s:tag>SM-N920S</s:tag>
+    <s:tag>SM-N920T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641310412905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13592</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641310314601</id>
+    <published>2019-07-28T15:54:17-04:00</published>
+    <updated>2019-07-28T15:54:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note5-display-adhesive"/>
+    <title>Galaxy Note5 Display Adhesive</title>
+    <s:type>Display Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note5-display-adhesive-0-jpg.jpg?v=1571616018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Display Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This custom cut adhesive film set secures the top and bottom edges of the front glass digitizer screen and display to the front frame assembly of the Samsung Galaxy Note5.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Display Adhesive</s:tag>
+    <s:tag>Galaxy Note 5</s:tag>
+    <s:tag>N920</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 5</s:tag>
+    <s:tag>SM-N920</s:tag>
+    <s:tag>SM-N9200</s:tag>
+    <s:tag>SM-N920A</s:tag>
+    <s:tag>SM-N920F</s:tag>
+    <s:tag>SM-N920G</s:tag>
+    <s:tag>SM-N920I</s:tag>
+    <s:tag>SM-N920K</s:tag>
+    <s:tag>SM-N920L</s:tag>
+    <s:tag>SM-N920S</s:tag>
+    <s:tag>SM-N920T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641310314601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13591</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641310150761</id>
+    <published>2019-07-28T15:54:02-04:00</published>
+    <updated>2019-07-28T15:54:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note5-charging-assembly"/>
+    <title>Galaxy Note5 Charging Assembly</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note5-charging-assembly-at-amp-t-0-jpg.jpg?v=1571615998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the USB charging port, cable, internal home button switch, menu button sensors, and daughter board assembly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 5</s:tag>
+    <s:tag>N920</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 5</s:tag>
+    <s:tag>Samsung Note 5</s:tag>
+    <s:tag>SM-N920</s:tag>
+    <s:tag>SM-N9200</s:tag>
+    <s:tag>SM-N920A</s:tag>
+    <s:tag>SM-N920F</s:tag>
+    <s:tag>SM-N920G</s:tag>
+    <s:tag>SM-N920I</s:tag>
+    <s:tag>SM-N920K</s:tag>
+    <s:tag>SM-N920L</s:tag>
+    <s:tag>SM-N920S</s:tag>
+    <s:tag>SM-N920T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641310150761</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNLKR13590</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641310052457</id>
+    <published>2019-07-28T15:53:32-04:00</published>
+    <updated>2019-07-28T15:53:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note-5-speaker"/>
+    <title>Galaxy Note 5 Speaker</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note-5-speaker-0-jpg.jpg?v=1571615967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning speaker in your Galaxy Note5  Includes the speaker and plastic speaker enclosure.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 5</s:tag>
+    <s:tag>N920</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 5</s:tag>
+    <s:tag>Samsung Note 5</s:tag>
+    <s:tag>SM-N920</s:tag>
+    <s:tag>SM-N9200</s:tag>
+    <s:tag>SM-N920A</s:tag>
+    <s:tag>SM-N920F</s:tag>
+    <s:tag>SM-N920G</s:tag>
+    <s:tag>SM-N920I</s:tag>
+    <s:tag>SM-N920K</s:tag>
+    <s:tag>SM-N920L</s:tag>
+    <s:tag>SM-N920S</s:tag>
+    <s:tag>SM-N920T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641310052457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13588</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641309724777</id>
+    <published>2019-07-28T15:52:37-04:00</published>
+    <updated>2019-07-28T15:52:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note5-s-pen"/>
+    <title>Galaxy Note5 S-Pen</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note5-s-pen-0-jpg.jpg?v=1571615911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a missing or broken S-Pen stylus  This pen stylus fits inside the edge of the Galaxy Note5.This is a used OEM part.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 5</s:tag>
+    <s:tag>N920</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 5</s:tag>
+    <s:tag>Samsung Note 5</s:tag>
+    <s:tag>SM-N920</s:tag>
+    <s:tag>SM-N9200</s:tag>
+    <s:tag>SM-N920A</s:tag>
+    <s:tag>SM-N920F</s:tag>
+    <s:tag>SM-N920G</s:tag>
+    <s:tag>SM-N920I</s:tag>
+    <s:tag>SM-N920K</s:tag>
+    <s:tag>SM-N920L</s:tag>
+    <s:tag>SM-N920S</s:tag>
+    <s:tag>SM-N920T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641309724777</id>
+      <title>Silver</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13583</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641309429865</id>
+    <published>2019-07-28T15:51:37-04:00</published>
+    <updated>2019-07-28T15:51:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/galaxy-note5-replacement-battery"/>
+    <title>Galaxy Note5 Replacement Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/galaxy-note5-replacement-battery-1-jpg.jpg?v=1571615864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a dead or damaged battery in a Galaxy Note5 smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>920W8</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Galaxy Note 5</s:tag>
+    <s:tag>Galaxy Note 5 N920C</s:tag>
+    <s:tag>Galaxy Note 5 N920P</s:tag>
+    <s:tag>N920</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy Note 5</s:tag>
+    <s:tag>Samsung Note 5</s:tag>
+    <s:tag>SM-N920</s:tag>
+    <s:tag>SM-N9200</s:tag>
+    <s:tag>SM-N920A</s:tag>
+    <s:tag>SM-N920F</s:tag>
+    <s:tag>SM-N920G</s:tag>
+    <s:tag>SM-N920I</s:tag>
+    <s:tag>SM-N920K</s:tag>
+    <s:tag>SM-N920L</s:tag>
+    <s:tag>SM-N920S</s:tag>
+    <s:tag>SM-N920T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641309429865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13576</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/518336151593</id>
+    <published>2018-04-16T21:08:52-04:00</published>
+    <updated>2018-04-16T21:08:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/samsung-galaxy-note-5-lcd-screen-and-digitizer"/>
+    <title>Samsung Galaxy Note 5 LCD Screen and Digitizer</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/samsung-galaxy-note-5-lcd-touch-screen-assembly-replacement-black-1.png?v=1620489613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a Samsung note 5 screen replacement ? If you dropped your Samsung Galaxy Note 5 and broke the front glass it can be repaired ! You can replace your broken Samsung screen using our high quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>The OEM Screens for Samsung Galaxy Note 5 LCD Screens and Digitizers has <strong>components from original screens.</strong> For customers who demand the <strong>same standard as original repair parts</strong>, the OEM Samsung parts has you covered.</p>
+<ul>
+<li>OEM AMOLED LCD &amp; Digitizer Assembly</li>
+<li>OEM Touch Digitizer and IC</li>
+<li>OEM Glass Lens</li>
+<li>OEM Backlight</li>
+<li>OEM Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Samsung Galaxy Note 5 LCD Screens and Digitizers come with lifetime warranty, as the other Samsung LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Galaxy Note 5 (5.7")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">N920I</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Samsung</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy Note 5</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>N920I</s:tag>
+    <s:tag>Note 5</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Samsung Galaxy</s:tag>
+    <s:tag>Samsung Galaxy Note 5</s:tag>
+    <s:tag>SM-N920</s:tag>
+    <s:tag>SM-N9200</s:tag>
+    <s:tag>SM-N920A</s:tag>
+    <s:tag>SM-N920F</s:tag>
+    <s:tag>SM-N920G</s:tag>
+    <s:tag>SM-N920I</s:tag>
+    <s:tag>SM-N920K</s:tag>
+    <s:tag>SM-N920L</s:tag>
+    <s:tag>SM-N920S</s:tag>
+    <s:tag>SM-N920T</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/518336151593</id>
+      <title>Black</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku>UNLKR11420</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+</feed>

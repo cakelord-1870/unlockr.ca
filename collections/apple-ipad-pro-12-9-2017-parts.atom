@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-ipad-pro-12-9-2017-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2020-01-14T13:46:46-05:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/4473504399465</id>
+    <published>2020-01-14T13:46:46-05:00</published>
+    <updated>2020-01-14T13:46:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/tempered-glass-screen-protector-for-ipad"/>
+    <title>Tempered Glass Screen Protector For iPad</title>
+    <s:type>Tempered Glass</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1579025223iPad_Tempered_glass_oleophobic_coating_resistant_to_scratch.jpg?v=1618325184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Tempered Glass<br>
+        <strong>Price: </strong>
+            5.99 - 6.99
+            <a href="https://unlockr.ca/products/tempered-glass-screen-protector-for-ipad">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-size: 14px; font-weight: 400;">Add an extra layer of protection on your screen of to protect it from scratches and cracking. It is 0.2mm thick at 9H Durability with a 2.5D curve to fit perfectly.</p>
+<p style="font-size: 14px; font-weight: 400;">They have an oleophobic coating to make them oil-resistant and prevent fingerprints to ensure perfect image clarity and touch sensitivity.</p>
+<p style="font-size: 14px; font-weight: 400;">The 0.2mm thickness and flexibility makes them very easy to apply.</p>
+<table style="font-size: 14px; font-weight: 400; height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 315.2px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 347.2px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Tempered Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 315.2px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible With</strong></span></td>
+<td style="width: 347.2px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad</span></td>
+</tr>
+</tbody>
+</table>
+<section>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<p> </p>
+</div>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1538</s:tag>
+    <s:tag>A1670</s:tag>
+    <s:tag>A1673</s:tag>
+    <s:tag>A1701</s:tag>
+    <s:tag>A2013</s:tag>
+    <s:tag>A2014</s:tag>
+    <s:tag>A2126</s:tag>
+    <s:tag>A2232</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad 2</s:tag>
+    <s:tag>Apple iPad mini 1</s:tag>
+    <s:tag>Apple iPad mini 2</s:tag>
+    <s:tag>Apple iPad mini 3</s:tag>
+    <s:tag>iPad 6</s:tag>
+    <s:tag>iPad 9.7</s:tag>
+    <s:tag>iPad Air</s:tag>
+    <s:tag>iPad Pro</s:tag>
+    <s:tag>iPad Pro 10.5</s:tag>
+    <s:tag>iPad Pro 11</s:tag>
+    <s:tag>iPad Pro 12.9</s:tag>
+    <s:tag>iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad 9.7</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Mini</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Pro 10.5</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Pro 11</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Pro 12.9 (2015-2017)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad 10.2</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad Pro 12.9 2018 and up (No home button)</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR14712</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/4473504399465</id>
+      <title>iPad 2</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR14849</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/4183821844585</id>
+    <published>2019-10-06T21:49:07-04:00</published>
+    <updated>2019-10-06T21:49:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-12-9-2nd-gen-battery"/>
+    <title>Replacement Battery Compatible With iPad Pro 12.9 (2nd Gen)</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-12-9-quot-2nd-gen-battery-used-0-jpg.jpg?v=1616602104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a dead or dying battery in a 2nd generation 12.9 inch iPad Pro tablet.</p>
+<p>Compatible models : A1821, A1670, A1671</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1670</s:tag>
+    <s:tag>A1671</s:tag>
+    <s:tag>A1821</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>iPad</s:tag>
+    <s:tag>iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/4183821844585</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku>UNLKR13172</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641243861097</id>
+    <published>2019-07-28T14:37:32-04:00</published>
+    <updated>2019-07-28T14:37:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-12-9-2nd-gen-adhesive-strips"/>
+    <title>iPad Pro 12.9 (2nd Gen) Adhesive Strips</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-12-9-quot-2nd-gen-adhesive-strips-0-jpg.jpg?v=1571611358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These strips are custom cut specifically for a 2nd generation 12.9 inch model iPad Pro.Individual pieces fit precisely around important components and provide a sturdy closure.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1670</s:tag>
+    <s:tag>A1671</s:tag>
+    <s:tag>A1821</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>iPad Pro 12.9 (2017)</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641243861097</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13174</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641243467881</id>
+    <published>2019-07-28T14:36:29-04:00</published>
+    <updated>2019-07-28T14:36:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-12-9-2nd-gen-lcd-and-digitizer"/>
+    <title>LCD and Digitizer Assembly With Daughterboard For iPad Pro 12.9 (2nd Gen)</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad-pro-12-9-quot-2nd-gen-lcd-and-digitizer-white-2-jpg.jpg?v=1616167888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a iPad Pro 12.9 2nd Gen screen replacement? If you dropped your Apple iPad Pro 12.9 and broke the front glass it can be repaired!</p>
+<p>You can replace your broken Apple iPad Pro 12.9 screen using our high-quality replacement part. Don't hesitate to contact our support team for any questions or concerns.</p>
+<p>For customers who demand the <strong>same standard as original repair parts</strong>, Our parts have you covered.</p>
+<ul>
+<li>LCD &amp; Digitizer Assembly</li>
+<li>Touch Digitizer and IC</li>
+<li>Glass Lens</li>
+<li>Backlight</li>
+<li>Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement iPad Pro 12.9 LCD Screens and Digitizers come with a lifetime warranty, as the other LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad Pro 12.9 2nd Gen A1670 / A1671</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;">
+<span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Scree</strong></span><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">n Type</strong>
+</td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">IPS LCD capacitive touchscreen, 16M colors</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1670</s:tag>
+    <s:tag>A1671</s:tag>
+    <s:tag>A1821</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>iPad</s:tag>
+    <s:tag>iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>LCD Screen and Digitizer</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641243467881</id>
+      <title>Black</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku>UNLKR13168</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641243467881</id>
+      <title>White</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku>UNLKR13169</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3615494504553</id>
+    <published>2019-07-09T16:45:48-04:00</published>
+    <updated>2019-07-09T16:45:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/ipad-pro-129-lcd-screen-and-digitizer-assembly-1st-gen"/>
+    <title>iPad Pro 12.9 LCD Screen and Digitizer Assembly (1st Gen)</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/ipad_pro_12.9_lcd_screen_and_digitizer_front_panel_with_glass_replacement_part_black.jpg?v=1591646158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            289.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="text-align: justify;">For iPad Pro 12.9 LCD Screen and Digitizer. For customers who demand the <strong>same standard as original repair parts</strong>, the iPad parts has you covered. The Full assembly is offered to you for a <strong>faster &amp; easier iPad repair.</strong> You won’t need to <strong>transfer the old broken LCD</strong> display because it is already preinstalled on this part. </p>
+<p dir="ltr" style="text-align: justify;">This assembly comes with the daughterboard pre-installed so there is no soldering required to perform this repair.</p>
+<p dir="ltr" style="text-align: justify;"><strong style="text-align: start;">Notice : Only the original home button assembly will support Touch ID on your device.</strong></p>
+<ul>
+<li>Daughterboard Pre-installed </li>
+<li>LCD &amp; Digitizer</li>
+<li>Touch Digitizer and IC</li>
+<li>Backlight</li>
+<li>Foam Connector Pads</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3 dir="ltr">Lifetime Warranty</h3>
+<p dir="ltr" style="text-align: justify;">This replacement iPad Pro 12.9" LCD Screen and Digitizer Assembly comes with lifetime warranty, as our other iPad LCD Repair Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">iPad Pro 12.9"</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1584 / A1652</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 507.333px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1584</s:tag>
+    <s:tag>A1652</s:tag>
+    <s:tag>A1670</s:tag>
+    <s:tag>A1671</s:tag>
+    <s:tag>A1821</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>iPad</s:tag>
+    <s:tag>iPad Pro 12.9</s:tag>
+    <s:tag>iPad Pro 12.9 (2017)</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3615494504553</id>
+      <title>Black</title>
+      <s:price currency="CAD">289.99</s:price>
+      <s:sku>UNLKR11966</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3615494504553</id>
+      <title>White</title>
+      <s:price currency="CAD">289.99</s:price>
+      <s:sku>UNLKR11967</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

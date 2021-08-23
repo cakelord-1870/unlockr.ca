@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/lg-v20-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T15:20:34-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641285705833</id>
+    <published>2019-07-28T15:20:34-04:00</published>
+    <updated>2019-07-28T15:20:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-v20-lcd-and-digitizer"/>
+    <title>LG V20 LCD and Digitizer with Frame</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-v20-lcd-and-digitizer-0-jpg_bca9403f-d903-4753-83d8-0c9d63344bd6.jpg?v=1605122105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a cracked or malfunctioning LCD screen assembly with Frame for an LG V20 smartphone.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digitizer</s:tag>
+    <s:tag>F800K</s:tag>
+    <s:tag>F800L</s:tag>
+    <s:tag>F800S</s:tag>
+    <s:tag>H910</s:tag>
+    <s:tag>H910PR</s:tag>
+    <s:tag>H915</s:tag>
+    <s:tag>H918</s:tag>
+    <s:tag>H990</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>LCD Screen and Digitizer</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG V20</s:tag>
+    <s:tag>LS997</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen</s:tag>
+    <s:tag>US996</s:tag>
+    <s:tag>V20</s:tag>
+    <s:tag>V20 H918</s:tag>
+    <s:tag>VS995</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641285705833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>UNLKR13415</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641284853865</id>
+    <published>2019-07-28T15:20:18-04:00</published>
+    <updated>2019-07-28T15:20:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-v20-rear-lens-cover"/>
+    <title>LG V20 Rear Lens Cover</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-v20-rear-lens-cover-black-0-jpg.jpg?v=1570415281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This part includes only the rear facing camera lens cover and its adhesive.  The lens cover is a clear plastic. This part does not include any glass.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>F800K</s:tag>
+    <s:tag>F800L</s:tag>
+    <s:tag>F800S</s:tag>
+    <s:tag>H910</s:tag>
+    <s:tag>H910PR</s:tag>
+    <s:tag>H915</s:tag>
+    <s:tag>H918</s:tag>
+    <s:tag>H990</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG V20</s:tag>
+    <s:tag>LS997</s:tag>
+    <s:tag>US996</s:tag>
+    <s:tag>V20</s:tag>
+    <s:tag>VS995</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641284853865</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641284853865</id>
+      <title>White</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641284657257</id>
+    <published>2019-07-28T15:20:05-04:00</published>
+    <updated>2019-07-28T15:20:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lg-v20-replacement-battery"/>
+    <title>LG V20 Replacement Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/lg-v20-replacement-battery-0-jpg.jpg?v=1571613897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a dead or damaged BL-44E1F battery in an LG V20 smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>F800K</s:tag>
+    <s:tag>F800L</s:tag>
+    <s:tag>F800S</s:tag>
+    <s:tag>H910</s:tag>
+    <s:tag>H910PR</s:tag>
+    <s:tag>H915</s:tag>
+    <s:tag>H918</s:tag>
+    <s:tag>H990</s:tag>
+    <s:tag>LG</s:tag>
+    <s:tag>LG V20</s:tag>
+    <s:tag>LS997</s:tag>
+    <s:tag>OEM</s:tag>
+    <s:tag>US996</s:tag>
+    <s:tag>V20</s:tag>
+    <s:tag>V20 H918</s:tag>
+    <s:tag>VS995</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641284657257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

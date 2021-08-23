@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/google-pixel-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2019-07-28T15:01:24-04:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/3641272336489</id>
+    <published>2019-07-28T15:01:24-04:00</published>
+    <updated>2019-07-28T15:01:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-fingerprint-sensor"/>
+    <title>Google Pixel Fingerprint Sensor</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-fingerprint-sensor-black-new-0-jpg.jpg?v=1571612795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the fingerprint sensor for a Google Pixel smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641272336489</id>
+      <title>Black</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>UNLKR13315</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641272336489</id>
+      <title>White</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>UNLKR13316</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641272336489</id>
+      <title>Blue</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>UNLKR13317</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641272041577</id>
+    <published>2019-07-28T15:01:10-04:00</published>
+    <updated>2019-07-28T15:01:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-pixel-xl-rear-camera"/>
+    <title>Google Pixel/Pixel XL Rear Camera</title>
+    <s:type>Other Parts</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-pixel-xl-rear-camera-0-jpg.jpg?v=1571612777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Parts<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the rear-facing 12.3 MP camera for a Google Pixel or Pixel XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>G-2PW2100</s:tag>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Google Pixel XL</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:tag>Pixel XL</s:tag>
+    <s:tag>Rear Camera</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641272041577</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>UNLKR13314</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641271910505</id>
+    <published>2019-07-28T15:00:55-04:00</published>
+    <updated>2019-07-28T15:00:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-pixel-xl-microphone-board"/>
+    <title>Google Pixel/Pixel XL Microphones</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-pixel-xl-microphone-board-0-jpg_11e6fa26-4356-43b7-b506-c5755b9367a2.jpg?v=1607981669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a damaged or malfunctioning microphone board in a Google Pixel or Pixel XL smartphone and fix problems with call audio.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G-2PW2100</s:tag>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Google Pixel XL</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:tag>Pixel XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641271910505</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13312</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641271713897</id>
+    <published>2019-07-28T15:00:42-04:00</published>
+    <updated>2019-07-28T15:00:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-charging-assembly"/>
+    <title>Google Pixel Charging Assembly</title>
+    <s:type>Charging Port</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/no-image-0-jpg.jpg?v=1571612748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Charging Port<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or corroded USB port and charging daughter board for a Google Pixel smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641271713897</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13310</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641271255145</id>
+    <published>2019-07-28T15:00:13-04:00</published>
+    <updated>2019-07-28T15:00:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-pixel-xl-front-camera"/>
+    <title>Google Pixel/Pixel XL Front Camera</title>
+    <s:type>Front Camera</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-pixel-xl-front-camera-0-jpg.jpg?v=1571612701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Front Camera<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a damaged or malfunctioning 8 MP front-facing camera in a Google Pixel or Pixel XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera</s:tag>
+    <s:tag>Front Camera</s:tag>
+    <s:tag>G-2PW2100</s:tag>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Google Pixel XL</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:tag>Pixel XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641271255145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13307</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641271025769</id>
+    <published>2019-07-28T14:59:59-04:00</published>
+    <updated>2019-07-28T14:59:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-power-button-board"/>
+    <title>Google Pixel Power Button Board</title>
+    <s:type>Power Button</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-power-button-board-0-jpg.jpg?v=1571612687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Power Button<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the power button board assembly in a Google Pixel smartphone to fix issues with the internal power button switch.  The external power button cover is not included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641271025769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>UNLKR13305</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641270370409</id>
+    <published>2019-07-28T14:59:36-04:00</published>
+    <updated>2019-07-28T14:59:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-pixel-xl-sim-card-tray"/>
+    <title>Google Pixel/Pixel XL SIM Card Tray</title>
+    <s:type>SIM Card Tray</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-pixel-xl-sim-card-tray-black-new-0-jpg.jpg?v=1571612662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>SIM Card Tray<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the tray holding the nano SIM card in a Google Pixel or Pixel XL smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G-2PW2100</s:tag>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Google Pixel XL</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:tag>Pixel XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641270370409</id>
+      <title>Black</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13302</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641270370409</id>
+      <title>Silver</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13303</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641270370409</id>
+      <title>Blue</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13304</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641270141033</id>
+    <published>2019-07-28T14:59:21-04:00</published>
+    <updated>2019-07-28T14:59:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-pixel-xl-earpiece-speaker"/>
+    <title>Google Pixel/Pixel XL Earpiece Speaker</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-pixel-xl-earpiece-speaker-0-jpg.jpg?v=1571612643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the earpiece speaker for the Google Nexus Pixel  and the Pixel XL smartphones.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G-2PW2100</s:tag>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Google Pixel XL</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:tag>Pixel XL</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641270141033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>UNLKR13298</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641269747817</id>
+    <published>2019-07-28T14:59:02-04:00</published>
+    <updated>2019-07-28T14:59:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-vibration-motor"/>
+    <title>Google Pixel Vibration Motor</title>
+    <s:type>Other Part</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-vibration-motor-0-jpg.jpg?v=1571612629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Other Part<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace a malfunctioning vibrator motor for the Google Pixel smartphone.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641269747817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>UNLKR13296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641269452905</id>
+    <published>2019-07-28T14:58:45-04:00</published>
+    <updated>2019-07-28T14:58:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-rear-case"/>
+    <title>Google Pixel Rear Back Cover</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-rear-case-a-stock-white-0-jpg.jpg?v=1591122168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a scratched or cracked Google Pixel (U.S. model G-2PW4100) rear case to restore the original external appearance of your device.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641269452905</id>
+      <title>White</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>UNLKR13294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641269452905</id>
+      <title>Black</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>UNLKR13295</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641269256297</id>
+    <published>2019-07-28T14:58:32-04:00</published>
+    <updated>2019-07-28T14:58:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-earpiece-speaker-dust-mesh"/>
+    <title>Google Pixel Earpiece Speaker Dust Mesh</title>
+    <s:type>Earpiece Speaker</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-earpiece-speaker-dust-mesh-0-jpg.jpg?v=1571612591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Earpiece Speaker<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>Replace the fine mesh screen that covers the earpiece speaker opening in a Google Pixel smartphone.Adhesive is included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641269256297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR13292</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641268830313</id>
+    <published>2019-07-28T14:58:17-04:00</published>
+    <updated>2019-07-28T14:58:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-rear-glass-panel"/>
+    <title>Google Pixel Complete Rear Glass Cover For Google Pixel</title>
+    <s:type>Back Cover</s:type>
+    <s:vendor>Jerry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-rear-glass-panel-black-0-jpg.jpg?v=1585084400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jerry<br>
+        <strong>Type: </strong>Back Cover<br>
+        <strong>Price: </strong>
+            7.99 - 19.99
+            <a href="https://unlockr.ca/products/google-pixel-rear-glass-panel">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace a cracked or scratched glass panel of the back of a Google Pixel smartphone.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641268830313</id>
+      <title>Blue</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>UNLKR13291</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641268830313</id>
+      <title>Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>UNLKR13290</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3641268502633</id>
+    <published>2019-07-28T14:58:03-04:00</published>
+    <updated>2019-07-28T14:58:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-display-adhesive"/>
+    <title>Google Pixel Display Adhesive</title>
+    <s:type>Display Adhesive</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-display-adhesive-0-jpg.jpg?v=1571612558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Display Adhesive<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Important Notice: This item can take 5-10 days to fulfill. </strong></p><br>This custom cut adhesive films secure the front glass digitizer screen to the midframe assembly of a Google Pixel smartphone.Complete your replacement of the front glass with new adhesive.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>Display Adhesive</s:tag>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3641268502633</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>UNLKR13289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3488860176489</id>
+    <published>2019-04-15T23:27:12-04:00</published>
+    <updated>2019-04-15T23:27:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-1-battery"/>
+    <title>Google Pixel 1 Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-battery-replacement-1.png?v=1571601501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have a Google Pixel 1 that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your Google Pixel 1 </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> ? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your cell phone only works when the battery is plugged in ?</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new Google Pixel 1 replacement battery.</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The old battery in your cell phone can outgrow inside and damage the internals.</span></p>
+<p>The OEM Batteries for Google Pixel 1 are <strong>brand-new batteries</strong> coming directly from our manufacturer. They are custom built for customers who demand the <strong>same quality as original Google Pixel 1 batteries. </strong></p>
+<ul>
+<li>Verified 95% Capacity</li>
+<li>Zero cycle count</li>
+<li>Tested under extreme weather</li>
+<li>No wrapping for a better fit</li>
+<li>High output current capacity</li>
+<li>1 Year Warranty</li>
+</ul>
+<h3>Compatibility</h3>
+<p>This battery is only compatible with a Google Pixel 1.</p>
+<h3>Warranty</h3>
+<p>The Replacement Google Pixel 1 Battery comes with 1 year warranty, as the other Google Battery Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Google Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Google Pixel 1 (5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-size: 12pt;">G-2PW4100</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Google</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battery</s:tag>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel 1</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3488860176489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>UNLKR11884</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/1301564227689</id>
+    <published>2018-06-05T16:19:04-04:00</published>
+    <updated>2018-06-05T16:19:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/google-pixel-lcd-screen-and-digitizer"/>
+    <title>Google Pixel LCD Screen and Digitizer</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/google-pixel-display-assembly-black-2.png?v=1620490110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The OEM Screens for Google Pixel LCD Screens and Digitizers includes <strong>components from original screens.</strong> For customers who demand the <strong>same standard as original repair parts</strong>, the OEM Google parts has you covered.</p>
+<ul>
+<li>OEM AMOLED LCD &amp; Digitizer Assembly</li>
+<li>OEM Touch Digitizer and IC</li>
+<li>OEM Glass Lens</li>
+<li>OEM Backlight</li>
+<li>OEM Flex Cable</li>
+<li>Lifetime Warranty</li>
+</ul>
+<h3><strong>Lifetime Warranty</strong></h3>
+<p>The Replacement Google Pixel LCD Screens and Digitizers come with lifetime warranty, as the other LG LCD Replacement Parts.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Google LCD Screens and Digitizer</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Pixel 1 (5")</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">G-2PW4100</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446px; text-align: center; height: 10px;"><strong style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Manufacturer</strong></td>
+<td style="width: 508.667px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.667px; text-align: center; height: 20px;"><span style="font-size: 12pt;">Lifetime Warranty</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>G-2PW4100</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Google Pixel</s:tag>
+    <s:tag>Google Pixel 1</s:tag>
+    <s:tag>Google Pixel 1 Digitizer</s:tag>
+    <s:tag>Google Pixel 1 G-2PW4100</s:tag>
+    <s:tag>Google Pixel 1 LCD</s:tag>
+    <s:tag>Google Pixel 1 LCD Screen and Digitizer</s:tag>
+    <s:tag>Google Pixel 1 Screen</s:tag>
+    <s:tag>Google Pixel Digitizer</s:tag>
+    <s:tag>Google Pixel G-2PW4100</s:tag>
+    <s:tag>Google Pixel LCD</s:tag>
+    <s:tag>Google Pixel LCD Screen and Digitizer</s:tag>
+    <s:tag>Google Pixel Screen</s:tag>
+    <s:tag>Pixel</s:tag>
+    <s:tag>Pixel 1</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/1301564227689</id>
+      <title>Black</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>UNLKR11524</s:sku>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+</feed>

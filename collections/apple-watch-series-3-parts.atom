@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unlockr.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unlockr.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unlockr.ca/collections/apple-watch-series-3-parts.atom"/>
+  <title>Unlockr Parts</title>
+  <updated>2020-12-03T15:44:32-05:00</updated>
+  <author>
+    <name>Unlockr Parts</name>
+  </author>
+  <entry>
+    <id>https://unlockr.ca/products/6110321934510</id>
+    <published>2020-12-03T15:44:32-05:00</published>
+    <updated>2020-12-03T15:44:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/tempered-glass-screen-protector-for-watch-series-2-3"/>
+    <title>UV Tempered Glass Screen Protector For Watch Series</title>
+    <s:type>Tempered Glass</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/1588015079Tempered_glass_screen_protector_for_apple_watch_44mm-42mm.jpg?v=1607028277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>Tempered Glass<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-size: 14px; font-weight: 400;">Add an extra layer of protection on your screen of to protect it from scratches and cracking. It is 0.2mm thick at 9H Durability with a 2.5D curve to fit perfectly.</p>
+<p style="font-size: 14px; font-weight: 400;">They have an oleophobic coating to make them oil-resistant and prevent fingerprints to ensure perfect image clarity and touch sensitivity.</p>
+<p style="font-size: 14px; font-weight: 400;">The 0.2mm thickness and flexibility makes them very easy to apply.</p>
+<p style="font-size: 14px; font-weight: 400;"> </p>
+<table style="font-size: 14px; font-weight: 400; height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 315.2px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 347.2px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Watch Tempered Glass</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 315.2px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible With</strong></span></td>
+<td style="width: 347.2px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Apple Watch Series </span></td>
+</tr>
+</tbody>
+</table>
+<section>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<p> </p>
+</div>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1758</s:tag>
+    <s:tag>A1802</s:tag>
+    <s:tag>A1860</s:tag>
+    <s:tag>A1975</s:tag>
+    <s:tag>A2156</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:tag>Watch Series 3</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/6110321934510</id>
+      <title>40MM</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14605</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6110321934510</id>
+      <title>42MM</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14475</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6110321934510</id>
+      <title>44MM</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14477</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/6110321934510</id>
+      <title>38MM</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>UNLKR14983</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3690158391401</id>
+    <published>2019-08-29T00:09:03-04:00</published>
+    <updated>2019-08-29T00:09:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/apple-watch-series-3-battery"/>
+    <title>Apple Watch Series 3 Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Chuck Battery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/apple_20watch_20replacement_20part_20battery_20new-2_b752bbc9-bb8b-4613-ad54-2b609a85981a.jpg?v=1619727024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck Battery<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have a Apple Watch Series 3 that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">no longer holds a charge</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> the way it did when it was new? </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your Apple Watch Series 3 </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">shuts down unexpectedly?</span> </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Does your cell phone only work when the battery is plugged in?</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt;"><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Those are common symptoms that </span><span style="color: #222222; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">a defective battery</span><span style="color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> will have. </span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is time to get a new Apple Watch Series 3 replacement battery.</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif; color: #222222; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The old battery in your cell phone can outgrow inside and damage the internals.</span></p>
+<p>The Batteries for Apple Watch Series 3 are <strong>brand-new batteries</strong> coming directly from our manufacturer. They are custom-built for customers who demand the <strong>same quality as original </strong><strong>batteries. </strong></p>
+<ul>
+<li>Zero cycle count</li>
+<li>Tested under extreme weather</li>
+<li>No wrapping for a better fit</li>
+<li>High output current capacity</li>
+<li>1 Year Warranty</li>
+</ul>
+<h3>Compatibility</h3>
+<p>This battery is only compatible with a Apple Watch Series 3.</p>
+<h3>Warranty</h3>
+<p>The Replacement Apple Watch Series 3 Battery comes with a 1-year warranty, as our other battery replacement parts.</p>
+<table style="height: 84px; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Watch Battery</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Apple Watch Series 3</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Battery Type</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 18px;"> </td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 445.6px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Device Manufacturer</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Unlockr</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 445.6px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 508.8px; text-align: center; height: 20px;"><span style="font-size: 12pt;"><span style="font-family: helvetica, arial, sans-serif;">1 Year Warranty</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1860</s:tag>
+    <s:tag>A1861</s:tag>
+    <s:tag>A1889</s:tag>
+    <s:tag>A1890</s:tag>
+    <s:tag>A1891</s:tag>
+    <s:tag>A1892</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple Watch</s:tag>
+    <s:tag>Apple Watch Series 3</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>Watch Series 3</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3690158391401</id>
+      <title>38mm</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>UNLKR14133</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3690158391401</id>
+      <title>42mm Cellular</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>UNLKR14618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3690158391401</id>
+      <title>42mm GPS</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>UNLKR14134</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unlockr.ca/products/3643041284201</id>
+    <published>2019-07-29T20:59:53-04:00</published>
+    <updated>2019-07-29T20:59:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://unlockr.ca/products/lcd-screen-assembly-for-apple-watch-series-3-gps"/>
+    <title>LCD Screen Assembly Compatible for Apple Watch Series 3</title>
+    <s:type>LCD</s:type>
+    <s:vendor>Chuck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2267/8387/products/for-apple-watch-3nd-gen-lcd-screen-and-digitizer-assembly-replacement-part_gps-version_series_3_38mm_8d13a23a-d21c-42fc-9336-dc1c11695899.jpg?v=1607546089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chuck<br>
+        <strong>Type: </strong>LCD<br>
+        <strong>Price: </strong>
+            169.99 - 179.99
+            <a href="https://unlockr.ca/products/lcd-screen-assembly-for-apple-watch-series-3-gps">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The screen on your 3rd generation Apple Watch is cracked, scratched or has become non-responsive? This brand new watch replacement screen is what you need. Purchase this high-quality Series 3 replacement screen with the recommended repair tools and fix your Apple watch quickly. This screen assembly is compatible with Series 3 GPS apple watch.</p>
+<p><strong><span style="text-align: justify;">Includes the Force touch Sensor flex cable gasket</span></strong></p>
+<p dir="ltr" style="text-align: justify;"><span style="text-align: start;">For customers who demand the </span><strong style="text-align: start;">same standard as original repair parts</strong><span style="text-align: start;">, this replacement part has you covered.</span></p>
+<p dir="ltr" style="text-align: justify;">Includes the Force touch Sensor flex cable</p>
+<h3 dir="ltr">Lifetime Warranty</h3>
+<p dir="ltr" style="text-align: justify;">This replacement LCD for Series 3 Apple Watch comes with a lifetime warranty. Your iWatch replacement screen assembly will be shipped from Canada on the same business day it is purchased. Don't hesitate to contact our support team if you have any questions or concerns.</p>
+<table style="height: 84px; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Part Type</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Watch LCD Screen Assembly</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Compatible Model</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Series 3 38mm / 42mm GPS</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Model Number</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 18px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">A1860 / A1859</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 446.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Manufacturer</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 10px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">Unlockr Parts</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 446.91px; text-align: center; height: 20px;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;"><strong>Warranty</strong></span></td>
+<td style="width: 506.91px; text-align: center; height: 20px;"><strong><span style="font-size: 12pt;">Lifetime Warranty</span></strong></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A1860</s:tag>
+    <s:tag>A1861</s:tag>
+    <s:tag>A1889</s:tag>
+    <s:tag>A1890</s:tag>
+    <s:tag>A1891</s:tag>
+    <s:tag>A1892</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple Watch</s:tag>
+    <s:tag>LCD</s:tag>
+    <s:tag>Series 3 GPS 38mm</s:tag>
+    <s:tag>Series 3 GPS 42mm</s:tag>
+    <s:tag>Watch Series 3</s:tag>
+    <s:variant>
+      <id>https://unlockr.ca/products/3643041284201</id>
+      <title>38MM</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>UNLKR14061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3643041284201</id>
+      <title>42MM</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>UNLKR14063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unlockr.ca/products/3643041284201</id>
+      <title>42MM GPS+LTE</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>UNLKR14199</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
